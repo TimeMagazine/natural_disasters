@@ -4,7 +4,7 @@
 		base = require('d3-base'),
 		topojson = require("topojson"),
 		typeahead = require("typeahead-fix"),
-		social = require("social-buttons");
+		social = require("./lib/social-buttons");
 
 	// Templates 
 	var choices = require("./src/choices.html"),
@@ -20,13 +20,10 @@
 	var interactive = time('natural_disasters');
 
 	var fb = social.facebook(53177223193);
-    var tw = social.twitter();
+	var tw = social.twitter();
 
 	var countiesGeo = topojson.feature(geo, geo.objects.counties).features;
-
-	var safest = ['30097','16087','30107','41055','51595','30027','30051','35029','35017','41045','46107','30041','30093','16027','30037'];
-	var cuidado = ['34029','6059','34025','6037','36019,','34005','6073','36033,','6065','6071','34001','50007','50013','34007']; //34009
-    
+	
 	var newCounties = d3.entries(counties);
 	var current = {
 		fips: '',
@@ -35,7 +32,6 @@
 	};
 
 	var formatValue = d3.format(".3s");
-	var formatTenths = d3.format('.1f');
 	// Stylesheet
 	require("./src/styles.less");
 	// HTML
@@ -94,8 +90,8 @@
 	    .scale(width)
 	    .translate([width / 2, height / 2]);
 
-		var path = d3.geo.path()
-	    .projection(projection);
+	var path = d3.geo.path()
+		.projection(projection);
 
 	var svg = d3.select("#map").append("svg")
 	    .attr("width", width)
@@ -112,7 +108,6 @@
 	var g = svg.append("g")
 
 	function ready() {	
-	
 		g.append("g")
 			.attr("id", "counties")
 			.selectAll("path")
@@ -140,14 +135,9 @@
 			.style('fill','none')
 			.style('stroke-width',1.8);
 	}
-
 	ready();
 
 	function clicked(d) {
-		// $('#drawer').animate({
-  //   	    scrollTop: $("#drawer").offset().top - 180
-  //   	}, 1000);
-
 		//update hash
 		if (d != undefined){window.location.hash = d.id;}
 	  	var x, y, k;
@@ -160,45 +150,43 @@
 	  	  	y = centroid[1];
 	  	  	k = 9;
 	  	  	centered = d;
-	
 			var events = require("./data/raw/events.json");
 
 	  	  	// d3.json("http://content.time.com/time/wp/interactives/apps/natural_disasters/states/"+counties[d.id]['fips']+".json", function(error, json) {	
 	  	  	d3.json("data/processed/states/"+counties[d.id]['fips']+".json", function(error, json) {
-			 	if (error) return console.warn(error);
-			   	$('.details').empty();
-			   	
-			  	var countyFip = counties[d.id]['geoid'].substring(2,5);
-			  	var county = json[countyFip];
-			  	var countySummary = counties[d.id];
-			  	var percent = (counties[d.id].rank /3114) * 100;
-			  	percent = parseInt(percent) - 2.2 + '%'
-			  	
-			  	current.county = counties[d.id].name;
-			  	current.fips = counties[d.id].fips;
-			  	current.rank =  time.commafy(counties[d.id].rank);
-			  	counties[d.id].rank = counties[d.id].rank;
-			  	counties[d.id].rankFormat = time.commafy(counties[d.id].rank);
+				if (error) return console.warn(error);
+					$('.details').empty();
+					
+				var countyFip = counties[d.id]['geoid'].substring(2,5),
+					county = json[countyFip],
+					countySummary = counties[d.id],
+					percent = (counties[d.id].rank /3114) * 100;
+				percent = parseInt(percent) - 2.2 + '%'
+				current.county = counties[d.id].name;
+				current.fips = counties[d.id].fips;
+				current.rank =  time.commafy(counties[d.id].rank);
+				counties[d.id].rank = counties[d.id].rank;
+				counties[d.id].rankFormat = time.commafy(counties[d.id].rank);
+				countySummary.fipsFull = statesRef[countySummary.fips];
+				
+				d3.select('.details').html(function(){
+					return countyTemplate(countySummary);
+				});
+				d3.select('.top-summary .downarrow').style('left', percent);
 
-			  	countySummary.fipsFull = statesRef[countySummary.fips];
-			  	
-			  	d3.select('.details').html(function(){
-			  		return countyTemplate(countySummary);
-			  	});
-			  	d3.select('.top-summary .downarrow').style('left', percent);
-			  	for (i = 0; i < events.length; i++) { 
-			  		
-			  		if (county[events[i]['code']].length > 0){
-			  			$('.details').append('<h3>'+events[i]['name']+'</h3><table class='+events[i]['code']+'>'
-			  			+'<th>Date</th><th>Deaths</th><th>Injuries</th><th>Property Damage</th><th>Crop Damage</th></table')		  				
+				for (i = 0; i < events.length; i++) { 
 
-			  			county[events[i]['code']].forEach(function(disaster){
-			  				$('table.'+events[i]['code']).append(function(){
-			  					return tableRow(disaster);
-			  				});
-			  			});
-			  		}
-			  	}
+					if (county[events[i]['code']].length > 0){
+						$('.details').append('<h3>'+events[i]['name']+'</h3><table class='+events[i]['code']+'>'
+						+'<th>Date</th><th>Deaths</th><th>Injuries</th><th>Property Damage</th><th>Crop Damage</th></table')		  				
+
+						county[events[i]['code']].forEach(function(disaster){
+							$('table.'+events[i]['code']).append(function(){
+								return tableRow(disaster);
+							});
+						});
+					}
+				}
 
 				$("#tab").click(function(e) {
 					$('#drawer').removeClass('active');
@@ -206,18 +194,18 @@
 				$("#close").click(function(e) {
 					$('#drawer').removeClass('active');
 				});
-			  	
+				
 				$("#twshare").unbind("click");        
-			    $("#fbshare").unbind("click");        
+				 $("#fbshare").unbind("click");        
 
-			    $("#twshare").click(function() {
+				 $("#twshare").click(function() {
 					tw.share({
 						link: window.location,
 						message: current.county + ", " + current.fips + " ranks " + current.rank+ " out of 3,114 in safety from natural disasters. See where your county ranks."
 					});
 				});
 
-			    $("#fbshare").click(function() {
+				 $("#fbshare").click(function() {
 					fb.share({
 						message: current.county + ", " + current.fips + " ranks " + current.rank+ " out of 3,114 in safety from natural disasters. See where your county ranks.",
 						description: "Safest to most dangerous U.S. counties from natural disasters.",
@@ -252,7 +240,6 @@
 			.duration(750)
 			.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
 			.style("stroke-width", 1.5 / k + "px");
-
 	}	
 	
 	$("#choices li a").click(function(e) {	
@@ -279,30 +266,23 @@
 		$("span.update-title").text(typeText);
 	});
 	
-	
 	d3.select(self.frameElement).style("height", height + "px");
-	
 	d3.select(window).on('resize', resize);
 	
 	function resize() {
-	    // adjust things when the window size changes
 	    width = interactive.width();
 	    height = width < 500 ? 300 : (width/1.8);
-	
 	    // update projection
 	    projection
 	        .translate([width / 2, height / 2])
 	        .scale(width);
-	
 	    // resize the map container
 	    svg
 	        .style('width', width + 'px')
 	        .style('height', height + 'px');
-	
 	    // resize the map
 	    svg.select('#state-borders').attr('d', path);
 	    svg.selectAll('.county').attr('d', path);
-
 	    $('#drawer').css('height', height + 2);
 	}
 	
