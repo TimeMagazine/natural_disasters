@@ -46,7 +46,7 @@
 	var rateById = d3.map();
 	
 	var quantize = d3.scale.log()
-		 .domain([1,75]).range(['#FFFFEC','#FF4D1A'])
+		.domain([1,75]).range(['#FFFFEC','#FF4D1A'])
 		.interpolate(d3.interpolateRgb);
 	
 	function sort(type, second){
@@ -68,11 +68,9 @@
 			g.selectAll('.county').style("fill", '#fff')
 			g.selectAll('.county').style("fill", function(d) {return quantize(rateById.get(d.id)); })
 		}
-		
 	}
 	// First load
 	sort('neighborAllRaw', false)
-
 	setTimeout(checkHash, 900); 
 	
 	function checkHash(){

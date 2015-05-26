@@ -44,15 +44,6 @@ for (i = 0; i < stateAbbrev.length; i++) {
     states[stateAbbrev[i]] = {}
 }
 
-// Create index of National Weather Service zones so we can get lat lon for zones in NOAA data
-fs.readFile('raw/nws_zones.csv', 'utf8', function (err, data) {
-	d3.csv.parse(data, function(r){
-		zones[r['state']+r['zone']] = {
-			geo: [parseFloat(r['lat']),parseFloat(r['lon'])]
-		}
-	});
-});
-
 // Create object for every county
 fs.readFile('raw/counties.csv', 'utf8', function (err, data) {
 
@@ -417,7 +408,6 @@ function getData(type){
 					}
 
 					function sortNeighbors(c){
-						
 						var filtered = c.filter(compareRegions);
 						filtered.sort(function(a, b) { return a.value.neighborAll - b.value.neighborAll; })
 						filtered.forEach(function(c, i){
@@ -430,7 +420,6 @@ function getData(type){
 					}
 
 					function writeFiles(c){
-
 						fs.writeFileSync("processed/errors.json", JSON.stringify(errors, null, 2));
 						fs.writeFileSync("processed/county-index.json", JSON.stringify(countyIndex, null, 2));
 						fs.writeFileSync("processed/counties.json", JSON.stringify(counties, null, 2));
