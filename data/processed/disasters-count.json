@@ -1,0 +1,248 @@
+{
+  "earthquake": {
+    "count": 92,
+    "deaths": 287,
+    "dmg": null,
+    "inj": null
+  },
+  "Hurricane____Typhoon___": {
+    "count": 823,
+    "deaths": 92,
+    "dmg": 68693465110,
+    "inj": 232
+  },
+  "Cold__FWind_Chill": {
+    "count": 534,
+    "deaths": 194,
+    "dmg": 54974999.99999997,
+    "inj": 240
+  },
+  "Coastal_Flood": {
+    "count": 457,
+    "deaths": 45,
+    "dmg": 21646200860,
+    "inj": 10
+  },
+  "Avalanche": {
+    "count": 189,
+    "deaths": 154,
+    "dmg": 2561250,
+    "inj": 103
+  },
+  "Astronomical_Low_Tide": {
+    "count": 2,
+    "deaths": 0,
+    "dmg": 200000,
+    "inj": 22
+  },
+  "Dense_Fog": {
+    "count": 151,
+    "deaths": 47,
+    "dmg": 29339500,
+    "inj": 573
+  },
+  "Drought": {
+    "count": 1035,
+    "deaths": 0,
+    "dmg": 11318181420,
+    "inj": 0
+  },
+  "Dust_Devil": {
+    "count": 220,
+    "deaths": 8,
+    "dmg": 1997860,
+    "inj": 92
+  },
+  "Dust_Storm": {
+    "count": 105,
+    "deaths": 11,
+    "dmg": 14913000,
+    "inj": 209
+  },
+  "Excessive_Heat": {
+    "count": 154,
+    "deaths": 193,
+    "dmg": 446000,
+    "inj": 2551
+  },
+  "Extreme_Cold__FWind_Chill": {
+    "count": 131,
+    "deaths": 82,
+    "dmg": 176075000,
+    "inj": 13
+  },
+  "Flash_Flood": {
+    "count": 6845,
+    "deaths": 280,
+    "dmg": 5589543760,
+    "inj": 342
+  },
+  "Flood": {
+    "count": 6242,
+    "deaths": 161,
+    "dmg": 126174182860,
+    "inj": 172
+  },
+  "Freezing_Fog": {
+    "count": 16,
+    "deaths": 2,
+    "dmg": 2834000,
+    "inj": 1
+  },
+  "Funnel_Cloud": {
+    "count": 9,
+    "deaths": 0,
+    "dmg": 108100,
+    "inj": 1
+  },
+  "Hail": {
+    "count": 2605,
+    "deaths": 1,
+    "dmg": 1790653283,
+    "inj": 164
+  },
+  "Heat": {
+    "count": 898,
+    "deaths": 1182,
+    "dmg": 514939000,
+    "inj": 6346
+  },
+  "Heavy_Rain": {
+    "count": 946,
+    "deaths": 64,
+    "dmg": 909837110,
+    "inj": 218
+  },
+  "Heavy_Snow": {
+    "count": 1087,
+    "deaths": 28,
+    "dmg": 359357090.0000001,
+    "inj": 110
+  },
+  "High_Surf": {
+    "count": 195,
+    "deaths": 110,
+    "dmg": 219746000,
+    "inj": 226
+  },
+  "High_Wind": {
+    "count": 3774,
+    "deaths": 73,
+    "dmg": 5272318880,
+    "inj": 400
+  },
+  "Ice_Storm": {
+    "count": 2056,
+    "deaths": 72,
+    "dmg": 3097648670,
+    "inj": 279
+  },
+  "Lakeshore_Flood": {
+    "count": 14,
+    "deaths": 0,
+    "dmg": 14860000,
+    "inj": 0
+  },
+  "Landslide": {
+    "count": 76,
+    "deaths": 1,
+    "dmg": 75158000,
+    "inj": 9
+  },
+  "Lightning": {
+    "count": 10410,
+    "deaths": 587,
+    "dmg": 709091540,
+    "inj": 3848
+  },
+  "Rip_Current": {
+    "count": 571,
+    "deaths": 514,
+    "dmg": 1000,
+    "inj": 448
+  },
+  "Seiche": {
+    "count": 15,
+    "deaths": 0,
+    "dmg": 975000,
+    "inj": 0
+  },
+  "Sleet": {
+    "count": 4,
+    "deaths": 0,
+    "dmg": 46000,
+    "inj": 0
+  },
+  "Storm_Surge__FTide": {
+    "count": 419,
+    "deaths": 21,
+    "dmg": 53819358000,
+    "inj": 39
+  },
+  "Strong_Wind": {
+    "count": 7672,
+    "deaths": 87,
+    "dmg": 279130790,
+    "inj": 201
+  },
+  "Thunderstorm_Wind": {
+    "count": 10447,
+    "deaths": 89,
+    "dmg": 1268855557.1,
+    "inj": 1382
+  },
+  "Tornado": {
+    "count": 12841,
+    "deaths": 5304,
+    "dmg": 54805313190,
+    "inj": 81484
+  },
+  "Tropical_Depression": {
+    "count": 147,
+    "deaths": 1,
+    "dmg": 52453000,
+    "inj": 3
+  },
+  "Tropical_Storm": {
+    "count": 1177,
+    "deaths": 62,
+    "dmg": 8506516850,
+    "inj": 331
+  },
+  "Tsunami": {
+    "count": 13,
+    "deaths": 1,
+    "dmg": 67059000,
+    "inj": 0
+  },
+  "Volcanic_Ashfall": {
+    "count": 0,
+    "deaths": 0,
+    "dmg": 0,
+    "inj": 0
+  },
+  "Waterspout": {
+    "count": 14,
+    "deaths": 2,
+    "dmg": 502000,
+    "inj": 1
+  },
+  "Wildfire": {
+    "count": 1395,
+    "deaths": 99,
+    "dmg": 9521945780,
+    "inj": 1530
+  },
+  "Winter_Storm": {
+    "count": 1378,
+    "deaths": 56,
+    "dmg": 756700000,
+    "inj": 368
+  },
+  "Winter_Weather": {
+    "count": 1131,
+    "deaths": 51,
+    "dmg": 17890000,
+    "inj": 660
+  }
+}

@@ -1,0 +1,9665 @@
+{
+  "Autauga County, AL": {
+    "geoid": "01001"
+  },
+  "Baldwin County, AL": {
+    "geoid": "01003"
+  },
+  "Barbour County, AL": {
+    "geoid": "01005"
+  },
+  "Bibb County, AL": {
+    "geoid": "01007"
+  },
+  "Blount County, AL": {
+    "geoid": "01009"
+  },
+  "Bullock County, AL": {
+    "geoid": "01011"
+  },
+  "Butler County, AL": {
+    "geoid": "01013"
+  },
+  "Calhoun County, AL": {
+    "geoid": "01015"
+  },
+  "Chambers County, AL": {
+    "geoid": "01017"
+  },
+  "Cherokee County, AL": {
+    "geoid": "01019"
+  },
+  "Chilton County, AL": {
+    "geoid": "01021"
+  },
+  "Choctaw County, AL": {
+    "geoid": "01023"
+  },
+  "Clarke County, AL": {
+    "geoid": "01025"
+  },
+  "Clay County, AL": {
+    "geoid": "01027"
+  },
+  "Cleburne County, AL": {
+    "geoid": "01029"
+  },
+  "Coffee County, AL": {
+    "geoid": "01031"
+  },
+  "Colbert County, AL": {
+    "geoid": "01033"
+  },
+  "Conecuh County, AL": {
+    "geoid": "01035"
+  },
+  "Coosa County, AL": {
+    "geoid": "01037"
+  },
+  "Covington County, AL": {
+    "geoid": "01039"
+  },
+  "Crenshaw County, AL": {
+    "geoid": "01041"
+  },
+  "Cullman County, AL": {
+    "geoid": "01043"
+  },
+  "Dale County, AL": {
+    "geoid": "01045"
+  },
+  "Dallas County, AL": {
+    "geoid": "01047"
+  },
+  "DeKalb County, AL": {
+    "geoid": "01049"
+  },
+  "Elmore County, AL": {
+    "geoid": "01051"
+  },
+  "Escambia County, AL": {
+    "geoid": "01053"
+  },
+  "Etowah County, AL": {
+    "geoid": "01055"
+  },
+  "Fayette County, AL": {
+    "geoid": "01057"
+  },
+  "Franklin County, AL": {
+    "geoid": "01059"
+  },
+  "Geneva County, AL": {
+    "geoid": "01061"
+  },
+  "Greene County, AL": {
+    "geoid": "01063"
+  },
+  "Hale County, AL": {
+    "geoid": "01065"
+  },
+  "Henry County, AL": {
+    "geoid": "01067"
+  },
+  "Houston County, AL": {
+    "geoid": "01069"
+  },
+  "Jackson County, AL": {
+    "geoid": "01071"
+  },
+  "Jefferson County, AL": {
+    "geoid": "01073"
+  },
+  "Lamar County, AL": {
+    "geoid": "01075"
+  },
+  "Lauderdale County, AL": {
+    "geoid": "01077"
+  },
+  "Lawrence County, AL": {
+    "geoid": "01079"
+  },
+  "Lee County, AL": {
+    "geoid": "01081"
+  },
+  "Limestone County, AL": {
+    "geoid": "01083"
+  },
+  "Lowndes County, AL": {
+    "geoid": "01085"
+  },
+  "Macon County, AL": {
+    "geoid": "01087"
+  },
+  "Madison County, AL": {
+    "geoid": "01089"
+  },
+  "Marengo County, AL": {
+    "geoid": "01091"
+  },
+  "Marion County, AL": {
+    "geoid": "01093"
+  },
+  "Marshall County, AL": {
+    "geoid": "01095"
+  },
+  "Mobile County, AL": {
+    "geoid": "01097"
+  },
+  "Monroe County, AL": {
+    "geoid": "01099"
+  },
+  "Montgomery County, AL": {
+    "geoid": "01101"
+  },
+  "Morgan County, AL": {
+    "geoid": "01103"
+  },
+  "Perry County, AL": {
+    "geoid": "01105"
+  },
+  "Pickens County, AL": {
+    "geoid": "01107"
+  },
+  "Pike County, AL": {
+    "geoid": "01109"
+  },
+  "Randolph County, AL": {
+    "geoid": "01111"
+  },
+  "Russell County, AL": {
+    "geoid": "01113"
+  },
+  "St. Clair County, AL": {
+    "geoid": "01115"
+  },
+  "Shelby County, AL": {
+    "geoid": "01117"
+  },
+  "Sumter County, AL": {
+    "geoid": "01119"
+  },
+  "Talladega County, AL": {
+    "geoid": "01121"
+  },
+  "Tallapoosa County, AL": {
+    "geoid": "01123"
+  },
+  "Tuscaloosa County, AL": {
+    "geoid": "01125"
+  },
+  "Walker County, AL": {
+    "geoid": "01127"
+  },
+  "Washington County, AL": {
+    "geoid": "01129"
+  },
+  "Wilcox County, AL": {
+    "geoid": "01131"
+  },
+  "Winston County, AL": {
+    "geoid": "01133"
+  },
+  "Aleutians East Borough, AK": {
+    "geoid": "02013"
+  },
+  "Aleutians West Census Area, AK": {
+    "geoid": "02016"
+  },
+  "Anchorage Municipality, AK": {
+    "geoid": "02020"
+  },
+  "Bethel Census Area, AK": {
+    "geoid": "02050"
+  },
+  "Bristol Bay Borough, AK": {
+    "geoid": "02060"
+  },
+  "Denali Borough, AK": {
+    "geoid": "02068"
+  },
+  "Dillingham Census Area, AK": {
+    "geoid": "02070"
+  },
+  "Fairbanks North Star Borough, AK": {
+    "geoid": "02090"
+  },
+  "Haines Borough, AK": {
+    "geoid": "02100"
+  },
+  "Hoonah-Angoon Census Area, AK": {
+    "geoid": "02105"
+  },
+  "Juneau City and Borough, AK": {
+    "geoid": "02110"
+  },
+  "Kenai Peninsula Borough, AK": {
+    "geoid": "02122"
+  },
+  "Ketchikan Gateway Borough, AK": {
+    "geoid": "02130"
+  },
+  "Kodiak Island Borough, AK": {
+    "geoid": "02150"
+  },
+  "Lake and Peninsula Borough, AK": {
+    "geoid": "02164"
+  },
+  "Matanuska-Susitna Borough, AK": {
+    "geoid": "02170"
+  },
+  "Nome Census Area, AK": {
+    "geoid": "02180"
+  },
+  "North Slope Borough, AK": {
+    "geoid": "02185"
+  },
+  "Northwest Arctic Borough, AK": {
+    "geoid": "02188"
+  },
+  "Petersburg Census Area, AK": {
+    "geoid": "02195"
+  },
+  "Prince of Wales-Hyder Census Area, AK": {
+    "geoid": "02198"
+  },
+  "Sitka City and Borough, AK": {
+    "geoid": "02220"
+  },
+  "Skagway Municipality, AK": {
+    "geoid": "02230"
+  },
+  "Southeast Fairbanks Census Area, AK": {
+    "geoid": "02240"
+  },
+  "Valdez-Cordova Census Area, AK": {
+    "geoid": "02261"
+  },
+  "Wade Hampton Census Area, AK": {
+    "geoid": "02270"
+  },
+  "Wrangell City and Borough, AK": {
+    "geoid": "02275"
+  },
+  "Yakutat City and Borough, AK": {
+    "geoid": "02282"
+  },
+  "Yukon-Koyukuk Census Area, AK": {
+    "geoid": "02290"
+  },
+  "Apache County, AZ": {
+    "geoid": "04001"
+  },
+  "Cochise County, AZ": {
+    "geoid": "04003"
+  },
+  "Coconino County, AZ": {
+    "geoid": "04005"
+  },
+  "Gila County, AZ": {
+    "geoid": "04007"
+  },
+  "Graham County, AZ": {
+    "geoid": "04009"
+  },
+  "Greenlee County, AZ": {
+    "geoid": "04011"
+  },
+  "La Paz County, AZ": {
+    "geoid": "04012"
+  },
+  "Maricopa County, AZ": {
+    "geoid": "04013"
+  },
+  "Mohave County, AZ": {
+    "geoid": "04015"
+  },
+  "Navajo County, AZ": {
+    "geoid": "04017"
+  },
+  "Pima County, AZ": {
+    "geoid": "04019"
+  },
+  "Pinal County, AZ": {
+    "geoid": "04021"
+  },
+  "Santa Cruz County, AZ": {
+    "geoid": "04023"
+  },
+  "Yavapai County, AZ": {
+    "geoid": "04025"
+  },
+  "Yuma County, AZ": {
+    "geoid": "04027"
+  },
+  "Arkansas County, AR": {
+    "geoid": "05001"
+  },
+  "Ashley County, AR": {
+    "geoid": "05003"
+  },
+  "Baxter County, AR": {
+    "geoid": "05005"
+  },
+  "Benton County, AR": {
+    "geoid": "05007"
+  },
+  "Boone County, AR": {
+    "geoid": "05009"
+  },
+  "Bradley County, AR": {
+    "geoid": "05011"
+  },
+  "Calhoun County, AR": {
+    "geoid": "05013"
+  },
+  "Carroll County, AR": {
+    "geoid": "05015"
+  },
+  "Chicot County, AR": {
+    "geoid": "05017"
+  },
+  "Clark County, AR": {
+    "geoid": "05019"
+  },
+  "Clay County, AR": {
+    "geoid": "05021"
+  },
+  "Cleburne County, AR": {
+    "geoid": "05023"
+  },
+  "Cleveland County, AR": {
+    "geoid": "05025"
+  },
+  "Columbia County, AR": {
+    "geoid": "05027"
+  },
+  "Conway County, AR": {
+    "geoid": "05029"
+  },
+  "Craighead County, AR": {
+    "geoid": "05031"
+  },
+  "Crawford County, AR": {
+    "geoid": "05033"
+  },
+  "Crittenden County, AR": {
+    "geoid": "05035"
+  },
+  "Cross County, AR": {
+    "geoid": "05037"
+  },
+  "Dallas County, AR": {
+    "geoid": "05039"
+  },
+  "Desha County, AR": {
+    "geoid": "05041"
+  },
+  "Drew County, AR": {
+    "geoid": "05043"
+  },
+  "Faulkner County, AR": {
+    "geoid": "05045"
+  },
+  "Franklin County, AR": {
+    "geoid": "05047"
+  },
+  "Fulton County, AR": {
+    "geoid": "05049"
+  },
+  "Garland County, AR": {
+    "geoid": "05051"
+  },
+  "Grant County, AR": {
+    "geoid": "05053"
+  },
+  "Greene County, AR": {
+    "geoid": "05055"
+  },
+  "Hempstead County, AR": {
+    "geoid": "05057"
+  },
+  "Hot Spring County, AR": {
+    "geoid": "05059"
+  },
+  "Howard County, AR": {
+    "geoid": "05061"
+  },
+  "Independence County, AR": {
+    "geoid": "05063"
+  },
+  "Izard County, AR": {
+    "geoid": "05065"
+  },
+  "Jackson County, AR": {
+    "geoid": "05067"
+  },
+  "Jefferson County, AR": {
+    "geoid": "05069"
+  },
+  "Johnson County, AR": {
+    "geoid": "05071"
+  },
+  "Lafayette County, AR": {
+    "geoid": "05073"
+  },
+  "Lawrence County, AR": {
+    "geoid": "05075"
+  },
+  "Lee County, AR": {
+    "geoid": "05077"
+  },
+  "Lincoln County, AR": {
+    "geoid": "05079"
+  },
+  "Little River County, AR": {
+    "geoid": "05081"
+  },
+  "Logan County, AR": {
+    "geoid": "05083"
+  },
+  "Lonoke County, AR": {
+    "geoid": "05085"
+  },
+  "Madison County, AR": {
+    "geoid": "05087"
+  },
+  "Marion County, AR": {
+    "geoid": "05089"
+  },
+  "Miller County, AR": {
+    "geoid": "05091"
+  },
+  "Mississippi County, AR": {
+    "geoid": "05093"
+  },
+  "Monroe County, AR": {
+    "geoid": "05095"
+  },
+  "Montgomery County, AR": {
+    "geoid": "05097"
+  },
+  "Nevada County, AR": {
+    "geoid": "05099"
+  },
+  "Newton County, AR": {
+    "geoid": "05101"
+  },
+  "Ouachita County, AR": {
+    "geoid": "05103"
+  },
+  "Perry County, AR": {
+    "geoid": "05105"
+  },
+  "Phillips County, AR": {
+    "geoid": "05107"
+  },
+  "Pike County, AR": {
+    "geoid": "05109"
+  },
+  "Poinsett County, AR": {
+    "geoid": "05111"
+  },
+  "Polk County, AR": {
+    "geoid": "05113"
+  },
+  "Pope County, AR": {
+    "geoid": "05115"
+  },
+  "Prairie County, AR": {
+    "geoid": "05117"
+  },
+  "Pulaski County, AR": {
+    "geoid": "05119"
+  },
+  "Randolph County, AR": {
+    "geoid": "05121"
+  },
+  "St. Francis County, AR": {
+    "geoid": "05123"
+  },
+  "Saline County, AR": {
+    "geoid": "05125"
+  },
+  "Scott County, AR": {
+    "geoid": "05127"
+  },
+  "Searcy County, AR": {
+    "geoid": "05129"
+  },
+  "Sebastian County, AR": {
+    "geoid": "05131"
+  },
+  "Sevier County, AR": {
+    "geoid": "05133"
+  },
+  "Sharp County, AR": {
+    "geoid": "05135"
+  },
+  "Stone County, AR": {
+    "geoid": "05137"
+  },
+  "Union County, AR": {
+    "geoid": "05139"
+  },
+  "Van Buren County, AR": {
+    "geoid": "05141"
+  },
+  "Washington County, AR": {
+    "geoid": "05143"
+  },
+  "White County, AR": {
+    "geoid": "05145"
+  },
+  "Woodruff County, AR": {
+    "geoid": "05147"
+  },
+  "Yell County, AR": {
+    "geoid": "05149"
+  },
+  "Alameda County, CA": {
+    "geoid": "06001"
+  },
+  "Alpine County, CA": {
+    "geoid": "06003"
+  },
+  "Amador County, CA": {
+    "geoid": "06005"
+  },
+  "Butte County, CA": {
+    "geoid": "06007"
+  },
+  "Calaveras County, CA": {
+    "geoid": "06009"
+  },
+  "Colusa County, CA": {
+    "geoid": "06011"
+  },
+  "Contra Costa County, CA": {
+    "geoid": "06013"
+  },
+  "Del Norte County, CA": {
+    "geoid": "06015"
+  },
+  "El Dorado County, CA": {
+    "geoid": "06017"
+  },
+  "Fresno County, CA": {
+    "geoid": "06019"
+  },
+  "Glenn County, CA": {
+    "geoid": "06021"
+  },
+  "Humboldt County, CA": {
+    "geoid": "06023"
+  },
+  "Imperial County, CA": {
+    "geoid": "06025"
+  },
+  "Inyo County, CA": {
+    "geoid": "06027"
+  },
+  "Kern County, CA": {
+    "geoid": "06029"
+  },
+  "Kings County, CA": {
+    "geoid": "06031"
+  },
+  "Lake County, CA": {
+    "geoid": "06033"
+  },
+  "Lassen County, CA": {
+    "geoid": "06035"
+  },
+  "Los Angeles County, CA": {
+    "geoid": "06037"
+  },
+  "Madera County, CA": {
+    "geoid": "06039"
+  },
+  "Marin County, CA": {
+    "geoid": "06041"
+  },
+  "Mariposa County, CA": {
+    "geoid": "06043"
+  },
+  "Mendocino County, CA": {
+    "geoid": "06045"
+  },
+  "Merced County, CA": {
+    "geoid": "06047"
+  },
+  "Modoc County, CA": {
+    "geoid": "06049"
+  },
+  "Mono County, CA": {
+    "geoid": "06051"
+  },
+  "Monterey County, CA": {
+    "geoid": "06053"
+  },
+  "Napa County, CA": {
+    "geoid": "06055"
+  },
+  "Nevada County, CA": {
+    "geoid": "06057"
+  },
+  "Orange County, CA": {
+    "geoid": "06059"
+  },
+  "Placer County, CA": {
+    "geoid": "06061"
+  },
+  "Plumas County, CA": {
+    "geoid": "06063"
+  },
+  "Riverside County, CA": {
+    "geoid": "06065"
+  },
+  "Sacramento County, CA": {
+    "geoid": "06067"
+  },
+  "San Benito County, CA": {
+    "geoid": "06069"
+  },
+  "San Bernardino County, CA": {
+    "geoid": "06071"
+  },
+  "San Diego County, CA": {
+    "geoid": "06073"
+  },
+  "San Francisco County, CA": {
+    "geoid": "06075"
+  },
+  "San Joaquin County, CA": {
+    "geoid": "06077"
+  },
+  "San Luis Obispo County, CA": {
+    "geoid": "06079"
+  },
+  "San Mateo County, CA": {
+    "geoid": "06081"
+  },
+  "Santa Barbara County, CA": {
+    "geoid": "06083"
+  },
+  "Santa Clara County, CA": {
+    "geoid": "06085"
+  },
+  "Santa Cruz County, CA": {
+    "geoid": "06087"
+  },
+  "Shasta County, CA": {
+    "geoid": "06089"
+  },
+  "Sierra County, CA": {
+    "geoid": "06091"
+  },
+  "Siskiyou County, CA": {
+    "geoid": "06093"
+  },
+  "Solano County, CA": {
+    "geoid": "06095"
+  },
+  "Sonoma County, CA": {
+    "geoid": "06097"
+  },
+  "Stanislaus County, CA": {
+    "geoid": "06099"
+  },
+  "Sutter County, CA": {
+    "geoid": "06101"
+  },
+  "Tehama County, CA": {
+    "geoid": "06103"
+  },
+  "Trinity County, CA": {
+    "geoid": "06105"
+  },
+  "Tulare County, CA": {
+    "geoid": "06107"
+  },
+  "Tuolumne County, CA": {
+    "geoid": "06109"
+  },
+  "Ventura County, CA": {
+    "geoid": "06111"
+  },
+  "Yolo County, CA": {
+    "geoid": "06113"
+  },
+  "Yuba County, CA": {
+    "geoid": "06115"
+  },
+  "Adams County, CO": {
+    "geoid": "08001"
+  },
+  "Alamosa County, CO": {
+    "geoid": "08003"
+  },
+  "Arapahoe County, CO": {
+    "geoid": "08005"
+  },
+  "Archuleta County, CO": {
+    "geoid": "08007"
+  },
+  "Baca County, CO": {
+    "geoid": "08009"
+  },
+  "Bent County, CO": {
+    "geoid": "08011"
+  },
+  "Boulder County, CO": {
+    "geoid": "08013"
+  },
+  "Broomfield County, CO": {
+    "geoid": "08014"
+  },
+  "Chaffee County, CO": {
+    "geoid": "08015"
+  },
+  "Cheyenne County, CO": {
+    "geoid": "08017"
+  },
+  "Clear Creek County, CO": {
+    "geoid": "08019"
+  },
+  "Conejos County, CO": {
+    "geoid": "08021"
+  },
+  "Costilla County, CO": {
+    "geoid": "08023"
+  },
+  "Crowley County, CO": {
+    "geoid": "08025"
+  },
+  "Custer County, CO": {
+    "geoid": "08027"
+  },
+  "Delta County, CO": {
+    "geoid": "08029"
+  },
+  "Denver County, CO": {
+    "geoid": "08031"
+  },
+  "Dolores County, CO": {
+    "geoid": "08033"
+  },
+  "Douglas County, CO": {
+    "geoid": "08035"
+  },
+  "Eagle County, CO": {
+    "geoid": "08037"
+  },
+  "Elbert County, CO": {
+    "geoid": "08039"
+  },
+  "El Paso County, CO": {
+    "geoid": "08041"
+  },
+  "Fremont County, CO": {
+    "geoid": "08043"
+  },
+  "Garfield County, CO": {
+    "geoid": "08045"
+  },
+  "Gilpin County, CO": {
+    "geoid": "08047"
+  },
+  "Grand County, CO": {
+    "geoid": "08049"
+  },
+  "Gunnison County, CO": {
+    "geoid": "08051"
+  },
+  "Hinsdale County, CO": {
+    "geoid": "08053"
+  },
+  "Huerfano County, CO": {
+    "geoid": "08055"
+  },
+  "Jackson County, CO": {
+    "geoid": "08057"
+  },
+  "Jefferson County, CO": {
+    "geoid": "08059"
+  },
+  "Kiowa County, CO": {
+    "geoid": "08061"
+  },
+  "Kit Carson County, CO": {
+    "geoid": "08063"
+  },
+  "Lake County, CO": {
+    "geoid": "08065"
+  },
+  "La Plata County, CO": {
+    "geoid": "08067"
+  },
+  "Larimer County, CO": {
+    "geoid": "08069"
+  },
+  "Las Animas County, CO": {
+    "geoid": "08071"
+  },
+  "Lincoln County, CO": {
+    "geoid": "08073"
+  },
+  "Logan County, CO": {
+    "geoid": "08075"
+  },
+  "Mesa County, CO": {
+    "geoid": "08077"
+  },
+  "Mineral County, CO": {
+    "geoid": "08079"
+  },
+  "Moffat County, CO": {
+    "geoid": "08081"
+  },
+  "Montezuma County, CO": {
+    "geoid": "08083"
+  },
+  "Montrose County, CO": {
+    "geoid": "08085"
+  },
+  "Morgan County, CO": {
+    "geoid": "08087"
+  },
+  "Otero County, CO": {
+    "geoid": "08089"
+  },
+  "Ouray County, CO": {
+    "geoid": "08091"
+  },
+  "Park County, CO": {
+    "geoid": "08093"
+  },
+  "Phillips County, CO": {
+    "geoid": "08095"
+  },
+  "Pitkin County, CO": {
+    "geoid": "08097"
+  },
+  "Prowers County, CO": {
+    "geoid": "08099"
+  },
+  "Pueblo County, CO": {
+    "geoid": "08101"
+  },
+  "Rio Blanco County, CO": {
+    "geoid": "08103"
+  },
+  "Rio Grande County, CO": {
+    "geoid": "08105"
+  },
+  "Routt County, CO": {
+    "geoid": "08107"
+  },
+  "Saguache County, CO": {
+    "geoid": "08109"
+  },
+  "San Juan County, CO": {
+    "geoid": "08111"
+  },
+  "San Miguel County, CO": {
+    "geoid": "08113"
+  },
+  "Sedgwick County, CO": {
+    "geoid": "08115"
+  },
+  "Summit County, CO": {
+    "geoid": "08117"
+  },
+  "Teller County, CO": {
+    "geoid": "08119"
+  },
+  "Washington County, CO": {
+    "geoid": "08121"
+  },
+  "Weld County, CO": {
+    "geoid": "08123"
+  },
+  "Yuma County, CO": {
+    "geoid": "08125"
+  },
+  "Fairfield County, CT": {
+    "geoid": "09001"
+  },
+  "Hartford County, CT": {
+    "geoid": "09003"
+  },
+  "Litchfield County, CT": {
+    "geoid": "09005"
+  },
+  "Middlesex County, CT": {
+    "geoid": "09007"
+  },
+  "New Haven County, CT": {
+    "geoid": "09009"
+  },
+  "New London County, CT": {
+    "geoid": "09011"
+  },
+  "Tolland County, CT": {
+    "geoid": "09013"
+  },
+  "Windham County, CT": {
+    "geoid": "09015"
+  },
+  "Kent County, DE": {
+    "geoid": "10001"
+  },
+  "New Castle County, DE": {
+    "geoid": "10003"
+  },
+  "Sussex County, DE": {
+    "geoid": "10005"
+  },
+  "District of Columbia, DC": {
+    "geoid": "11001"
+  },
+  "Alachua County, FL": {
+    "geoid": "12001"
+  },
+  "Baker County, FL": {
+    "geoid": "12003"
+  },
+  "Bay County, FL": {
+    "geoid": "12005"
+  },
+  "Bradford County, FL": {
+    "geoid": "12007"
+  },
+  "Brevard County, FL": {
+    "geoid": "12009"
+  },
+  "Broward County, FL": {
+    "geoid": "12011"
+  },
+  "Calhoun County, FL": {
+    "geoid": "12013"
+  },
+  "Charlotte County, FL": {
+    "geoid": "12015"
+  },
+  "Citrus County, FL": {
+    "geoid": "12017"
+  },
+  "Clay County, FL": {
+    "geoid": "12019"
+  },
+  "Collier County, FL": {
+    "geoid": "12021"
+  },
+  "Columbia County, FL": {
+    "geoid": "12023"
+  },
+  "DeSoto County, FL": {
+    "geoid": "12027"
+  },
+  "Dixie County, FL": {
+    "geoid": "12029"
+  },
+  "Duval County, FL": {
+    "geoid": "12031"
+  },
+  "Escambia County, FL": {
+    "geoid": "12033"
+  },
+  "Flagler County, FL": {
+    "geoid": "12035"
+  },
+  "Franklin County, FL": {
+    "geoid": "12037"
+  },
+  "Gadsden County, FL": {
+    "geoid": "12039"
+  },
+  "Gilchrist County, FL": {
+    "geoid": "12041"
+  },
+  "Glades County, FL": {
+    "geoid": "12043"
+  },
+  "Gulf County, FL": {
+    "geoid": "12045"
+  },
+  "Hamilton County, FL": {
+    "geoid": "12047"
+  },
+  "Hardee County, FL": {
+    "geoid": "12049"
+  },
+  "Hendry County, FL": {
+    "geoid": "12051"
+  },
+  "Hernando County, FL": {
+    "geoid": "12053"
+  },
+  "Highlands County, FL": {
+    "geoid": "12055"
+  },
+  "Hillsborough County, FL": {
+    "geoid": "12057"
+  },
+  "Holmes County, FL": {
+    "geoid": "12059"
+  },
+  "Indian River County, FL": {
+    "geoid": "12061"
+  },
+  "Jackson County, FL": {
+    "geoid": "12063"
+  },
+  "Jefferson County, FL": {
+    "geoid": "12065"
+  },
+  "Lafayette County, FL": {
+    "geoid": "12067"
+  },
+  "Lake County, FL": {
+    "geoid": "12069"
+  },
+  "Lee County, FL": {
+    "geoid": "12071"
+  },
+  "Leon County, FL": {
+    "geoid": "12073"
+  },
+  "Levy County, FL": {
+    "geoid": "12075"
+  },
+  "Liberty County, FL": {
+    "geoid": "12077"
+  },
+  "Madison County, FL": {
+    "geoid": "12079"
+  },
+  "Manatee County, FL": {
+    "geoid": "12081"
+  },
+  "Marion County, FL": {
+    "geoid": "12083"
+  },
+  "Martin County, FL": {
+    "geoid": "12085"
+  },
+  "Miami-Dade County, FL": {
+    "geoid": "12086"
+  },
+  "Monroe County, FL": {
+    "geoid": "12087"
+  },
+  "Nassau County, FL": {
+    "geoid": "12089"
+  },
+  "Okaloosa County, FL": {
+    "geoid": "12091"
+  },
+  "Okeechobee County, FL": {
+    "geoid": "12093"
+  },
+  "Orange County, FL": {
+    "geoid": "12095"
+  },
+  "Osceola County, FL": {
+    "geoid": "12097"
+  },
+  "Palm Beach County, FL": {
+    "geoid": "12099"
+  },
+  "Pasco County, FL": {
+    "geoid": "12101"
+  },
+  "Pinellas County, FL": {
+    "geoid": "12103"
+  },
+  "Polk County, FL": {
+    "geoid": "12105"
+  },
+  "Putnam County, FL": {
+    "geoid": "12107"
+  },
+  "St. Johns County, FL": {
+    "geoid": "12109"
+  },
+  "St. Lucie County, FL": {
+    "geoid": "12111"
+  },
+  "Santa Rosa County, FL": {
+    "geoid": "12113"
+  },
+  "Sarasota County, FL": {
+    "geoid": "12115"
+  },
+  "Seminole County, FL": {
+    "geoid": "12117"
+  },
+  "Sumter County, FL": {
+    "geoid": "12119"
+  },
+  "Suwannee County, FL": {
+    "geoid": "12121"
+  },
+  "Taylor County, FL": {
+    "geoid": "12123"
+  },
+  "Union County, FL": {
+    "geoid": "12125"
+  },
+  "Volusia County, FL": {
+    "geoid": "12127"
+  },
+  "Wakulla County, FL": {
+    "geoid": "12129"
+  },
+  "Walton County, FL": {
+    "geoid": "12131"
+  },
+  "Washington County, FL": {
+    "geoid": "12133"
+  },
+  "Appling County, GA": {
+    "geoid": "13001"
+  },
+  "Atkinson County, GA": {
+    "geoid": "13003"
+  },
+  "Bacon County, GA": {
+    "geoid": "13005"
+  },
+  "Baker County, GA": {
+    "geoid": "13007"
+  },
+  "Baldwin County, GA": {
+    "geoid": "13009"
+  },
+  "Banks County, GA": {
+    "geoid": "13011"
+  },
+  "Barrow County, GA": {
+    "geoid": "13013"
+  },
+  "Bartow County, GA": {
+    "geoid": "13015"
+  },
+  "Ben Hill County, GA": {
+    "geoid": "13017"
+  },
+  "Berrien County, GA": {
+    "geoid": "13019"
+  },
+  "Bibb County, GA": {
+    "geoid": "13021"
+  },
+  "Bleckley County, GA": {
+    "geoid": "13023"
+  },
+  "Brantley County, GA": {
+    "geoid": "13025"
+  },
+  "Brooks County, GA": {
+    "geoid": "13027"
+  },
+  "Bryan County, GA": {
+    "geoid": "13029"
+  },
+  "Bulloch County, GA": {
+    "geoid": "13031"
+  },
+  "Burke County, GA": {
+    "geoid": "13033"
+  },
+  "Butts County, GA": {
+    "geoid": "13035"
+  },
+  "Calhoun County, GA": {
+    "geoid": "13037"
+  },
+  "Camden County, GA": {
+    "geoid": "13039"
+  },
+  "Candler County, GA": {
+    "geoid": "13043"
+  },
+  "Carroll County, GA": {
+    "geoid": "13045"
+  },
+  "Catoosa County, GA": {
+    "geoid": "13047"
+  },
+  "Charlton County, GA": {
+    "geoid": "13049"
+  },
+  "Chatham County, GA": {
+    "geoid": "13051"
+  },
+  "Chattahoochee County, GA": {
+    "geoid": "13053"
+  },
+  "Chattooga County, GA": {
+    "geoid": "13055"
+  },
+  "Cherokee County, GA": {
+    "geoid": "13057"
+  },
+  "Clarke County, GA": {
+    "geoid": "13059"
+  },
+  "Clay County, GA": {
+    "geoid": "13061"
+  },
+  "Clayton County, GA": {
+    "geoid": "13063"
+  },
+  "Clinch County, GA": {
+    "geoid": "13065"
+  },
+  "Cobb County, GA": {
+    "geoid": "13067"
+  },
+  "Coffee County, GA": {
+    "geoid": "13069"
+  },
+  "Colquitt County, GA": {
+    "geoid": "13071"
+  },
+  "Columbia County, GA": {
+    "geoid": "13073"
+  },
+  "Cook County, GA": {
+    "geoid": "13075"
+  },
+  "Coweta County, GA": {
+    "geoid": "13077"
+  },
+  "Crawford County, GA": {
+    "geoid": "13079"
+  },
+  "Crisp County, GA": {
+    "geoid": "13081"
+  },
+  "Dade County, GA": {
+    "geoid": "13083"
+  },
+  "Dawson County, GA": {
+    "geoid": "13085"
+  },
+  "Decatur County, GA": {
+    "geoid": "13087"
+  },
+  "DeKalb County, GA": {
+    "geoid": "13089"
+  },
+  "Dodge County, GA": {
+    "geoid": "13091"
+  },
+  "Dooly County, GA": {
+    "geoid": "13093"
+  },
+  "Dougherty County, GA": {
+    "geoid": "13095"
+  },
+  "Douglas County, GA": {
+    "geoid": "13097"
+  },
+  "Early County, GA": {
+    "geoid": "13099"
+  },
+  "Echols County, GA": {
+    "geoid": "13101"
+  },
+  "Effingham County, GA": {
+    "geoid": "13103"
+  },
+  "Elbert County, GA": {
+    "geoid": "13105"
+  },
+  "Emanuel County, GA": {
+    "geoid": "13107"
+  },
+  "Evans County, GA": {
+    "geoid": "13109"
+  },
+  "Fannin County, GA": {
+    "geoid": "13111"
+  },
+  "Fayette County, GA": {
+    "geoid": "13113"
+  },
+  "Floyd County, GA": {
+    "geoid": "13115"
+  },
+  "Forsyth County, GA": {
+    "geoid": "13117"
+  },
+  "Franklin County, GA": {
+    "geoid": "13119"
+  },
+  "Fulton County, GA": {
+    "geoid": "13121"
+  },
+  "Gilmer County, GA": {
+    "geoid": "13123"
+  },
+  "Glascock County, GA": {
+    "geoid": "13125"
+  },
+  "Glynn County, GA": {
+    "geoid": "13127"
+  },
+  "Gordon County, GA": {
+    "geoid": "13129"
+  },
+  "Grady County, GA": {
+    "geoid": "13131"
+  },
+  "Greene County, GA": {
+    "geoid": "13133"
+  },
+  "Gwinnett County, GA": {
+    "geoid": "13135"
+  },
+  "Habersham County, GA": {
+    "geoid": "13137"
+  },
+  "Hall County, GA": {
+    "geoid": "13139"
+  },
+  "Hancock County, GA": {
+    "geoid": "13141"
+  },
+  "Haralson County, GA": {
+    "geoid": "13143"
+  },
+  "Harris County, GA": {
+    "geoid": "13145"
+  },
+  "Hart County, GA": {
+    "geoid": "13147"
+  },
+  "Heard County, GA": {
+    "geoid": "13149"
+  },
+  "Henry County, GA": {
+    "geoid": "13151"
+  },
+  "Houston County, GA": {
+    "geoid": "13153"
+  },
+  "Irwin County, GA": {
+    "geoid": "13155"
+  },
+  "Jackson County, GA": {
+    "geoid": "13157"
+  },
+  "Jasper County, GA": {
+    "geoid": "13159"
+  },
+  "Jeff Davis County, GA": {
+    "geoid": "13161"
+  },
+  "Jefferson County, GA": {
+    "geoid": "13163"
+  },
+  "Jenkins County, GA": {
+    "geoid": "13165"
+  },
+  "Johnson County, GA": {
+    "geoid": "13167"
+  },
+  "Jones County, GA": {
+    "geoid": "13169"
+  },
+  "Lamar County, GA": {
+    "geoid": "13171"
+  },
+  "Lanier County, GA": {
+    "geoid": "13173"
+  },
+  "Laurens County, GA": {
+    "geoid": "13175"
+  },
+  "Lee County, GA": {
+    "geoid": "13177"
+  },
+  "Liberty County, GA": {
+    "geoid": "13179"
+  },
+  "Lincoln County, GA": {
+    "geoid": "13181"
+  },
+  "Long County, GA": {
+    "geoid": "13183"
+  },
+  "Lowndes County, GA": {
+    "geoid": "13185"
+  },
+  "Lumpkin County, GA": {
+    "geoid": "13187"
+  },
+  "McDuffie County, GA": {
+    "geoid": "13189"
+  },
+  "McIntosh County, GA": {
+    "geoid": "13191"
+  },
+  "Macon County, GA": {
+    "geoid": "13193"
+  },
+  "Madison County, GA": {
+    "geoid": "13195"
+  },
+  "Marion County, GA": {
+    "geoid": "13197"
+  },
+  "Meriwether County, GA": {
+    "geoid": "13199"
+  },
+  "Miller County, GA": {
+    "geoid": "13201"
+  },
+  "Mitchell County, GA": {
+    "geoid": "13205"
+  },
+  "Monroe County, GA": {
+    "geoid": "13207"
+  },
+  "Montgomery County, GA": {
+    "geoid": "13209"
+  },
+  "Morgan County, GA": {
+    "geoid": "13211"
+  },
+  "Murray County, GA": {
+    "geoid": "13213"
+  },
+  "Muscogee County, GA": {
+    "geoid": "13215"
+  },
+  "Newton County, GA": {
+    "geoid": "13217"
+  },
+  "Oconee County, GA": {
+    "geoid": "13219"
+  },
+  "Oglethorpe County, GA": {
+    "geoid": "13221"
+  },
+  "Paulding County, GA": {
+    "geoid": "13223"
+  },
+  "Peach County, GA": {
+    "geoid": "13225"
+  },
+  "Pickens County, GA": {
+    "geoid": "13227"
+  },
+  "Pierce County, GA": {
+    "geoid": "13229"
+  },
+  "Pike County, GA": {
+    "geoid": "13231"
+  },
+  "Polk County, GA": {
+    "geoid": "13233"
+  },
+  "Pulaski County, GA": {
+    "geoid": "13235"
+  },
+  "Putnam County, GA": {
+    "geoid": "13237"
+  },
+  "Quitman County, GA": {
+    "geoid": "13239"
+  },
+  "Rabun County, GA": {
+    "geoid": "13241"
+  },
+  "Randolph County, GA": {
+    "geoid": "13243"
+  },
+  "Richmond County, GA": {
+    "geoid": "13245"
+  },
+  "Rockdale County, GA": {
+    "geoid": "13247"
+  },
+  "Schley County, GA": {
+    "geoid": "13249"
+  },
+  "Screven County, GA": {
+    "geoid": "13251"
+  },
+  "Seminole County, GA": {
+    "geoid": "13253"
+  },
+  "Spalding County, GA": {
+    "geoid": "13255"
+  },
+  "Stephens County, GA": {
+    "geoid": "13257"
+  },
+  "Stewart County, GA": {
+    "geoid": "13259"
+  },
+  "Sumter County, GA": {
+    "geoid": "13261"
+  },
+  "Talbot County, GA": {
+    "geoid": "13263"
+  },
+  "Taliaferro County, GA": {
+    "geoid": "13265"
+  },
+  "Tattnall County, GA": {
+    "geoid": "13267"
+  },
+  "Taylor County, GA": {
+    "geoid": "13269"
+  },
+  "Telfair County, GA": {
+    "geoid": "13271"
+  },
+  "Terrell County, GA": {
+    "geoid": "13273"
+  },
+  "Thomas County, GA": {
+    "geoid": "13275"
+  },
+  "Tift County, GA": {
+    "geoid": "13277"
+  },
+  "Toombs County, GA": {
+    "geoid": "13279"
+  },
+  "Towns County, GA": {
+    "geoid": "13281"
+  },
+  "Treutlen County, GA": {
+    "geoid": "13283"
+  },
+  "Troup County, GA": {
+    "geoid": "13285"
+  },
+  "Turner County, GA": {
+    "geoid": "13287"
+  },
+  "Twiggs County, GA": {
+    "geoid": "13289"
+  },
+  "Union County, GA": {
+    "geoid": "13291"
+  },
+  "Upson County, GA": {
+    "geoid": "13293"
+  },
+  "Walker County, GA": {
+    "geoid": "13295"
+  },
+  "Walton County, GA": {
+    "geoid": "13297"
+  },
+  "Ware County, GA": {
+    "geoid": "13299"
+  },
+  "Warren County, GA": {
+    "geoid": "13301"
+  },
+  "Washington County, GA": {
+    "geoid": "13303"
+  },
+  "Wayne County, GA": {
+    "geoid": "13305"
+  },
+  "Webster County, GA": {
+    "geoid": "13307"
+  },
+  "Wheeler County, GA": {
+    "geoid": "13309"
+  },
+  "White County, GA": {
+    "geoid": "13311"
+  },
+  "Whitfield County, GA": {
+    "geoid": "13313"
+  },
+  "Wilcox County, GA": {
+    "geoid": "13315"
+  },
+  "Wilkes County, GA": {
+    "geoid": "13317"
+  },
+  "Wilkinson County, GA": {
+    "geoid": "13319"
+  },
+  "Worth County, GA": {
+    "geoid": "13321"
+  },
+  "Hawaii County, HI": {
+    "geoid": "15001"
+  },
+  "Honolulu County, HI": {
+    "geoid": "15003"
+  },
+  "Kalawao County, HI": {
+    "geoid": "15005"
+  },
+  "Kauai County, HI": {
+    "geoid": "15007"
+  },
+  "Maui County, HI": {
+    "geoid": "15009"
+  },
+  "Ada County, ID": {
+    "geoid": "16001"
+  },
+  "Adams County, ID": {
+    "geoid": "16003"
+  },
+  "Bannock County, ID": {
+    "geoid": "16005"
+  },
+  "Bear Lake County, ID": {
+    "geoid": "16007"
+  },
+  "Benewah County, ID": {
+    "geoid": "16009"
+  },
+  "Bingham County, ID": {
+    "geoid": "16011"
+  },
+  "Blaine County, ID": {
+    "geoid": "16013"
+  },
+  "Boise County, ID": {
+    "geoid": "16015"
+  },
+  "Bonner County, ID": {
+    "geoid": "16017"
+  },
+  "Bonneville County, ID": {
+    "geoid": "16019"
+  },
+  "Boundary County, ID": {
+    "geoid": "16021"
+  },
+  "Butte County, ID": {
+    "geoid": "16023"
+  },
+  "Camas County, ID": {
+    "geoid": "16025"
+  },
+  "Canyon County, ID": {
+    "geoid": "16027"
+  },
+  "Caribou County, ID": {
+    "geoid": "16029"
+  },
+  "Cassia County, ID": {
+    "geoid": "16031"
+  },
+  "Clark County, ID": {
+    "geoid": "16033"
+  },
+  "Clearwater County, ID": {
+    "geoid": "16035"
+  },
+  "Custer County, ID": {
+    "geoid": "16037"
+  },
+  "Elmore County, ID": {
+    "geoid": "16039"
+  },
+  "Franklin County, ID": {
+    "geoid": "16041"
+  },
+  "Fremont County, ID": {
+    "geoid": "16043"
+  },
+  "Gem County, ID": {
+    "geoid": "16045"
+  },
+  "Gooding County, ID": {
+    "geoid": "16047"
+  },
+  "Idaho County, ID": {
+    "geoid": "16049"
+  },
+  "Jefferson County, ID": {
+    "geoid": "16051"
+  },
+  "Jerome County, ID": {
+    "geoid": "16053"
+  },
+  "Kootenai County, ID": {
+    "geoid": "16055"
+  },
+  "Latah County, ID": {
+    "geoid": "16057"
+  },
+  "Lemhi County, ID": {
+    "geoid": "16059"
+  },
+  "Lewis County, ID": {
+    "geoid": "16061"
+  },
+  "Lincoln County, ID": {
+    "geoid": "16063"
+  },
+  "Madison County, ID": {
+    "geoid": "16065"
+  },
+  "Minidoka County, ID": {
+    "geoid": "16067"
+  },
+  "Nez Perce County, ID": {
+    "geoid": "16069"
+  },
+  "Oneida County, ID": {
+    "geoid": "16071"
+  },
+  "Owyhee County, ID": {
+    "geoid": "16073"
+  },
+  "Payette County, ID": {
+    "geoid": "16075"
+  },
+  "Power County, ID": {
+    "geoid": "16077"
+  },
+  "Shoshone County, ID": {
+    "geoid": "16079"
+  },
+  "Teton County, ID": {
+    "geoid": "16081"
+  },
+  "Twin Falls County, ID": {
+    "geoid": "16083"
+  },
+  "Valley County, ID": {
+    "geoid": "16085"
+  },
+  "Washington County, ID": {
+    "geoid": "16087"
+  },
+  "Adams County, IL": {
+    "geoid": "17001"
+  },
+  "Alexander County, IL": {
+    "geoid": "17003"
+  },
+  "Bond County, IL": {
+    "geoid": "17005"
+  },
+  "Boone County, IL": {
+    "geoid": "17007"
+  },
+  "Brown County, IL": {
+    "geoid": "17009"
+  },
+  "Bureau County, IL": {
+    "geoid": "17011"
+  },
+  "Calhoun County, IL": {
+    "geoid": "17013"
+  },
+  "Carroll County, IL": {
+    "geoid": "17015"
+  },
+  "Cass County, IL": {
+    "geoid": "17017"
+  },
+  "Champaign County, IL": {
+    "geoid": "17019"
+  },
+  "Christian County, IL": {
+    "geoid": "17021"
+  },
+  "Clark County, IL": {
+    "geoid": "17023"
+  },
+  "Clay County, IL": {
+    "geoid": "17025"
+  },
+  "Clinton County, IL": {
+    "geoid": "17027"
+  },
+  "Coles County, IL": {
+    "geoid": "17029"
+  },
+  "Cook County, IL": {
+    "geoid": "17031"
+  },
+  "Crawford County, IL": {
+    "geoid": "17033"
+  },
+  "Cumberland County, IL": {
+    "geoid": "17035"
+  },
+  "DeKalb County, IL": {
+    "geoid": "17037"
+  },
+  "De Witt County, IL": {
+    "geoid": "17039"
+  },
+  "Douglas County, IL": {
+    "geoid": "17041"
+  },
+  "DuPage County, IL": {
+    "geoid": "17043"
+  },
+  "Edgar County, IL": {
+    "geoid": "17045"
+  },
+  "Edwards County, IL": {
+    "geoid": "17047"
+  },
+  "Effingham County, IL": {
+    "geoid": "17049"
+  },
+  "Fayette County, IL": {
+    "geoid": "17051"
+  },
+  "Ford County, IL": {
+    "geoid": "17053"
+  },
+  "Franklin County, IL": {
+    "geoid": "17055"
+  },
+  "Fulton County, IL": {
+    "geoid": "17057"
+  },
+  "Gallatin County, IL": {
+    "geoid": "17059"
+  },
+  "Greene County, IL": {
+    "geoid": "17061"
+  },
+  "Grundy County, IL": {
+    "geoid": "17063"
+  },
+  "Hamilton County, IL": {
+    "geoid": "17065"
+  },
+  "Hancock County, IL": {
+    "geoid": "17067"
+  },
+  "Hardin County, IL": {
+    "geoid": "17069"
+  },
+  "Henderson County, IL": {
+    "geoid": "17071"
+  },
+  "Henry County, IL": {
+    "geoid": "17073"
+  },
+  "Iroquois County, IL": {
+    "geoid": "17075"
+  },
+  "Jackson County, IL": {
+    "geoid": "17077"
+  },
+  "Jasper County, IL": {
+    "geoid": "17079"
+  },
+  "Jefferson County, IL": {
+    "geoid": "17081"
+  },
+  "Jersey County, IL": {
+    "geoid": "17083"
+  },
+  "Jo Daviess County, IL": {
+    "geoid": "17085"
+  },
+  "Johnson County, IL": {
+    "geoid": "17087"
+  },
+  "Kane County, IL": {
+    "geoid": "17089"
+  },
+  "Kankakee County, IL": {
+    "geoid": "17091"
+  },
+  "Kendall County, IL": {
+    "geoid": "17093"
+  },
+  "Knox County, IL": {
+    "geoid": "17095"
+  },
+  "Lake County, IL": {
+    "geoid": "17097"
+  },
+  "LaSalle County, IL": {
+    "geoid": "17099"
+  },
+  "Lawrence County, IL": {
+    "geoid": "17101"
+  },
+  "Lee County, IL": {
+    "geoid": "17103"
+  },
+  "Livingston County, IL": {
+    "geoid": "17105"
+  },
+  "Logan County, IL": {
+    "geoid": "17107"
+  },
+  "McDonough County, IL": {
+    "geoid": "17109"
+  },
+  "McHenry County, IL": {
+    "geoid": "17111"
+  },
+  "McLean County, IL": {
+    "geoid": "17113"
+  },
+  "Macon County, IL": {
+    "geoid": "17115"
+  },
+  "Macoupin County, IL": {
+    "geoid": "17117"
+  },
+  "Madison County, IL": {
+    "geoid": "17119"
+  },
+  "Marion County, IL": {
+    "geoid": "17121"
+  },
+  "Marshall County, IL": {
+    "geoid": "17123"
+  },
+  "Mason County, IL": {
+    "geoid": "17125"
+  },
+  "Massac County, IL": {
+    "geoid": "17127"
+  },
+  "Menard County, IL": {
+    "geoid": "17129"
+  },
+  "Mercer County, IL": {
+    "geoid": "17131"
+  },
+  "Monroe County, IL": {
+    "geoid": "17133"
+  },
+  "Montgomery County, IL": {
+    "geoid": "17135"
+  },
+  "Morgan County, IL": {
+    "geoid": "17137"
+  },
+  "Moultrie County, IL": {
+    "geoid": "17139"
+  },
+  "Ogle County, IL": {
+    "geoid": "17141"
+  },
+  "Peoria County, IL": {
+    "geoid": "17143"
+  },
+  "Perry County, IL": {
+    "geoid": "17145"
+  },
+  "Piatt County, IL": {
+    "geoid": "17147"
+  },
+  "Pike County, IL": {
+    "geoid": "17149"
+  },
+  "Pope County, IL": {
+    "geoid": "17151"
+  },
+  "Pulaski County, IL": {
+    "geoid": "17153"
+  },
+  "Putnam County, IL": {
+    "geoid": "17155"
+  },
+  "Randolph County, IL": {
+    "geoid": "17157"
+  },
+  "Richland County, IL": {
+    "geoid": "17159"
+  },
+  "Rock Island County, IL": {
+    "geoid": "17161"
+  },
+  "St. Clair County, IL": {
+    "geoid": "17163"
+  },
+  "Saline County, IL": {
+    "geoid": "17165"
+  },
+  "Sangamon County, IL": {
+    "geoid": "17167"
+  },
+  "Schuyler County, IL": {
+    "geoid": "17169"
+  },
+  "Scott County, IL": {
+    "geoid": "17171"
+  },
+  "Shelby County, IL": {
+    "geoid": "17173"
+  },
+  "Stark County, IL": {
+    "geoid": "17175"
+  },
+  "Stephenson County, IL": {
+    "geoid": "17177"
+  },
+  "Tazewell County, IL": {
+    "geoid": "17179"
+  },
+  "Union County, IL": {
+    "geoid": "17181"
+  },
+  "Vermilion County, IL": {
+    "geoid": "17183"
+  },
+  "Wabash County, IL": {
+    "geoid": "17185"
+  },
+  "Warren County, IL": {
+    "geoid": "17187"
+  },
+  "Washington County, IL": {
+    "geoid": "17189"
+  },
+  "Wayne County, IL": {
+    "geoid": "17191"
+  },
+  "White County, IL": {
+    "geoid": "17193"
+  },
+  "Whiteside County, IL": {
+    "geoid": "17195"
+  },
+  "Will County, IL": {
+    "geoid": "17197"
+  },
+  "Williamson County, IL": {
+    "geoid": "17199"
+  },
+  "Winnebago County, IL": {
+    "geoid": "17201"
+  },
+  "Woodford County, IL": {
+    "geoid": "17203"
+  },
+  "Adams County, IN": {
+    "geoid": "18001"
+  },
+  "Allen County, IN": {
+    "geoid": "18003"
+  },
+  "Bartholomew County, IN": {
+    "geoid": "18005"
+  },
+  "Benton County, IN": {
+    "geoid": "18007"
+  },
+  "Blackford County, IN": {
+    "geoid": "18009"
+  },
+  "Boone County, IN": {
+    "geoid": "18011"
+  },
+  "Brown County, IN": {
+    "geoid": "18013"
+  },
+  "Carroll County, IN": {
+    "geoid": "18015"
+  },
+  "Cass County, IN": {
+    "geoid": "18017"
+  },
+  "Clark County, IN": {
+    "geoid": "18019"
+  },
+  "Clay County, IN": {
+    "geoid": "18021"
+  },
+  "Clinton County, IN": {
+    "geoid": "18023"
+  },
+  "Crawford County, IN": {
+    "geoid": "18025"
+  },
+  "Daviess County, IN": {
+    "geoid": "18027"
+  },
+  "Dearborn County, IN": {
+    "geoid": "18029"
+  },
+  "Decatur County, IN": {
+    "geoid": "18031"
+  },
+  "DeKalb County, IN": {
+    "geoid": "18033"
+  },
+  "Delaware County, IN": {
+    "geoid": "18035"
+  },
+  "Dubois County, IN": {
+    "geoid": "18037"
+  },
+  "Elkhart County, IN": {
+    "geoid": "18039"
+  },
+  "Fayette County, IN": {
+    "geoid": "18041"
+  },
+  "Floyd County, IN": {
+    "geoid": "18043"
+  },
+  "Fountain County, IN": {
+    "geoid": "18045"
+  },
+  "Franklin County, IN": {
+    "geoid": "18047"
+  },
+  "Fulton County, IN": {
+    "geoid": "18049"
+  },
+  "Gibson County, IN": {
+    "geoid": "18051"
+  },
+  "Grant County, IN": {
+    "geoid": "18053"
+  },
+  "Greene County, IN": {
+    "geoid": "18055"
+  },
+  "Hamilton County, IN": {
+    "geoid": "18057"
+  },
+  "Hancock County, IN": {
+    "geoid": "18059"
+  },
+  "Harrison County, IN": {
+    "geoid": "18061"
+  },
+  "Hendricks County, IN": {
+    "geoid": "18063"
+  },
+  "Henry County, IN": {
+    "geoid": "18065"
+  },
+  "Howard County, IN": {
+    "geoid": "18067"
+  },
+  "Huntington County, IN": {
+    "geoid": "18069"
+  },
+  "Jackson County, IN": {
+    "geoid": "18071"
+  },
+  "Jasper County, IN": {
+    "geoid": "18073"
+  },
+  "Jay County, IN": {
+    "geoid": "18075"
+  },
+  "Jefferson County, IN": {
+    "geoid": "18077"
+  },
+  "Jennings County, IN": {
+    "geoid": "18079"
+  },
+  "Johnson County, IN": {
+    "geoid": "18081"
+  },
+  "Knox County, IN": {
+    "geoid": "18083"
+  },
+  "Kosciusko County, IN": {
+    "geoid": "18085"
+  },
+  "LaGrange County, IN": {
+    "geoid": "18087"
+  },
+  "Lake County, IN": {
+    "geoid": "18089"
+  },
+  "LaPorte County, IN": {
+    "geoid": "18091"
+  },
+  "Lawrence County, IN": {
+    "geoid": "18093"
+  },
+  "Madison County, IN": {
+    "geoid": "18095"
+  },
+  "Marion County, IN": {
+    "geoid": "18097"
+  },
+  "Marshall County, IN": {
+    "geoid": "18099"
+  },
+  "Martin County, IN": {
+    "geoid": "18101"
+  },
+  "Miami County, IN": {
+    "geoid": "18103"
+  },
+  "Monroe County, IN": {
+    "geoid": "18105"
+  },
+  "Montgomery County, IN": {
+    "geoid": "18107"
+  },
+  "Morgan County, IN": {
+    "geoid": "18109"
+  },
+  "Newton County, IN": {
+    "geoid": "18111"
+  },
+  "Noble County, IN": {
+    "geoid": "18113"
+  },
+  "Ohio County, IN": {
+    "geoid": "18115"
+  },
+  "Orange County, IN": {
+    "geoid": "18117"
+  },
+  "Owen County, IN": {
+    "geoid": "18119"
+  },
+  "Parke County, IN": {
+    "geoid": "18121"
+  },
+  "Perry County, IN": {
+    "geoid": "18123"
+  },
+  "Pike County, IN": {
+    "geoid": "18125"
+  },
+  "Porter County, IN": {
+    "geoid": "18127"
+  },
+  "Posey County, IN": {
+    "geoid": "18129"
+  },
+  "Pulaski County, IN": {
+    "geoid": "18131"
+  },
+  "Putnam County, IN": {
+    "geoid": "18133"
+  },
+  "Randolph County, IN": {
+    "geoid": "18135"
+  },
+  "Ripley County, IN": {
+    "geoid": "18137"
+  },
+  "Rush County, IN": {
+    "geoid": "18139"
+  },
+  "St. Joseph County, IN": {
+    "geoid": "18141"
+  },
+  "Scott County, IN": {
+    "geoid": "18143"
+  },
+  "Shelby County, IN": {
+    "geoid": "18145"
+  },
+  "Spencer County, IN": {
+    "geoid": "18147"
+  },
+  "Starke County, IN": {
+    "geoid": "18149"
+  },
+  "Steuben County, IN": {
+    "geoid": "18151"
+  },
+  "Sullivan County, IN": {
+    "geoid": "18153"
+  },
+  "Switzerland County, IN": {
+    "geoid": "18155"
+  },
+  "Tippecanoe County, IN": {
+    "geoid": "18157"
+  },
+  "Tipton County, IN": {
+    "geoid": "18159"
+  },
+  "Union County, IN": {
+    "geoid": "18161"
+  },
+  "Vanderburgh County, IN": {
+    "geoid": "18163"
+  },
+  "Vermillion County, IN": {
+    "geoid": "18165"
+  },
+  "Vigo County, IN": {
+    "geoid": "18167"
+  },
+  "Wabash County, IN": {
+    "geoid": "18169"
+  },
+  "Warren County, IN": {
+    "geoid": "18171"
+  },
+  "Warrick County, IN": {
+    "geoid": "18173"
+  },
+  "Washington County, IN": {
+    "geoid": "18175"
+  },
+  "Wayne County, IN": {
+    "geoid": "18177"
+  },
+  "Wells County, IN": {
+    "geoid": "18179"
+  },
+  "White County, IN": {
+    "geoid": "18181"
+  },
+  "Whitley County, IN": {
+    "geoid": "18183"
+  },
+  "Adair County, IA": {
+    "geoid": "19001"
+  },
+  "Adams County, IA": {
+    "geoid": "19003"
+  },
+  "Allamakee County, IA": {
+    "geoid": "19005"
+  },
+  "Appanoose County, IA": {
+    "geoid": "19007"
+  },
+  "Audubon County, IA": {
+    "geoid": "19009"
+  },
+  "Benton County, IA": {
+    "geoid": "19011"
+  },
+  "Black Hawk County, IA": {
+    "geoid": "19013"
+  },
+  "Boone County, IA": {
+    "geoid": "19015"
+  },
+  "Bremer County, IA": {
+    "geoid": "19017"
+  },
+  "Buchanan County, IA": {
+    "geoid": "19019"
+  },
+  "Buena Vista County, IA": {
+    "geoid": "19021"
+  },
+  "Butler County, IA": {
+    "geoid": "19023"
+  },
+  "Calhoun County, IA": {
+    "geoid": "19025"
+  },
+  "Carroll County, IA": {
+    "geoid": "19027"
+  },
+  "Cass County, IA": {
+    "geoid": "19029"
+  },
+  "Cedar County, IA": {
+    "geoid": "19031"
+  },
+  "Cerro Gordo County, IA": {
+    "geoid": "19033"
+  },
+  "Cherokee County, IA": {
+    "geoid": "19035"
+  },
+  "Chickasaw County, IA": {
+    "geoid": "19037"
+  },
+  "Clarke County, IA": {
+    "geoid": "19039"
+  },
+  "Clay County, IA": {
+    "geoid": "19041"
+  },
+  "Clayton County, IA": {
+    "geoid": "19043"
+  },
+  "Clinton County, IA": {
+    "geoid": "19045"
+  },
+  "Crawford County, IA": {
+    "geoid": "19047"
+  },
+  "Dallas County, IA": {
+    "geoid": "19049"
+  },
+  "Davis County, IA": {
+    "geoid": "19051"
+  },
+  "Decatur County, IA": {
+    "geoid": "19053"
+  },
+  "Delaware County, IA": {
+    "geoid": "19055"
+  },
+  "Des Moines County, IA": {
+    "geoid": "19057"
+  },
+  "Dickinson County, IA": {
+    "geoid": "19059"
+  },
+  "Dubuque County, IA": {
+    "geoid": "19061"
+  },
+  "Emmet County, IA": {
+    "geoid": "19063"
+  },
+  "Fayette County, IA": {
+    "geoid": "19065"
+  },
+  "Floyd County, IA": {
+    "geoid": "19067"
+  },
+  "Franklin County, IA": {
+    "geoid": "19069"
+  },
+  "Fremont County, IA": {
+    "geoid": "19071"
+  },
+  "Greene County, IA": {
+    "geoid": "19073"
+  },
+  "Grundy County, IA": {
+    "geoid": "19075"
+  },
+  "Guthrie County, IA": {
+    "geoid": "19077"
+  },
+  "Hamilton County, IA": {
+    "geoid": "19079"
+  },
+  "Hancock County, IA": {
+    "geoid": "19081"
+  },
+  "Hardin County, IA": {
+    "geoid": "19083"
+  },
+  "Harrison County, IA": {
+    "geoid": "19085"
+  },
+  "Henry County, IA": {
+    "geoid": "19087"
+  },
+  "Howard County, IA": {
+    "geoid": "19089"
+  },
+  "Humboldt County, IA": {
+    "geoid": "19091"
+  },
+  "Ida County, IA": {
+    "geoid": "19093"
+  },
+  "Iowa County, IA": {
+    "geoid": "19095"
+  },
+  "Jackson County, IA": {
+    "geoid": "19097"
+  },
+  "Jasper County, IA": {
+    "geoid": "19099"
+  },
+  "Jefferson County, IA": {
+    "geoid": "19101"
+  },
+  "Johnson County, IA": {
+    "geoid": "19103"
+  },
+  "Jones County, IA": {
+    "geoid": "19105"
+  },
+  "Keokuk County, IA": {
+    "geoid": "19107"
+  },
+  "Kossuth County, IA": {
+    "geoid": "19109"
+  },
+  "Lee County, IA": {
+    "geoid": "19111"
+  },
+  "Linn County, IA": {
+    "geoid": "19113"
+  },
+  "Louisa County, IA": {
+    "geoid": "19115"
+  },
+  "Lucas County, IA": {
+    "geoid": "19117"
+  },
+  "Lyon County, IA": {
+    "geoid": "19119"
+  },
+  "Madison County, IA": {
+    "geoid": "19121"
+  },
+  "Mahaska County, IA": {
+    "geoid": "19123"
+  },
+  "Marion County, IA": {
+    "geoid": "19125"
+  },
+  "Marshall County, IA": {
+    "geoid": "19127"
+  },
+  "Mills County, IA": {
+    "geoid": "19129"
+  },
+  "Mitchell County, IA": {
+    "geoid": "19131"
+  },
+  "Monona County, IA": {
+    "geoid": "19133"
+  },
+  "Monroe County, IA": {
+    "geoid": "19135"
+  },
+  "Montgomery County, IA": {
+    "geoid": "19137"
+  },
+  "Muscatine County, IA": {
+    "geoid": "19139"
+  },
+  "O'Brien County, IA": {
+    "geoid": "19141"
+  },
+  "Osceola County, IA": {
+    "geoid": "19143"
+  },
+  "Page County, IA": {
+    "geoid": "19145"
+  },
+  "Palo Alto County, IA": {
+    "geoid": "19147"
+  },
+  "Plymouth County, IA": {
+    "geoid": "19149"
+  },
+  "Pocahontas County, IA": {
+    "geoid": "19151"
+  },
+  "Polk County, IA": {
+    "geoid": "19153"
+  },
+  "Pottawattamie County, IA": {
+    "geoid": "19155"
+  },
+  "Poweshiek County, IA": {
+    "geoid": "19157"
+  },
+  "Ringgold County, IA": {
+    "geoid": "19159"
+  },
+  "Sac County, IA": {
+    "geoid": "19161"
+  },
+  "Scott County, IA": {
+    "geoid": "19163"
+  },
+  "Shelby County, IA": {
+    "geoid": "19165"
+  },
+  "Sioux County, IA": {
+    "geoid": "19167"
+  },
+  "Story County, IA": {
+    "geoid": "19169"
+  },
+  "Tama County, IA": {
+    "geoid": "19171"
+  },
+  "Taylor County, IA": {
+    "geoid": "19173"
+  },
+  "Union County, IA": {
+    "geoid": "19175"
+  },
+  "Van Buren County, IA": {
+    "geoid": "19177"
+  },
+  "Wapello County, IA": {
+    "geoid": "19179"
+  },
+  "Warren County, IA": {
+    "geoid": "19181"
+  },
+  "Washington County, IA": {
+    "geoid": "19183"
+  },
+  "Wayne County, IA": {
+    "geoid": "19185"
+  },
+  "Webster County, IA": {
+    "geoid": "19187"
+  },
+  "Winnebago County, IA": {
+    "geoid": "19189"
+  },
+  "Winneshiek County, IA": {
+    "geoid": "19191"
+  },
+  "Woodbury County, IA": {
+    "geoid": "19193"
+  },
+  "Worth County, IA": {
+    "geoid": "19195"
+  },
+  "Wright County, IA": {
+    "geoid": "19197"
+  },
+  "Allen County, KS": {
+    "geoid": "20001"
+  },
+  "Anderson County, KS": {
+    "geoid": "20003"
+  },
+  "Atchison County, KS": {
+    "geoid": "20005"
+  },
+  "Barber County, KS": {
+    "geoid": "20007"
+  },
+  "Barton County, KS": {
+    "geoid": "20009"
+  },
+  "Bourbon County, KS": {
+    "geoid": "20011"
+  },
+  "Brown County, KS": {
+    "geoid": "20013"
+  },
+  "Butler County, KS": {
+    "geoid": "20015"
+  },
+  "Chase County, KS": {
+    "geoid": "20017"
+  },
+  "Chautauqua County, KS": {
+    "geoid": "20019"
+  },
+  "Cherokee County, KS": {
+    "geoid": "20021"
+  },
+  "Cheyenne County, KS": {
+    "geoid": "20023"
+  },
+  "Clark County, KS": {
+    "geoid": "20025"
+  },
+  "Clay County, KS": {
+    "geoid": "20027"
+  },
+  "Cloud County, KS": {
+    "geoid": "20029"
+  },
+  "Coffey County, KS": {
+    "geoid": "20031"
+  },
+  "Comanche County, KS": {
+    "geoid": "20033"
+  },
+  "Cowley County, KS": {
+    "geoid": "20035"
+  },
+  "Crawford County, KS": {
+    "geoid": "20037"
+  },
+  "Decatur County, KS": {
+    "geoid": "20039"
+  },
+  "Dickinson County, KS": {
+    "geoid": "20041"
+  },
+  "Doniphan County, KS": {
+    "geoid": "20043"
+  },
+  "Douglas County, KS": {
+    "geoid": "20045"
+  },
+  "Edwards County, KS": {
+    "geoid": "20047"
+  },
+  "Elk County, KS": {
+    "geoid": "20049"
+  },
+  "Ellis County, KS": {
+    "geoid": "20051"
+  },
+  "Ellsworth County, KS": {
+    "geoid": "20053"
+  },
+  "Finney County, KS": {
+    "geoid": "20055"
+  },
+  "Ford County, KS": {
+    "geoid": "20057"
+  },
+  "Franklin County, KS": {
+    "geoid": "20059"
+  },
+  "Geary County, KS": {
+    "geoid": "20061"
+  },
+  "Gove County, KS": {
+    "geoid": "20063"
+  },
+  "Graham County, KS": {
+    "geoid": "20065"
+  },
+  "Grant County, KS": {
+    "geoid": "20067"
+  },
+  "Gray County, KS": {
+    "geoid": "20069"
+  },
+  "Greeley County, KS": {
+    "geoid": "20071"
+  },
+  "Greenwood County, KS": {
+    "geoid": "20073"
+  },
+  "Hamilton County, KS": {
+    "geoid": "20075"
+  },
+  "Harper County, KS": {
+    "geoid": "20077"
+  },
+  "Harvey County, KS": {
+    "geoid": "20079"
+  },
+  "Haskell County, KS": {
+    "geoid": "20081"
+  },
+  "Hodgeman County, KS": {
+    "geoid": "20083"
+  },
+  "Jackson County, KS": {
+    "geoid": "20085"
+  },
+  "Jefferson County, KS": {
+    "geoid": "20087"
+  },
+  "Jewell County, KS": {
+    "geoid": "20089"
+  },
+  "Johnson County, KS": {
+    "geoid": "20091"
+  },
+  "Kearny County, KS": {
+    "geoid": "20093"
+  },
+  "Kingman County, KS": {
+    "geoid": "20095"
+  },
+  "Kiowa County, KS": {
+    "geoid": "20097"
+  },
+  "Labette County, KS": {
+    "geoid": "20099"
+  },
+  "Lane County, KS": {
+    "geoid": "20101"
+  },
+  "Leavenworth County, KS": {
+    "geoid": "20103"
+  },
+  "Lincoln County, KS": {
+    "geoid": "20105"
+  },
+  "Linn County, KS": {
+    "geoid": "20107"
+  },
+  "Logan County, KS": {
+    "geoid": "20109"
+  },
+  "Lyon County, KS": {
+    "geoid": "20111"
+  },
+  "McPherson County, KS": {
+    "geoid": "20113"
+  },
+  "Marion County, KS": {
+    "geoid": "20115"
+  },
+  "Marshall County, KS": {
+    "geoid": "20117"
+  },
+  "Meade County, KS": {
+    "geoid": "20119"
+  },
+  "Miami County, KS": {
+    "geoid": "20121"
+  },
+  "Mitchell County, KS": {
+    "geoid": "20123"
+  },
+  "Montgomery County, KS": {
+    "geoid": "20125"
+  },
+  "Morris County, KS": {
+    "geoid": "20127"
+  },
+  "Morton County, KS": {
+    "geoid": "20129"
+  },
+  "Nemaha County, KS": {
+    "geoid": "20131"
+  },
+  "Neosho County, KS": {
+    "geoid": "20133"
+  },
+  "Ness County, KS": {
+    "geoid": "20135"
+  },
+  "Norton County, KS": {
+    "geoid": "20137"
+  },
+  "Osage County, KS": {
+    "geoid": "20139"
+  },
+  "Osborne County, KS": {
+    "geoid": "20141"
+  },
+  "Ottawa County, KS": {
+    "geoid": "20143"
+  },
+  "Pawnee County, KS": {
+    "geoid": "20145"
+  },
+  "Phillips County, KS": {
+    "geoid": "20147"
+  },
+  "Pottawatomie County, KS": {
+    "geoid": "20149"
+  },
+  "Pratt County, KS": {
+    "geoid": "20151"
+  },
+  "Rawlins County, KS": {
+    "geoid": "20153"
+  },
+  "Reno County, KS": {
+    "geoid": "20155"
+  },
+  "Republic County, KS": {
+    "geoid": "20157"
+  },
+  "Rice County, KS": {
+    "geoid": "20159"
+  },
+  "Riley County, KS": {
+    "geoid": "20161"
+  },
+  "Rooks County, KS": {
+    "geoid": "20163"
+  },
+  "Rush County, KS": {
+    "geoid": "20165"
+  },
+  "Russell County, KS": {
+    "geoid": "20167"
+  },
+  "Saline County, KS": {
+    "geoid": "20169"
+  },
+  "Scott County, KS": {
+    "geoid": "20171"
+  },
+  "Sedgwick County, KS": {
+    "geoid": "20173"
+  },
+  "Seward County, KS": {
+    "geoid": "20175"
+  },
+  "Shawnee County, KS": {
+    "geoid": "20177"
+  },
+  "Sheridan County, KS": {
+    "geoid": "20179"
+  },
+  "Sherman County, KS": {
+    "geoid": "20181"
+  },
+  "Smith County, KS": {
+    "geoid": "20183"
+  },
+  "Stafford County, KS": {
+    "geoid": "20185"
+  },
+  "Stanton County, KS": {
+    "geoid": "20187"
+  },
+  "Stevens County, KS": {
+    "geoid": "20189"
+  },
+  "Sumner County, KS": {
+    "geoid": "20191"
+  },
+  "Thomas County, KS": {
+    "geoid": "20193"
+  },
+  "Trego County, KS": {
+    "geoid": "20195"
+  },
+  "Wabaunsee County, KS": {
+    "geoid": "20197"
+  },
+  "Wallace County, KS": {
+    "geoid": "20199"
+  },
+  "Washington County, KS": {
+    "geoid": "20201"
+  },
+  "Wichita County, KS": {
+    "geoid": "20203"
+  },
+  "Wilson County, KS": {
+    "geoid": "20205"
+  },
+  "Woodson County, KS": {
+    "geoid": "20207"
+  },
+  "Wyandotte County, KS": {
+    "geoid": "20209"
+  },
+  "Adair County, KY": {
+    "geoid": "21001"
+  },
+  "Allen County, KY": {
+    "geoid": "21003"
+  },
+  "Anderson County, KY": {
+    "geoid": "21005"
+  },
+  "Ballard County, KY": {
+    "geoid": "21007"
+  },
+  "Barren County, KY": {
+    "geoid": "21009"
+  },
+  "Bath County, KY": {
+    "geoid": "21011"
+  },
+  "Bell County, KY": {
+    "geoid": "21013"
+  },
+  "Boone County, KY": {
+    "geoid": "21015"
+  },
+  "Bourbon County, KY": {
+    "geoid": "21017"
+  },
+  "Boyd County, KY": {
+    "geoid": "21019"
+  },
+  "Boyle County, KY": {
+    "geoid": "21021"
+  },
+  "Bracken County, KY": {
+    "geoid": "21023"
+  },
+  "Breathitt County, KY": {
+    "geoid": "21025"
+  },
+  "Breckinridge County, KY": {
+    "geoid": "21027"
+  },
+  "Bullitt County, KY": {
+    "geoid": "21029"
+  },
+  "Butler County, KY": {
+    "geoid": "21031"
+  },
+  "Caldwell County, KY": {
+    "geoid": "21033"
+  },
+  "Calloway County, KY": {
+    "geoid": "21035"
+  },
+  "Campbell County, KY": {
+    "geoid": "21037"
+  },
+  "Carlisle County, KY": {
+    "geoid": "21039"
+  },
+  "Carroll County, KY": {
+    "geoid": "21041"
+  },
+  "Carter County, KY": {
+    "geoid": "21043"
+  },
+  "Casey County, KY": {
+    "geoid": "21045"
+  },
+  "Christian County, KY": {
+    "geoid": "21047"
+  },
+  "Clark County, KY": {
+    "geoid": "21049"
+  },
+  "Clay County, KY": {
+    "geoid": "21051"
+  },
+  "Clinton County, KY": {
+    "geoid": "21053"
+  },
+  "Crittenden County, KY": {
+    "geoid": "21055"
+  },
+  "Cumberland County, KY": {
+    "geoid": "21057"
+  },
+  "Daviess County, KY": {
+    "geoid": "21059"
+  },
+  "Edmonson County, KY": {
+    "geoid": "21061"
+  },
+  "Elliott County, KY": {
+    "geoid": "21063"
+  },
+  "Estill County, KY": {
+    "geoid": "21065"
+  },
+  "Fayette County, KY": {
+    "geoid": "21067"
+  },
+  "Fleming County, KY": {
+    "geoid": "21069"
+  },
+  "Floyd County, KY": {
+    "geoid": "21071"
+  },
+  "Franklin County, KY": {
+    "geoid": "21073"
+  },
+  "Fulton County, KY": {
+    "geoid": "21075"
+  },
+  "Gallatin County, KY": {
+    "geoid": "21077"
+  },
+  "Garrard County, KY": {
+    "geoid": "21079"
+  },
+  "Grant County, KY": {
+    "geoid": "21081"
+  },
+  "Graves County, KY": {
+    "geoid": "21083"
+  },
+  "Grayson County, KY": {
+    "geoid": "21085"
+  },
+  "Green County, KY": {
+    "geoid": "21087"
+  },
+  "Greenup County, KY": {
+    "geoid": "21089"
+  },
+  "Hancock County, KY": {
+    "geoid": "21091"
+  },
+  "Hardin County, KY": {
+    "geoid": "21093"
+  },
+  "Harlan County, KY": {
+    "geoid": "21095"
+  },
+  "Harrison County, KY": {
+    "geoid": "21097"
+  },
+  "Hart County, KY": {
+    "geoid": "21099"
+  },
+  "Henderson County, KY": {
+    "geoid": "21101"
+  },
+  "Henry County, KY": {
+    "geoid": "21103"
+  },
+  "Hickman County, KY": {
+    "geoid": "21105"
+  },
+  "Hopkins County, KY": {
+    "geoid": "21107"
+  },
+  "Jackson County, KY": {
+    "geoid": "21109"
+  },
+  "Jefferson County, KY": {
+    "geoid": "21111"
+  },
+  "Jessamine County, KY": {
+    "geoid": "21113"
+  },
+  "Johnson County, KY": {
+    "geoid": "21115"
+  },
+  "Kenton County, KY": {
+    "geoid": "21117"
+  },
+  "Knott County, KY": {
+    "geoid": "21119"
+  },
+  "Knox County, KY": {
+    "geoid": "21121"
+  },
+  "Larue County, KY": {
+    "geoid": "21123"
+  },
+  "Laurel County, KY": {
+    "geoid": "21125"
+  },
+  "Lawrence County, KY": {
+    "geoid": "21127"
+  },
+  "Lee County, KY": {
+    "geoid": "21129"
+  },
+  "Leslie County, KY": {
+    "geoid": "21131"
+  },
+  "Letcher County, KY": {
+    "geoid": "21133"
+  },
+  "Lewis County, KY": {
+    "geoid": "21135"
+  },
+  "Lincoln County, KY": {
+    "geoid": "21137"
+  },
+  "Livingston County, KY": {
+    "geoid": "21139"
+  },
+  "Logan County, KY": {
+    "geoid": "21141"
+  },
+  "Lyon County, KY": {
+    "geoid": "21143"
+  },
+  "McCracken County, KY": {
+    "geoid": "21145"
+  },
+  "McCreary County, KY": {
+    "geoid": "21147"
+  },
+  "McLean County, KY": {
+    "geoid": "21149"
+  },
+  "Madison County, KY": {
+    "geoid": "21151"
+  },
+  "Magoffin County, KY": {
+    "geoid": "21153"
+  },
+  "Marion County, KY": {
+    "geoid": "21155"
+  },
+  "Marshall County, KY": {
+    "geoid": "21157"
+  },
+  "Martin County, KY": {
+    "geoid": "21159"
+  },
+  "Mason County, KY": {
+    "geoid": "21161"
+  },
+  "Meade County, KY": {
+    "geoid": "21163"
+  },
+  "Menifee County, KY": {
+    "geoid": "21165"
+  },
+  "Mercer County, KY": {
+    "geoid": "21167"
+  },
+  "Metcalfe County, KY": {
+    "geoid": "21169"
+  },
+  "Monroe County, KY": {
+    "geoid": "21171"
+  },
+  "Montgomery County, KY": {
+    "geoid": "21173"
+  },
+  "Morgan County, KY": {
+    "geoid": "21175"
+  },
+  "Muhlenberg County, KY": {
+    "geoid": "21177"
+  },
+  "Nelson County, KY": {
+    "geoid": "21179"
+  },
+  "Nicholas County, KY": {
+    "geoid": "21181"
+  },
+  "Ohio County, KY": {
+    "geoid": "21183"
+  },
+  "Oldham County, KY": {
+    "geoid": "21185"
+  },
+  "Owen County, KY": {
+    "geoid": "21187"
+  },
+  "Owsley County, KY": {
+    "geoid": "21189"
+  },
+  "Pendleton County, KY": {
+    "geoid": "21191"
+  },
+  "Perry County, KY": {
+    "geoid": "21193"
+  },
+  "Pike County, KY": {
+    "geoid": "21195"
+  },
+  "Powell County, KY": {
+    "geoid": "21197"
+  },
+  "Pulaski County, KY": {
+    "geoid": "21199"
+  },
+  "Robertson County, KY": {
+    "geoid": "21201"
+  },
+  "Rockcastle County, KY": {
+    "geoid": "21203"
+  },
+  "Rowan County, KY": {
+    "geoid": "21205"
+  },
+  "Russell County, KY": {
+    "geoid": "21207"
+  },
+  "Scott County, KY": {
+    "geoid": "21209"
+  },
+  "Shelby County, KY": {
+    "geoid": "21211"
+  },
+  "Simpson County, KY": {
+    "geoid": "21213"
+  },
+  "Spencer County, KY": {
+    "geoid": "21215"
+  },
+  "Taylor County, KY": {
+    "geoid": "21217"
+  },
+  "Todd County, KY": {
+    "geoid": "21219"
+  },
+  "Trigg County, KY": {
+    "geoid": "21221"
+  },
+  "Trimble County, KY": {
+    "geoid": "21223"
+  },
+  "Union County, KY": {
+    "geoid": "21225"
+  },
+  "Warren County, KY": {
+    "geoid": "21227"
+  },
+  "Washington County, KY": {
+    "geoid": "21229"
+  },
+  "Wayne County, KY": {
+    "geoid": "21231"
+  },
+  "Webster County, KY": {
+    "geoid": "21233"
+  },
+  "Whitley County, KY": {
+    "geoid": "21235"
+  },
+  "Wolfe County, KY": {
+    "geoid": "21237"
+  },
+  "Woodford County, KY": {
+    "geoid": "21239"
+  },
+  "Acadia Parish, LA": {
+    "geoid": "22001"
+  },
+  "Allen Parish, LA": {
+    "geoid": "22003"
+  },
+  "Ascension Parish, LA": {
+    "geoid": "22005"
+  },
+  "Assumption Parish, LA": {
+    "geoid": "22007"
+  },
+  "Avoyelles Parish, LA": {
+    "geoid": "22009"
+  },
+  "Beauregard Parish, LA": {
+    "geoid": "22011"
+  },
+  "Bienville Parish, LA": {
+    "geoid": "22013"
+  },
+  "Bossier Parish, LA": {
+    "geoid": "22015"
+  },
+  "Caddo Parish, LA": {
+    "geoid": "22017"
+  },
+  "Calcasieu Parish, LA": {
+    "geoid": "22019"
+  },
+  "Caldwell Parish, LA": {
+    "geoid": "22021"
+  },
+  "Cameron Parish, LA": {
+    "geoid": "22023"
+  },
+  "Catahoula Parish, LA": {
+    "geoid": "22025"
+  },
+  "Claiborne Parish, LA": {
+    "geoid": "22027"
+  },
+  "Concordia Parish, LA": {
+    "geoid": "22029"
+  },
+  "De Soto Parish, LA": {
+    "geoid": "22031"
+  },
+  "East Baton Rouge Parish, LA": {
+    "geoid": "22033"
+  },
+  "East Carroll Parish, LA": {
+    "geoid": "22035"
+  },
+  "East Feliciana Parish, LA": {
+    "geoid": "22037"
+  },
+  "Evangeline Parish, LA": {
+    "geoid": "22039"
+  },
+  "Franklin Parish, LA": {
+    "geoid": "22041"
+  },
+  "Grant Parish, LA": {
+    "geoid": "22043"
+  },
+  "Iberia Parish, LA": {
+    "geoid": "22045"
+  },
+  "Iberville Parish, LA": {
+    "geoid": "22047"
+  },
+  "Jackson Parish, LA": {
+    "geoid": "22049"
+  },
+  "Jefferson Parish, LA": {
+    "geoid": "22051"
+  },
+  "Jefferson Davis Parish, LA": {
+    "geoid": "22053"
+  },
+  "Lafayette Parish, LA": {
+    "geoid": "22055"
+  },
+  "Lafourche Parish, LA": {
+    "geoid": "22057"
+  },
+  "La Salle Parish, LA": {
+    "geoid": "22059"
+  },
+  "Lincoln Parish, LA": {
+    "geoid": "22061"
+  },
+  "Livingston Parish, LA": {
+    "geoid": "22063"
+  },
+  "Madison Parish, LA": {
+    "geoid": "22065"
+  },
+  "Morehouse Parish, LA": {
+    "geoid": "22067"
+  },
+  "Natchitoches Parish, LA": {
+    "geoid": "22069"
+  },
+  "Orleans Parish, LA": {
+    "geoid": "22071"
+  },
+  "Ouachita Parish, LA": {
+    "geoid": "22073"
+  },
+  "Plaquemines Parish, LA": {
+    "geoid": "22075"
+  },
+  "Pointe Coupee Parish, LA": {
+    "geoid": "22077"
+  },
+  "Rapides Parish, LA": {
+    "geoid": "22079"
+  },
+  "Red River Parish, LA": {
+    "geoid": "22081"
+  },
+  "Richland Parish, LA": {
+    "geoid": "22083"
+  },
+  "Sabine Parish, LA": {
+    "geoid": "22085"
+  },
+  "St. Bernard Parish, LA": {
+    "geoid": "22087"
+  },
+  "St. Charles Parish, LA": {
+    "geoid": "22089"
+  },
+  "St. Helena Parish, LA": {
+    "geoid": "22091"
+  },
+  "St. James Parish, LA": {
+    "geoid": "22093"
+  },
+  "St. John the Baptist Parish, LA": {
+    "geoid": "22095"
+  },
+  "St. Landry Parish, LA": {
+    "geoid": "22097"
+  },
+  "St. Martin Parish, LA": {
+    "geoid": "22099"
+  },
+  "St. Mary Parish, LA": {
+    "geoid": "22101"
+  },
+  "St. Tammany Parish, LA": {
+    "geoid": "22103"
+  },
+  "Tangipahoa Parish, LA": {
+    "geoid": "22105"
+  },
+  "Tensas Parish, LA": {
+    "geoid": "22107"
+  },
+  "Terrebonne Parish, LA": {
+    "geoid": "22109"
+  },
+  "Union Parish, LA": {
+    "geoid": "22111"
+  },
+  "Vermilion Parish, LA": {
+    "geoid": "22113"
+  },
+  "Vernon Parish, LA": {
+    "geoid": "22115"
+  },
+  "Washington Parish, LA": {
+    "geoid": "22117"
+  },
+  "Webster Parish, LA": {
+    "geoid": "22119"
+  },
+  "West Baton Rouge Parish, LA": {
+    "geoid": "22121"
+  },
+  "West Carroll Parish, LA": {
+    "geoid": "22123"
+  },
+  "West Feliciana Parish, LA": {
+    "geoid": "22125"
+  },
+  "Winn Parish, LA": {
+    "geoid": "22127"
+  },
+  "Androscoggin County, ME": {
+    "geoid": "23001"
+  },
+  "Aroostook County, ME": {
+    "geoid": "23003"
+  },
+  "Cumberland County, ME": {
+    "geoid": "23005"
+  },
+  "Franklin County, ME": {
+    "geoid": "23007"
+  },
+  "Hancock County, ME": {
+    "geoid": "23009"
+  },
+  "Kennebec County, ME": {
+    "geoid": "23011"
+  },
+  "Knox County, ME": {
+    "geoid": "23013"
+  },
+  "Lincoln County, ME": {
+    "geoid": "23015"
+  },
+  "Oxford County, ME": {
+    "geoid": "23017"
+  },
+  "Penobscot County, ME": {
+    "geoid": "23019"
+  },
+  "Piscataquis County, ME": {
+    "geoid": "23021"
+  },
+  "Sagadahoc County, ME": {
+    "geoid": "23023"
+  },
+  "Somerset County, ME": {
+    "geoid": "23025"
+  },
+  "Waldo County, ME": {
+    "geoid": "23027"
+  },
+  "Washington County, ME": {
+    "geoid": "23029"
+  },
+  "York County, ME": {
+    "geoid": "23031"
+  },
+  "Allegany County, MD": {
+    "geoid": "24001"
+  },
+  "Anne Arundel County, MD": {
+    "geoid": "24003"
+  },
+  "Baltimore County, MD": {
+    "geoid": "24005"
+  },
+  "Calvert County, MD": {
+    "geoid": "24009"
+  },
+  "Caroline County, MD": {
+    "geoid": "24011"
+  },
+  "Carroll County, MD": {
+    "geoid": "24013"
+  },
+  "Cecil County, MD": {
+    "geoid": "24015"
+  },
+  "Charles County, MD": {
+    "geoid": "24017"
+  },
+  "Dorchester County, MD": {
+    "geoid": "24019"
+  },
+  "Frederick County, MD": {
+    "geoid": "24021"
+  },
+  "Garrett County, MD": {
+    "geoid": "24023"
+  },
+  "Harford County, MD": {
+    "geoid": "24025"
+  },
+  "Howard County, MD": {
+    "geoid": "24027"
+  },
+  "Kent County, MD": {
+    "geoid": "24029"
+  },
+  "Montgomery County, MD": {
+    "geoid": "24031"
+  },
+  "Prince George's County, MD": {
+    "geoid": "24033"
+  },
+  "Queen Anne's County, MD": {
+    "geoid": "24035"
+  },
+  "St. Mary's County, MD": {
+    "geoid": "24037"
+  },
+  "Somerset County, MD": {
+    "geoid": "24039"
+  },
+  "Talbot County, MD": {
+    "geoid": "24041"
+  },
+  "Washington County, MD": {
+    "geoid": "24043"
+  },
+  "Wicomico County, MD": {
+    "geoid": "24045"
+  },
+  "Worcester County, MD": {
+    "geoid": "24047"
+  },
+  "Baltimore city, MD": {
+    "geoid": "24510"
+  },
+  "Barnstable County, MA": {
+    "geoid": "25001"
+  },
+  "Berkshire County, MA": {
+    "geoid": "25003"
+  },
+  "Bristol County, MA": {
+    "geoid": "25005"
+  },
+  "Dukes County, MA": {
+    "geoid": "25007"
+  },
+  "Essex County, MA": {
+    "geoid": "25009"
+  },
+  "Franklin County, MA": {
+    "geoid": "25011"
+  },
+  "Hampden County, MA": {
+    "geoid": "25013"
+  },
+  "Hampshire County, MA": {
+    "geoid": "25015"
+  },
+  "Middlesex County, MA": {
+    "geoid": "25017"
+  },
+  "Nantucket County, MA": {
+    "geoid": "25019"
+  },
+  "Norfolk County, MA": {
+    "geoid": "25021"
+  },
+  "Plymouth County, MA": {
+    "geoid": "25023"
+  },
+  "Suffolk County, MA": {
+    "geoid": "25025"
+  },
+  "Worcester County, MA": {
+    "geoid": "25027"
+  },
+  "Alcona County, MI": {
+    "geoid": "26001"
+  },
+  "Alger County, MI": {
+    "geoid": "26003"
+  },
+  "Allegan County, MI": {
+    "geoid": "26005"
+  },
+  "Alpena County, MI": {
+    "geoid": "26007"
+  },
+  "Antrim County, MI": {
+    "geoid": "26009"
+  },
+  "Arenac County, MI": {
+    "geoid": "26011"
+  },
+  "Baraga County, MI": {
+    "geoid": "26013"
+  },
+  "Barry County, MI": {
+    "geoid": "26015"
+  },
+  "Bay County, MI": {
+    "geoid": "26017"
+  },
+  "Benzie County, MI": {
+    "geoid": "26019"
+  },
+  "Berrien County, MI": {
+    "geoid": "26021"
+  },
+  "Branch County, MI": {
+    "geoid": "26023"
+  },
+  "Calhoun County, MI": {
+    "geoid": "26025"
+  },
+  "Cass County, MI": {
+    "geoid": "26027"
+  },
+  "Charlevoix County, MI": {
+    "geoid": "26029"
+  },
+  "Cheboygan County, MI": {
+    "geoid": "26031"
+  },
+  "Chippewa County, MI": {
+    "geoid": "26033"
+  },
+  "Clare County, MI": {
+    "geoid": "26035"
+  },
+  "Clinton County, MI": {
+    "geoid": "26037"
+  },
+  "Crawford County, MI": {
+    "geoid": "26039"
+  },
+  "Delta County, MI": {
+    "geoid": "26041"
+  },
+  "Dickinson County, MI": {
+    "geoid": "26043"
+  },
+  "Eaton County, MI": {
+    "geoid": "26045"
+  },
+  "Emmet County, MI": {
+    "geoid": "26047"
+  },
+  "Genesee County, MI": {
+    "geoid": "26049"
+  },
+  "Gladwin County, MI": {
+    "geoid": "26051"
+  },
+  "Gogebic County, MI": {
+    "geoid": "26053"
+  },
+  "Grand Traverse County, MI": {
+    "geoid": "26055"
+  },
+  "Gratiot County, MI": {
+    "geoid": "26057"
+  },
+  "Hillsdale County, MI": {
+    "geoid": "26059"
+  },
+  "Houghton County, MI": {
+    "geoid": "26061"
+  },
+  "Huron County, MI": {
+    "geoid": "26063"
+  },
+  "Ingham County, MI": {
+    "geoid": "26065"
+  },
+  "Ionia County, MI": {
+    "geoid": "26067"
+  },
+  "Iosco County, MI": {
+    "geoid": "26069"
+  },
+  "Iron County, MI": {
+    "geoid": "26071"
+  },
+  "Isabella County, MI": {
+    "geoid": "26073"
+  },
+  "Jackson County, MI": {
+    "geoid": "26075"
+  },
+  "Kalamazoo County, MI": {
+    "geoid": "26077"
+  },
+  "Kalkaska County, MI": {
+    "geoid": "26079"
+  },
+  "Kent County, MI": {
+    "geoid": "26081"
+  },
+  "Keweenaw County, MI": {
+    "geoid": "26083"
+  },
+  "Lake County, MI": {
+    "geoid": "26085"
+  },
+  "Lapeer County, MI": {
+    "geoid": "26087"
+  },
+  "Leelanau County, MI": {
+    "geoid": "26089"
+  },
+  "Lenawee County, MI": {
+    "geoid": "26091"
+  },
+  "Livingston County, MI": {
+    "geoid": "26093"
+  },
+  "Luce County, MI": {
+    "geoid": "26095"
+  },
+  "Mackinac County, MI": {
+    "geoid": "26097"
+  },
+  "Macomb County, MI": {
+    "geoid": "26099"
+  },
+  "Manistee County, MI": {
+    "geoid": "26101"
+  },
+  "Marquette County, MI": {
+    "geoid": "26103"
+  },
+  "Mason County, MI": {
+    "geoid": "26105"
+  },
+  "Mecosta County, MI": {
+    "geoid": "26107"
+  },
+  "Menominee County, MI": {
+    "geoid": "26109"
+  },
+  "Midland County, MI": {
+    "geoid": "26111"
+  },
+  "Missaukee County, MI": {
+    "geoid": "26113"
+  },
+  "Monroe County, MI": {
+    "geoid": "26115"
+  },
+  "Montcalm County, MI": {
+    "geoid": "26117"
+  },
+  "Montmorency County, MI": {
+    "geoid": "26119"
+  },
+  "Muskegon County, MI": {
+    "geoid": "26121"
+  },
+  "Newaygo County, MI": {
+    "geoid": "26123"
+  },
+  "Oakland County, MI": {
+    "geoid": "26125"
+  },
+  "Oceana County, MI": {
+    "geoid": "26127"
+  },
+  "Ogemaw County, MI": {
+    "geoid": "26129"
+  },
+  "Ontonagon County, MI": {
+    "geoid": "26131"
+  },
+  "Osceola County, MI": {
+    "geoid": "26133"
+  },
+  "Oscoda County, MI": {
+    "geoid": "26135"
+  },
+  "Otsego County, MI": {
+    "geoid": "26137"
+  },
+  "Ottawa County, MI": {
+    "geoid": "26139"
+  },
+  "Presque Isle County, MI": {
+    "geoid": "26141"
+  },
+  "Roscommon County, MI": {
+    "geoid": "26143"
+  },
+  "Saginaw County, MI": {
+    "geoid": "26145"
+  },
+  "St. Clair County, MI": {
+    "geoid": "26147"
+  },
+  "St. Joseph County, MI": {
+    "geoid": "26149"
+  },
+  "Sanilac County, MI": {
+    "geoid": "26151"
+  },
+  "Schoolcraft County, MI": {
+    "geoid": "26153"
+  },
+  "Shiawassee County, MI": {
+    "geoid": "26155"
+  },
+  "Tuscola County, MI": {
+    "geoid": "26157"
+  },
+  "Van Buren County, MI": {
+    "geoid": "26159"
+  },
+  "Washtenaw County, MI": {
+    "geoid": "26161"
+  },
+  "Wayne County, MI": {
+    "geoid": "26163"
+  },
+  "Wexford County, MI": {
+    "geoid": "26165"
+  },
+  "Aitkin County, MN": {
+    "geoid": "27001"
+  },
+  "Anoka County, MN": {
+    "geoid": "27003"
+  },
+  "Becker County, MN": {
+    "geoid": "27005"
+  },
+  "Beltrami County, MN": {
+    "geoid": "27007"
+  },
+  "Benton County, MN": {
+    "geoid": "27009"
+  },
+  "Big Stone County, MN": {
+    "geoid": "27011"
+  },
+  "Blue Earth County, MN": {
+    "geoid": "27013"
+  },
+  "Brown County, MN": {
+    "geoid": "27015"
+  },
+  "Carlton County, MN": {
+    "geoid": "27017"
+  },
+  "Carver County, MN": {
+    "geoid": "27019"
+  },
+  "Cass County, MN": {
+    "geoid": "27021"
+  },
+  "Chippewa County, MN": {
+    "geoid": "27023"
+  },
+  "Chisago County, MN": {
+    "geoid": "27025"
+  },
+  "Clay County, MN": {
+    "geoid": "27027"
+  },
+  "Clearwater County, MN": {
+    "geoid": "27029"
+  },
+  "Cook County, MN": {
+    "geoid": "27031"
+  },
+  "Cottonwood County, MN": {
+    "geoid": "27033"
+  },
+  "Crow Wing County, MN": {
+    "geoid": "27035"
+  },
+  "Dakota County, MN": {
+    "geoid": "27037"
+  },
+  "Dodge County, MN": {
+    "geoid": "27039"
+  },
+  "Douglas County, MN": {
+    "geoid": "27041"
+  },
+  "Faribault County, MN": {
+    "geoid": "27043"
+  },
+  "Fillmore County, MN": {
+    "geoid": "27045"
+  },
+  "Freeborn County, MN": {
+    "geoid": "27047"
+  },
+  "Goodhue County, MN": {
+    "geoid": "27049"
+  },
+  "Grant County, MN": {
+    "geoid": "27051"
+  },
+  "Hennepin County, MN": {
+    "geoid": "27053"
+  },
+  "Houston County, MN": {
+    "geoid": "27055"
+  },
+  "Hubbard County, MN": {
+    "geoid": "27057"
+  },
+  "Isanti County, MN": {
+    "geoid": "27059"
+  },
+  "Itasca County, MN": {
+    "geoid": "27061"
+  },
+  "Jackson County, MN": {
+    "geoid": "27063"
+  },
+  "Kanabec County, MN": {
+    "geoid": "27065"
+  },
+  "Kandiyohi County, MN": {
+    "geoid": "27067"
+  },
+  "Kittson County, MN": {
+    "geoid": "27069"
+  },
+  "Koochiching County, MN": {
+    "geoid": "27071"
+  },
+  "Lac qui Parle County, MN": {
+    "geoid": "27073"
+  },
+  "Lake County, MN": {
+    "geoid": "27075"
+  },
+  "Lake of the Woods County, MN": {
+    "geoid": "27077"
+  },
+  "Le Sueur County, MN": {
+    "geoid": "27079"
+  },
+  "Lincoln County, MN": {
+    "geoid": "27081"
+  },
+  "Lyon County, MN": {
+    "geoid": "27083"
+  },
+  "McLeod County, MN": {
+    "geoid": "27085"
+  },
+  "Mahnomen County, MN": {
+    "geoid": "27087"
+  },
+  "Marshall County, MN": {
+    "geoid": "27089"
+  },
+  "Martin County, MN": {
+    "geoid": "27091"
+  },
+  "Meeker County, MN": {
+    "geoid": "27093"
+  },
+  "Mille Lacs County, MN": {
+    "geoid": "27095"
+  },
+  "Morrison County, MN": {
+    "geoid": "27097"
+  },
+  "Mower County, MN": {
+    "geoid": "27099"
+  },
+  "Murray County, MN": {
+    "geoid": "27101"
+  },
+  "Nicollet County, MN": {
+    "geoid": "27103"
+  },
+  "Nobles County, MN": {
+    "geoid": "27105"
+  },
+  "Norman County, MN": {
+    "geoid": "27107"
+  },
+  "Olmsted County, MN": {
+    "geoid": "27109"
+  },
+  "Otter Tail County, MN": {
+    "geoid": "27111"
+  },
+  "Pennington County, MN": {
+    "geoid": "27113"
+  },
+  "Pine County, MN": {
+    "geoid": "27115"
+  },
+  "Pipestone County, MN": {
+    "geoid": "27117"
+  },
+  "Polk County, MN": {
+    "geoid": "27119"
+  },
+  "Pope County, MN": {
+    "geoid": "27121"
+  },
+  "Ramsey County, MN": {
+    "geoid": "27123"
+  },
+  "Red Lake County, MN": {
+    "geoid": "27125"
+  },
+  "Redwood County, MN": {
+    "geoid": "27127"
+  },
+  "Renville County, MN": {
+    "geoid": "27129"
+  },
+  "Rice County, MN": {
+    "geoid": "27131"
+  },
+  "Rock County, MN": {
+    "geoid": "27133"
+  },
+  "Roseau County, MN": {
+    "geoid": "27135"
+  },
+  "St. Louis County, MN": {
+    "geoid": "27137"
+  },
+  "Scott County, MN": {
+    "geoid": "27139"
+  },
+  "Sherburne County, MN": {
+    "geoid": "27141"
+  },
+  "Sibley County, MN": {
+    "geoid": "27143"
+  },
+  "Stearns County, MN": {
+    "geoid": "27145"
+  },
+  "Steele County, MN": {
+    "geoid": "27147"
+  },
+  "Stevens County, MN": {
+    "geoid": "27149"
+  },
+  "Swift County, MN": {
+    "geoid": "27151"
+  },
+  "Todd County, MN": {
+    "geoid": "27153"
+  },
+  "Traverse County, MN": {
+    "geoid": "27155"
+  },
+  "Wabasha County, MN": {
+    "geoid": "27157"
+  },
+  "Wadena County, MN": {
+    "geoid": "27159"
+  },
+  "Waseca County, MN": {
+    "geoid": "27161"
+  },
+  "Washington County, MN": {
+    "geoid": "27163"
+  },
+  "Watonwan County, MN": {
+    "geoid": "27165"
+  },
+  "Wilkin County, MN": {
+    "geoid": "27167"
+  },
+  "Winona County, MN": {
+    "geoid": "27169"
+  },
+  "Wright County, MN": {
+    "geoid": "27171"
+  },
+  "Yellow Medicine County, MN": {
+    "geoid": "27173"
+  },
+  "Adams County, MS": {
+    "geoid": "28001"
+  },
+  "Alcorn County, MS": {
+    "geoid": "28003"
+  },
+  "Amite County, MS": {
+    "geoid": "28005"
+  },
+  "Attala County, MS": {
+    "geoid": "28007"
+  },
+  "Benton County, MS": {
+    "geoid": "28009"
+  },
+  "Bolivar County, MS": {
+    "geoid": "28011"
+  },
+  "Calhoun County, MS": {
+    "geoid": "28013"
+  },
+  "Carroll County, MS": {
+    "geoid": "28015"
+  },
+  "Chickasaw County, MS": {
+    "geoid": "28017"
+  },
+  "Choctaw County, MS": {
+    "geoid": "28019"
+  },
+  "Claiborne County, MS": {
+    "geoid": "28021"
+  },
+  "Clarke County, MS": {
+    "geoid": "28023"
+  },
+  "Clay County, MS": {
+    "geoid": "28025"
+  },
+  "Coahoma County, MS": {
+    "geoid": "28027"
+  },
+  "Copiah County, MS": {
+    "geoid": "28029"
+  },
+  "Covington County, MS": {
+    "geoid": "28031"
+  },
+  "DeSoto County, MS": {
+    "geoid": "28033"
+  },
+  "Forrest County, MS": {
+    "geoid": "28035"
+  },
+  "Franklin County, MS": {
+    "geoid": "28037"
+  },
+  "George County, MS": {
+    "geoid": "28039"
+  },
+  "Greene County, MS": {
+    "geoid": "28041"
+  },
+  "Grenada County, MS": {
+    "geoid": "28043"
+  },
+  "Hancock County, MS": {
+    "geoid": "28045"
+  },
+  "Harrison County, MS": {
+    "geoid": "28047"
+  },
+  "Hinds County, MS": {
+    "geoid": "28049"
+  },
+  "Holmes County, MS": {
+    "geoid": "28051"
+  },
+  "Humphreys County, MS": {
+    "geoid": "28053"
+  },
+  "Issaquena County, MS": {
+    "geoid": "28055"
+  },
+  "Itawamba County, MS": {
+    "geoid": "28057"
+  },
+  "Jackson County, MS": {
+    "geoid": "28059"
+  },
+  "Jasper County, MS": {
+    "geoid": "28061"
+  },
+  "Jefferson County, MS": {
+    "geoid": "28063"
+  },
+  "Jefferson Davis County, MS": {
+    "geoid": "28065"
+  },
+  "Jones County, MS": {
+    "geoid": "28067"
+  },
+  "Kemper County, MS": {
+    "geoid": "28069"
+  },
+  "Lafayette County, MS": {
+    "geoid": "28071"
+  },
+  "Lamar County, MS": {
+    "geoid": "28073"
+  },
+  "Lauderdale County, MS": {
+    "geoid": "28075"
+  },
+  "Lawrence County, MS": {
+    "geoid": "28077"
+  },
+  "Leake County, MS": {
+    "geoid": "28079"
+  },
+  "Lee County, MS": {
+    "geoid": "28081"
+  },
+  "Leflore County, MS": {
+    "geoid": "28083"
+  },
+  "Lincoln County, MS": {
+    "geoid": "28085"
+  },
+  "Lowndes County, MS": {
+    "geoid": "28087"
+  },
+  "Madison County, MS": {
+    "geoid": "28089"
+  },
+  "Marion County, MS": {
+    "geoid": "28091"
+  },
+  "Marshall County, MS": {
+    "geoid": "28093"
+  },
+  "Monroe County, MS": {
+    "geoid": "28095"
+  },
+  "Montgomery County, MS": {
+    "geoid": "28097"
+  },
+  "Neshoba County, MS": {
+    "geoid": "28099"
+  },
+  "Newton County, MS": {
+    "geoid": "28101"
+  },
+  "Noxubee County, MS": {
+    "geoid": "28103"
+  },
+  "Oktibbeha County, MS": {
+    "geoid": "28105"
+  },
+  "Panola County, MS": {
+    "geoid": "28107"
+  },
+  "Pearl River County, MS": {
+    "geoid": "28109"
+  },
+  "Perry County, MS": {
+    "geoid": "28111"
+  },
+  "Pike County, MS": {
+    "geoid": "28113"
+  },
+  "Pontotoc County, MS": {
+    "geoid": "28115"
+  },
+  "Prentiss County, MS": {
+    "geoid": "28117"
+  },
+  "Quitman County, MS": {
+    "geoid": "28119"
+  },
+  "Rankin County, MS": {
+    "geoid": "28121"
+  },
+  "Scott County, MS": {
+    "geoid": "28123"
+  },
+  "Sharkey County, MS": {
+    "geoid": "28125"
+  },
+  "Simpson County, MS": {
+    "geoid": "28127"
+  },
+  "Smith County, MS": {
+    "geoid": "28129"
+  },
+  "Stone County, MS": {
+    "geoid": "28131"
+  },
+  "Sunflower County, MS": {
+    "geoid": "28133"
+  },
+  "Tallahatchie County, MS": {
+    "geoid": "28135"
+  },
+  "Tate County, MS": {
+    "geoid": "28137"
+  },
+  "Tippah County, MS": {
+    "geoid": "28139"
+  },
+  "Tishomingo County, MS": {
+    "geoid": "28141"
+  },
+  "Tunica County, MS": {
+    "geoid": "28143"
+  },
+  "Union County, MS": {
+    "geoid": "28145"
+  },
+  "Walthall County, MS": {
+    "geoid": "28147"
+  },
+  "Warren County, MS": {
+    "geoid": "28149"
+  },
+  "Washington County, MS": {
+    "geoid": "28151"
+  },
+  "Wayne County, MS": {
+    "geoid": "28153"
+  },
+  "Webster County, MS": {
+    "geoid": "28155"
+  },
+  "Wilkinson County, MS": {
+    "geoid": "28157"
+  },
+  "Winston County, MS": {
+    "geoid": "28159"
+  },
+  "Yalobusha County, MS": {
+    "geoid": "28161"
+  },
+  "Yazoo County, MS": {
+    "geoid": "28163"
+  },
+  "Adair County, MO": {
+    "geoid": "29001"
+  },
+  "Andrew County, MO": {
+    "geoid": "29003"
+  },
+  "Atchison County, MO": {
+    "geoid": "29005"
+  },
+  "Audrain County, MO": {
+    "geoid": "29007"
+  },
+  "Barry County, MO": {
+    "geoid": "29009"
+  },
+  "Barton County, MO": {
+    "geoid": "29011"
+  },
+  "Bates County, MO": {
+    "geoid": "29013"
+  },
+  "Benton County, MO": {
+    "geoid": "29015"
+  },
+  "Bollinger County, MO": {
+    "geoid": "29017"
+  },
+  "Boone County, MO": {
+    "geoid": "29019"
+  },
+  "Buchanan County, MO": {
+    "geoid": "29021"
+  },
+  "Butler County, MO": {
+    "geoid": "29023"
+  },
+  "Caldwell County, MO": {
+    "geoid": "29025"
+  },
+  "Callaway County, MO": {
+    "geoid": "29027"
+  },
+  "Camden County, MO": {
+    "geoid": "29029"
+  },
+  "Cape Girardeau County, MO": {
+    "geoid": "29031"
+  },
+  "Carroll County, MO": {
+    "geoid": "29033"
+  },
+  "Carter County, MO": {
+    "geoid": "29035"
+  },
+  "Cass County, MO": {
+    "geoid": "29037"
+  },
+  "Cedar County, MO": {
+    "geoid": "29039"
+  },
+  "Chariton County, MO": {
+    "geoid": "29041"
+  },
+  "Christian County, MO": {
+    "geoid": "29043"
+  },
+  "Clark County, MO": {
+    "geoid": "29045"
+  },
+  "Clay County, MO": {
+    "geoid": "29047"
+  },
+  "Clinton County, MO": {
+    "geoid": "29049"
+  },
+  "Cole County, MO": {
+    "geoid": "29051"
+  },
+  "Cooper County, MO": {
+    "geoid": "29053"
+  },
+  "Crawford County, MO": {
+    "geoid": "29055"
+  },
+  "Dade County, MO": {
+    "geoid": "29057"
+  },
+  "Dallas County, MO": {
+    "geoid": "29059"
+  },
+  "Daviess County, MO": {
+    "geoid": "29061"
+  },
+  "DeKalb County, MO": {
+    "geoid": "29063"
+  },
+  "Dent County, MO": {
+    "geoid": "29065"
+  },
+  "Douglas County, MO": {
+    "geoid": "29067"
+  },
+  "Dunklin County, MO": {
+    "geoid": "29069"
+  },
+  "Franklin County, MO": {
+    "geoid": "29071"
+  },
+  "Gasconade County, MO": {
+    "geoid": "29073"
+  },
+  "Gentry County, MO": {
+    "geoid": "29075"
+  },
+  "Greene County, MO": {
+    "geoid": "29077"
+  },
+  "Grundy County, MO": {
+    "geoid": "29079"
+  },
+  "Harrison County, MO": {
+    "geoid": "29081"
+  },
+  "Henry County, MO": {
+    "geoid": "29083"
+  },
+  "Hickory County, MO": {
+    "geoid": "29085"
+  },
+  "Holt County, MO": {
+    "geoid": "29087"
+  },
+  "Howard County, MO": {
+    "geoid": "29089"
+  },
+  "Howell County, MO": {
+    "geoid": "29091"
+  },
+  "Iron County, MO": {
+    "geoid": "29093"
+  },
+  "Jackson County, MO": {
+    "geoid": "29095"
+  },
+  "Jasper County, MO": {
+    "geoid": "29097"
+  },
+  "Jefferson County, MO": {
+    "geoid": "29099"
+  },
+  "Johnson County, MO": {
+    "geoid": "29101"
+  },
+  "Knox County, MO": {
+    "geoid": "29103"
+  },
+  "Laclede County, MO": {
+    "geoid": "29105"
+  },
+  "Lafayette County, MO": {
+    "geoid": "29107"
+  },
+  "Lawrence County, MO": {
+    "geoid": "29109"
+  },
+  "Lewis County, MO": {
+    "geoid": "29111"
+  },
+  "Lincoln County, MO": {
+    "geoid": "29113"
+  },
+  "Linn County, MO": {
+    "geoid": "29115"
+  },
+  "Livingston County, MO": {
+    "geoid": "29117"
+  },
+  "McDonald County, MO": {
+    "geoid": "29119"
+  },
+  "Macon County, MO": {
+    "geoid": "29121"
+  },
+  "Madison County, MO": {
+    "geoid": "29123"
+  },
+  "Maries County, MO": {
+    "geoid": "29125"
+  },
+  "Marion County, MO": {
+    "geoid": "29127"
+  },
+  "Mercer County, MO": {
+    "geoid": "29129"
+  },
+  "Miller County, MO": {
+    "geoid": "29131"
+  },
+  "Mississippi County, MO": {
+    "geoid": "29133"
+  },
+  "Moniteau County, MO": {
+    "geoid": "29135"
+  },
+  "Monroe County, MO": {
+    "geoid": "29137"
+  },
+  "Montgomery County, MO": {
+    "geoid": "29139"
+  },
+  "Morgan County, MO": {
+    "geoid": "29141"
+  },
+  "New Madrid County, MO": {
+    "geoid": "29143"
+  },
+  "Newton County, MO": {
+    "geoid": "29145"
+  },
+  "Nodaway County, MO": {
+    "geoid": "29147"
+  },
+  "Oregon County, MO": {
+    "geoid": "29149"
+  },
+  "Osage County, MO": {
+    "geoid": "29151"
+  },
+  "Ozark County, MO": {
+    "geoid": "29153"
+  },
+  "Pemiscot County, MO": {
+    "geoid": "29155"
+  },
+  "Perry County, MO": {
+    "geoid": "29157"
+  },
+  "Pettis County, MO": {
+    "geoid": "29159"
+  },
+  "Phelps County, MO": {
+    "geoid": "29161"
+  },
+  "Pike County, MO": {
+    "geoid": "29163"
+  },
+  "Platte County, MO": {
+    "geoid": "29165"
+  },
+  "Polk County, MO": {
+    "geoid": "29167"
+  },
+  "Pulaski County, MO": {
+    "geoid": "29169"
+  },
+  "Putnam County, MO": {
+    "geoid": "29171"
+  },
+  "Ralls County, MO": {
+    "geoid": "29173"
+  },
+  "Randolph County, MO": {
+    "geoid": "29175"
+  },
+  "Ray County, MO": {
+    "geoid": "29177"
+  },
+  "Reynolds County, MO": {
+    "geoid": "29179"
+  },
+  "Ripley County, MO": {
+    "geoid": "29181"
+  },
+  "St. Charles County, MO": {
+    "geoid": "29183"
+  },
+  "St. Clair County, MO": {
+    "geoid": "29185"
+  },
+  "Ste. Genevieve County, MO": {
+    "geoid": "29186"
+  },
+  "St. Francois County, MO": {
+    "geoid": "29187"
+  },
+  "St. Louis County, MO": {
+    "geoid": "29189"
+  },
+  "Saline County, MO": {
+    "geoid": "29195"
+  },
+  "Schuyler County, MO": {
+    "geoid": "29197"
+  },
+  "Scotland County, MO": {
+    "geoid": "29199"
+  },
+  "Scott County, MO": {
+    "geoid": "29201"
+  },
+  "Shannon County, MO": {
+    "geoid": "29203"
+  },
+  "Shelby County, MO": {
+    "geoid": "29205"
+  },
+  "Stoddard County, MO": {
+    "geoid": "29207"
+  },
+  "Stone County, MO": {
+    "geoid": "29209"
+  },
+  "Sullivan County, MO": {
+    "geoid": "29211"
+  },
+  "Taney County, MO": {
+    "geoid": "29213"
+  },
+  "Texas County, MO": {
+    "geoid": "29215"
+  },
+  "Vernon County, MO": {
+    "geoid": "29217"
+  },
+  "Warren County, MO": {
+    "geoid": "29219"
+  },
+  "Washington County, MO": {
+    "geoid": "29221"
+  },
+  "Wayne County, MO": {
+    "geoid": "29223"
+  },
+  "Webster County, MO": {
+    "geoid": "29225"
+  },
+  "Worth County, MO": {
+    "geoid": "29227"
+  },
+  "Wright County, MO": {
+    "geoid": "29229"
+  },
+  "St. Louis city, MO": {
+    "geoid": "29510"
+  },
+  "Beaverhead County, MT": {
+    "geoid": "30001"
+  },
+  "Big Horn County, MT": {
+    "geoid": "30003"
+  },
+  "Blaine County, MT": {
+    "geoid": "30005"
+  },
+  "Broadwater County, MT": {
+    "geoid": "30007"
+  },
+  "Carbon County, MT": {
+    "geoid": "30009"
+  },
+  "Carter County, MT": {
+    "geoid": "30011"
+  },
+  "Cascade County, MT": {
+    "geoid": "30013"
+  },
+  "Chouteau County, MT": {
+    "geoid": "30015"
+  },
+  "Custer County, MT": {
+    "geoid": "30017"
+  },
+  "Daniels County, MT": {
+    "geoid": "30019"
+  },
+  "Dawson County, MT": {
+    "geoid": "30021"
+  },
+  "Deer Lodge County, MT": {
+    "geoid": "30023"
+  },
+  "Fallon County, MT": {
+    "geoid": "30025"
+  },
+  "Fergus County, MT": {
+    "geoid": "30027"
+  },
+  "Flathead County, MT": {
+    "geoid": "30029"
+  },
+  "Gallatin County, MT": {
+    "geoid": "30031"
+  },
+  "Garfield County, MT": {
+    "geoid": "30033"
+  },
+  "Glacier County, MT": {
+    "geoid": "30035"
+  },
+  "Golden Valley County, MT": {
+    "geoid": "30037"
+  },
+  "Granite County, MT": {
+    "geoid": "30039"
+  },
+  "Hill County, MT": {
+    "geoid": "30041"
+  },
+  "Jefferson County, MT": {
+    "geoid": "30043"
+  },
+  "Judith Basin County, MT": {
+    "geoid": "30045"
+  },
+  "Lake County, MT": {
+    "geoid": "30047"
+  },
+  "Lewis and Clark County, MT": {
+    "geoid": "30049"
+  },
+  "Liberty County, MT": {
+    "geoid": "30051"
+  },
+  "Lincoln County, MT": {
+    "geoid": "30053"
+  },
+  "McCone County, MT": {
+    "geoid": "30055"
+  },
+  "Madison County, MT": {
+    "geoid": "30057"
+  },
+  "Meagher County, MT": {
+    "geoid": "30059"
+  },
+  "Mineral County, MT": {
+    "geoid": "30061"
+  },
+  "Missoula County, MT": {
+    "geoid": "30063"
+  },
+  "Musselshell County, MT": {
+    "geoid": "30065"
+  },
+  "Park County, MT": {
+    "geoid": "30067"
+  },
+  "Petroleum County, MT": {
+    "geoid": "30069"
+  },
+  "Phillips County, MT": {
+    "geoid": "30071"
+  },
+  "Pondera County, MT": {
+    "geoid": "30073"
+  },
+  "Powder River County, MT": {
+    "geoid": "30075"
+  },
+  "Powell County, MT": {
+    "geoid": "30077"
+  },
+  "Prairie County, MT": {
+    "geoid": "30079"
+  },
+  "Ravalli County, MT": {
+    "geoid": "30081"
+  },
+  "Richland County, MT": {
+    "geoid": "30083"
+  },
+  "Roosevelt County, MT": {
+    "geoid": "30085"
+  },
+  "Rosebud County, MT": {
+    "geoid": "30087"
+  },
+  "Sanders County, MT": {
+    "geoid": "30089"
+  },
+  "Sheridan County, MT": {
+    "geoid": "30091"
+  },
+  "Silver Bow County, MT": {
+    "geoid": "30093"
+  },
+  "Stillwater County, MT": {
+    "geoid": "30095"
+  },
+  "Sweet Grass County, MT": {
+    "geoid": "30097"
+  },
+  "Teton County, MT": {
+    "geoid": "30099"
+  },
+  "Toole County, MT": {
+    "geoid": "30101"
+  },
+  "Treasure County, MT": {
+    "geoid": "30103"
+  },
+  "Valley County, MT": {
+    "geoid": "30105"
+  },
+  "Wheatland County, MT": {
+    "geoid": "30107"
+  },
+  "Wibaux County, MT": {
+    "geoid": "30109"
+  },
+  "Yellowstone County, MT": {
+    "geoid": "30111"
+  },
+  "Adams County, NE": {
+    "geoid": "31001"
+  },
+  "Antelope County, NE": {
+    "geoid": "31003"
+  },
+  "Arthur County, NE": {
+    "geoid": "31005"
+  },
+  "Banner County, NE": {
+    "geoid": "31007"
+  },
+  "Blaine County, NE": {
+    "geoid": "31009"
+  },
+  "Boone County, NE": {
+    "geoid": "31011"
+  },
+  "Box Butte County, NE": {
+    "geoid": "31013"
+  },
+  "Boyd County, NE": {
+    "geoid": "31015"
+  },
+  "Brown County, NE": {
+    "geoid": "31017"
+  },
+  "Buffalo County, NE": {
+    "geoid": "31019"
+  },
+  "Burt County, NE": {
+    "geoid": "31021"
+  },
+  "Butler County, NE": {
+    "geoid": "31023"
+  },
+  "Cass County, NE": {
+    "geoid": "31025"
+  },
+  "Cedar County, NE": {
+    "geoid": "31027"
+  },
+  "Chase County, NE": {
+    "geoid": "31029"
+  },
+  "Cherry County, NE": {
+    "geoid": "31031"
+  },
+  "Cheyenne County, NE": {
+    "geoid": "31033"
+  },
+  "Clay County, NE": {
+    "geoid": "31035"
+  },
+  "Colfax County, NE": {
+    "geoid": "31037"
+  },
+  "Cuming County, NE": {
+    "geoid": "31039"
+  },
+  "Custer County, NE": {
+    "geoid": "31041"
+  },
+  "Dakota County, NE": {
+    "geoid": "31043"
+  },
+  "Dawes County, NE": {
+    "geoid": "31045"
+  },
+  "Dawson County, NE": {
+    "geoid": "31047"
+  },
+  "Deuel County, NE": {
+    "geoid": "31049"
+  },
+  "Dixon County, NE": {
+    "geoid": "31051"
+  },
+  "Dodge County, NE": {
+    "geoid": "31053"
+  },
+  "Douglas County, NE": {
+    "geoid": "31055"
+  },
+  "Dundy County, NE": {
+    "geoid": "31057"
+  },
+  "Fillmore County, NE": {
+    "geoid": "31059"
+  },
+  "Franklin County, NE": {
+    "geoid": "31061"
+  },
+  "Frontier County, NE": {
+    "geoid": "31063"
+  },
+  "Furnas County, NE": {
+    "geoid": "31065"
+  },
+  "Gage County, NE": {
+    "geoid": "31067"
+  },
+  "Garden County, NE": {
+    "geoid": "31069"
+  },
+  "Garfield County, NE": {
+    "geoid": "31071"
+  },
+  "Gosper County, NE": {
+    "geoid": "31073"
+  },
+  "Grant County, NE": {
+    "geoid": "31075"
+  },
+  "Greeley County, NE": {
+    "geoid": "31077"
+  },
+  "Hall County, NE": {
+    "geoid": "31079"
+  },
+  "Hamilton County, NE": {
+    "geoid": "31081"
+  },
+  "Harlan County, NE": {
+    "geoid": "31083"
+  },
+  "Hayes County, NE": {
+    "geoid": "31085"
+  },
+  "Hitchcock County, NE": {
+    "geoid": "31087"
+  },
+  "Holt County, NE": {
+    "geoid": "31089"
+  },
+  "Hooker County, NE": {
+    "geoid": "31091"
+  },
+  "Howard County, NE": {
+    "geoid": "31093"
+  },
+  "Jefferson County, NE": {
+    "geoid": "31095"
+  },
+  "Johnson County, NE": {
+    "geoid": "31097"
+  },
+  "Kearney County, NE": {
+    "geoid": "31099"
+  },
+  "Keith County, NE": {
+    "geoid": "31101"
+  },
+  "Keya Paha County, NE": {
+    "geoid": "31103"
+  },
+  "Kimball County, NE": {
+    "geoid": "31105"
+  },
+  "Knox County, NE": {
+    "geoid": "31107"
+  },
+  "Lancaster County, NE": {
+    "geoid": "31109"
+  },
+  "Lincoln County, NE": {
+    "geoid": "31111"
+  },
+  "Logan County, NE": {
+    "geoid": "31113"
+  },
+  "Loup County, NE": {
+    "geoid": "31115"
+  },
+  "McPherson County, NE": {
+    "geoid": "31117"
+  },
+  "Madison County, NE": {
+    "geoid": "31119"
+  },
+  "Merrick County, NE": {
+    "geoid": "31121"
+  },
+  "Morrill County, NE": {
+    "geoid": "31123"
+  },
+  "Nance County, NE": {
+    "geoid": "31125"
+  },
+  "Nemaha County, NE": {
+    "geoid": "31127"
+  },
+  "Nuckolls County, NE": {
+    "geoid": "31129"
+  },
+  "Otoe County, NE": {
+    "geoid": "31131"
+  },
+  "Pawnee County, NE": {
+    "geoid": "31133"
+  },
+  "Perkins County, NE": {
+    "geoid": "31135"
+  },
+  "Phelps County, NE": {
+    "geoid": "31137"
+  },
+  "Pierce County, NE": {
+    "geoid": "31139"
+  },
+  "Platte County, NE": {
+    "geoid": "31141"
+  },
+  "Polk County, NE": {
+    "geoid": "31143"
+  },
+  "Red Willow County, NE": {
+    "geoid": "31145"
+  },
+  "Richardson County, NE": {
+    "geoid": "31147"
+  },
+  "Rock County, NE": {
+    "geoid": "31149"
+  },
+  "Saline County, NE": {
+    "geoid": "31151"
+  },
+  "Sarpy County, NE": {
+    "geoid": "31153"
+  },
+  "Saunders County, NE": {
+    "geoid": "31155"
+  },
+  "Scotts Bluff County, NE": {
+    "geoid": "31157"
+  },
+  "Seward County, NE": {
+    "geoid": "31159"
+  },
+  "Sheridan County, NE": {
+    "geoid": "31161"
+  },
+  "Sherman County, NE": {
+    "geoid": "31163"
+  },
+  "Sioux County, NE": {
+    "geoid": "31165"
+  },
+  "Stanton County, NE": {
+    "geoid": "31167"
+  },
+  "Thayer County, NE": {
+    "geoid": "31169"
+  },
+  "Thomas County, NE": {
+    "geoid": "31171"
+  },
+  "Thurston County, NE": {
+    "geoid": "31173"
+  },
+  "Valley County, NE": {
+    "geoid": "31175"
+  },
+  "Washington County, NE": {
+    "geoid": "31177"
+  },
+  "Wayne County, NE": {
+    "geoid": "31179"
+  },
+  "Webster County, NE": {
+    "geoid": "31181"
+  },
+  "Wheeler County, NE": {
+    "geoid": "31183"
+  },
+  "York County, NE": {
+    "geoid": "31185"
+  },
+  "Churchill County, NV": {
+    "geoid": "32001"
+  },
+  "Clark County, NV": {
+    "geoid": "32003"
+  },
+  "Douglas County, NV": {
+    "geoid": "32005"
+  },
+  "Elko County, NV": {
+    "geoid": "32007"
+  },
+  "Esmeralda County, NV": {
+    "geoid": "32009"
+  },
+  "Eureka County, NV": {
+    "geoid": "32011"
+  },
+  "Humboldt County, NV": {
+    "geoid": "32013"
+  },
+  "Lander County, NV": {
+    "geoid": "32015"
+  },
+  "Lincoln County, NV": {
+    "geoid": "32017"
+  },
+  "Lyon County, NV": {
+    "geoid": "32019"
+  },
+  "Mineral County, NV": {
+    "geoid": "32021"
+  },
+  "Nye County, NV": {
+    "geoid": "32023"
+  },
+  "Pershing County, NV": {
+    "geoid": "32027"
+  },
+  "Storey County, NV": {
+    "geoid": "32029"
+  },
+  "Washoe County, NV": {
+    "geoid": "32031"
+  },
+  "White Pine County, NV": {
+    "geoid": "32033"
+  },
+  "Carson City, NV": {
+    "geoid": "32510"
+  },
+  "Belknap County, NH": {
+    "geoid": "33001"
+  },
+  "Carroll County, NH": {
+    "geoid": "33003"
+  },
+  "Cheshire County, NH": {
+    "geoid": "33005"
+  },
+  "Coos County, NH": {
+    "geoid": "33007"
+  },
+  "Grafton County, NH": {
+    "geoid": "33009"
+  },
+  "Hillsborough County, NH": {
+    "geoid": "33011"
+  },
+  "Merrimack County, NH": {
+    "geoid": "33013"
+  },
+  "Rockingham County, NH": {
+    "geoid": "33015"
+  },
+  "Strafford County, NH": {
+    "geoid": "33017"
+  },
+  "Sullivan County, NH": {
+    "geoid": "33019"
+  },
+  "Atlantic County, NJ": {
+    "geoid": "34001"
+  },
+  "Bergen County, NJ": {
+    "geoid": "34003"
+  },
+  "Burlington County, NJ": {
+    "geoid": "34005"
+  },
+  "Camden County, NJ": {
+    "geoid": "34007"
+  },
+  "Cape May County, NJ": {
+    "geoid": "34009"
+  },
+  "Cumberland County, NJ": {
+    "geoid": "34011"
+  },
+  "Essex County, NJ": {
+    "geoid": "34013"
+  },
+  "Gloucester County, NJ": {
+    "geoid": "34015"
+  },
+  "Hudson County, NJ": {
+    "geoid": "34017"
+  },
+  "Hunterdon County, NJ": {
+    "geoid": "34019"
+  },
+  "Mercer County, NJ": {
+    "geoid": "34021"
+  },
+  "Middlesex County, NJ": {
+    "geoid": "34023"
+  },
+  "Monmouth County, NJ": {
+    "geoid": "34025"
+  },
+  "Morris County, NJ": {
+    "geoid": "34027"
+  },
+  "Ocean County, NJ": {
+    "geoid": "34029"
+  },
+  "Passaic County, NJ": {
+    "geoid": "34031"
+  },
+  "Salem County, NJ": {
+    "geoid": "34033"
+  },
+  "Somerset County, NJ": {
+    "geoid": "34035"
+  },
+  "Sussex County, NJ": {
+    "geoid": "34037"
+  },
+  "Union County, NJ": {
+    "geoid": "34039"
+  },
+  "Warren County, NJ": {
+    "geoid": "34041"
+  },
+  "Bernalillo County, NM": {
+    "geoid": "35001"
+  },
+  "Catron County, NM": {
+    "geoid": "35003"
+  },
+  "Chaves County, NM": {
+    "geoid": "35005"
+  },
+  "Cibola County, NM": {
+    "geoid": "35006"
+  },
+  "Colfax County, NM": {
+    "geoid": "35007"
+  },
+  "Curry County, NM": {
+    "geoid": "35009"
+  },
+  "De Baca County, NM": {
+    "geoid": "35011"
+  },
+  "Do�a Ana County, NM": {
+    "geoid": "35013"
+  },
+  "Eddy County, NM": {
+    "geoid": "35015"
+  },
+  "Grant County, NM": {
+    "geoid": "35017"
+  },
+  "Guadalupe County, NM": {
+    "geoid": "35019"
+  },
+  "Harding County, NM": {
+    "geoid": "35021"
+  },
+  "Hidalgo County, NM": {
+    "geoid": "35023"
+  },
+  "Lea County, NM": {
+    "geoid": "35025"
+  },
+  "Lincoln County, NM": {
+    "geoid": "35027"
+  },
+  "Los Alamos County, NM": {
+    "geoid": "35028"
+  },
+  "Luna County, NM": {
+    "geoid": "35029"
+  },
+  "McKinley County, NM": {
+    "geoid": "35031"
+  },
+  "Mora County, NM": {
+    "geoid": "35033"
+  },
+  "Otero County, NM": {
+    "geoid": "35035"
+  },
+  "Quay County, NM": {
+    "geoid": "35037"
+  },
+  "Rio Arriba County, NM": {
+    "geoid": "35039"
+  },
+  "Roosevelt County, NM": {
+    "geoid": "35041"
+  },
+  "Sandoval County, NM": {
+    "geoid": "35043"
+  },
+  "San Juan County, NM": {
+    "geoid": "35045"
+  },
+  "San Miguel County, NM": {
+    "geoid": "35047"
+  },
+  "Santa Fe County, NM": {
+    "geoid": "35049"
+  },
+  "Sierra County, NM": {
+    "geoid": "35051"
+  },
+  "Socorro County, NM": {
+    "geoid": "35053"
+  },
+  "Taos County, NM": {
+    "geoid": "35055"
+  },
+  "Torrance County, NM": {
+    "geoid": "35057"
+  },
+  "Union County, NM": {
+    "geoid": "35059"
+  },
+  "Valencia County, NM": {
+    "geoid": "35061"
+  },
+  "Albany County, NY": {
+    "geoid": "36001"
+  },
+  "Allegany County, NY": {
+    "geoid": "36003"
+  },
+  "Bronx County, NY": {
+    "geoid": "36005"
+  },
+  "Broome County, NY": {
+    "geoid": "36007"
+  },
+  "Cattaraugus County, NY": {
+    "geoid": "36009"
+  },
+  "Cayuga County, NY": {
+    "geoid": "36011"
+  },
+  "Chautauqua County, NY": {
+    "geoid": "36013"
+  },
+  "Chemung County, NY": {
+    "geoid": "36015"
+  },
+  "Chenango County, NY": {
+    "geoid": "36017"
+  },
+  "Clinton County, NY": {
+    "geoid": "36019"
+  },
+  "Columbia County, NY": {
+    "geoid": "36021"
+  },
+  "Cortland County, NY": {
+    "geoid": "36023"
+  },
+  "Delaware County, NY": {
+    "geoid": "36025"
+  },
+  "Dutchess County, NY": {
+    "geoid": "36027"
+  },
+  "Erie County, NY": {
+    "geoid": "36029"
+  },
+  "Essex County, NY": {
+    "geoid": "36031"
+  },
+  "Franklin County, NY": {
+    "geoid": "36033"
+  },
+  "Fulton County, NY": {
+    "geoid": "36035"
+  },
+  "Genesee County, NY": {
+    "geoid": "36037"
+  },
+  "Greene County, NY": {
+    "geoid": "36039"
+  },
+  "Hamilton County, NY": {
+    "geoid": "36041"
+  },
+  "Herkimer County, NY": {
+    "geoid": "36043"
+  },
+  "Jefferson County, NY": {
+    "geoid": "36045"
+  },
+  "Kings County, NY": {
+    "geoid": "36047"
+  },
+  "Lewis County, NY": {
+    "geoid": "36049"
+  },
+  "Livingston County, NY": {
+    "geoid": "36051"
+  },
+  "Madison County, NY": {
+    "geoid": "36053"
+  },
+  "Monroe County, NY": {
+    "geoid": "36055"
+  },
+  "Montgomery County, NY": {
+    "geoid": "36057"
+  },
+  "Nassau County, NY": {
+    "geoid": "36059"
+  },
+  "New York County, NY": {
+    "geoid": "36061"
+  },
+  "Niagara County, NY": {
+    "geoid": "36063"
+  },
+  "Oneida County, NY": {
+    "geoid": "36065"
+  },
+  "Onondaga County, NY": {
+    "geoid": "36067"
+  },
+  "Ontario County, NY": {
+    "geoid": "36069"
+  },
+  "Orange County, NY": {
+    "geoid": "36071"
+  },
+  "Orleans County, NY": {
+    "geoid": "36073"
+  },
+  "Oswego County, NY": {
+    "geoid": "36075"
+  },
+  "Otsego County, NY": {
+    "geoid": "36077"
+  },
+  "Putnam County, NY": {
+    "geoid": "36079"
+  },
+  "Queens County, NY": {
+    "geoid": "36081"
+  },
+  "Rensselaer County, NY": {
+    "geoid": "36083"
+  },
+  "Richmond County, NY": {
+    "geoid": "36085"
+  },
+  "Rockland County, NY": {
+    "geoid": "36087"
+  },
+  "St. Lawrence County, NY": {
+    "geoid": "36089"
+  },
+  "Saratoga County, NY": {
+    "geoid": "36091"
+  },
+  "Schenectady County, NY": {
+    "geoid": "36093"
+  },
+  "Schoharie County, NY": {
+    "geoid": "36095"
+  },
+  "Schuyler County, NY": {
+    "geoid": "36097"
+  },
+  "Seneca County, NY": {
+    "geoid": "36099"
+  },
+  "Steuben County, NY": {
+    "geoid": "36101"
+  },
+  "Suffolk County, NY": {
+    "geoid": "36103"
+  },
+  "Sullivan County, NY": {
+    "geoid": "36105"
+  },
+  "Tioga County, NY": {
+    "geoid": "36107"
+  },
+  "Tompkins County, NY": {
+    "geoid": "36109"
+  },
+  "Ulster County, NY": {
+    "geoid": "36111"
+  },
+  "Warren County, NY": {
+    "geoid": "36113"
+  },
+  "Washington County, NY": {
+    "geoid": "36115"
+  },
+  "Wayne County, NY": {
+    "geoid": "36117"
+  },
+  "Westchester County, NY": {
+    "geoid": "36119"
+  },
+  "Wyoming County, NY": {
+    "geoid": "36121"
+  },
+  "Yates County, NY": {
+    "geoid": "36123"
+  },
+  "Alamance County, NC": {
+    "geoid": "37001"
+  },
+  "Alexander County, NC": {
+    "geoid": "37003"
+  },
+  "Alleghany County, NC": {
+    "geoid": "37005"
+  },
+  "Anson County, NC": {
+    "geoid": "37007"
+  },
+  "Ashe County, NC": {
+    "geoid": "37009"
+  },
+  "Avery County, NC": {
+    "geoid": "37011"
+  },
+  "Beaufort County, NC": {
+    "geoid": "37013"
+  },
+  "Bertie County, NC": {
+    "geoid": "37015"
+  },
+  "Bladen County, NC": {
+    "geoid": "37017"
+  },
+  "Brunswick County, NC": {
+    "geoid": "37019"
+  },
+  "Buncombe County, NC": {
+    "geoid": "37021"
+  },
+  "Burke County, NC": {
+    "geoid": "37023"
+  },
+  "Cabarrus County, NC": {
+    "geoid": "37025"
+  },
+  "Caldwell County, NC": {
+    "geoid": "37027"
+  },
+  "Camden County, NC": {
+    "geoid": "37029"
+  },
+  "Carteret County, NC": {
+    "geoid": "37031"
+  },
+  "Caswell County, NC": {
+    "geoid": "37033"
+  },
+  "Catawba County, NC": {
+    "geoid": "37035"
+  },
+  "Chatham County, NC": {
+    "geoid": "37037"
+  },
+  "Cherokee County, NC": {
+    "geoid": "37039"
+  },
+  "Chowan County, NC": {
+    "geoid": "37041"
+  },
+  "Clay County, NC": {
+    "geoid": "37043"
+  },
+  "Cleveland County, NC": {
+    "geoid": "37045"
+  },
+  "Columbus County, NC": {
+    "geoid": "37047"
+  },
+  "Craven County, NC": {
+    "geoid": "37049"
+  },
+  "Cumberland County, NC": {
+    "geoid": "37051"
+  },
+  "Currituck County, NC": {
+    "geoid": "37053"
+  },
+  "Dare County, NC": {
+    "geoid": "37055"
+  },
+  "Davidson County, NC": {
+    "geoid": "37057"
+  },
+  "Davie County, NC": {
+    "geoid": "37059"
+  },
+  "Duplin County, NC": {
+    "geoid": "37061"
+  },
+  "Durham County, NC": {
+    "geoid": "37063"
+  },
+  "Edgecombe County, NC": {
+    "geoid": "37065"
+  },
+  "Forsyth County, NC": {
+    "geoid": "37067"
+  },
+  "Franklin County, NC": {
+    "geoid": "37069"
+  },
+  "Gaston County, NC": {
+    "geoid": "37071"
+  },
+  "Gates County, NC": {
+    "geoid": "37073"
+  },
+  "Graham County, NC": {
+    "geoid": "37075"
+  },
+  "Granville County, NC": {
+    "geoid": "37077"
+  },
+  "Greene County, NC": {
+    "geoid": "37079"
+  },
+  "Guilford County, NC": {
+    "geoid": "37081"
+  },
+  "Halifax County, NC": {
+    "geoid": "37083"
+  },
+  "Harnett County, NC": {
+    "geoid": "37085"
+  },
+  "Haywood County, NC": {
+    "geoid": "37087"
+  },
+  "Henderson County, NC": {
+    "geoid": "37089"
+  },
+  "Hertford County, NC": {
+    "geoid": "37091"
+  },
+  "Hoke County, NC": {
+    "geoid": "37093"
+  },
+  "Hyde County, NC": {
+    "geoid": "37095"
+  },
+  "Iredell County, NC": {
+    "geoid": "37097"
+  },
+  "Jackson County, NC": {
+    "geoid": "37099"
+  },
+  "Johnston County, NC": {
+    "geoid": "37101"
+  },
+  "Jones County, NC": {
+    "geoid": "37103"
+  },
+  "Lee County, NC": {
+    "geoid": "37105"
+  },
+  "Lenoir County, NC": {
+    "geoid": "37107"
+  },
+  "Lincoln County, NC": {
+    "geoid": "37109"
+  },
+  "McDowell County, NC": {
+    "geoid": "37111"
+  },
+  "Macon County, NC": {
+    "geoid": "37113"
+  },
+  "Madison County, NC": {
+    "geoid": "37115"
+  },
+  "Martin County, NC": {
+    "geoid": "37117"
+  },
+  "Mecklenburg County, NC": {
+    "geoid": "37119"
+  },
+  "Mitchell County, NC": {
+    "geoid": "37121"
+  },
+  "Montgomery County, NC": {
+    "geoid": "37123"
+  },
+  "Moore County, NC": {
+    "geoid": "37125"
+  },
+  "Nash County, NC": {
+    "geoid": "37127"
+  },
+  "New Hanover County, NC": {
+    "geoid": "37129"
+  },
+  "Northampton County, NC": {
+    "geoid": "37131"
+  },
+  "Onslow County, NC": {
+    "geoid": "37133"
+  },
+  "Orange County, NC": {
+    "geoid": "37135"
+  },
+  "Pamlico County, NC": {
+    "geoid": "37137"
+  },
+  "Pasquotank County, NC": {
+    "geoid": "37139"
+  },
+  "Pender County, NC": {
+    "geoid": "37141"
+  },
+  "Perquimans County, NC": {
+    "geoid": "37143"
+  },
+  "Person County, NC": {
+    "geoid": "37145"
+  },
+  "Pitt County, NC": {
+    "geoid": "37147"
+  },
+  "Polk County, NC": {
+    "geoid": "37149"
+  },
+  "Randolph County, NC": {
+    "geoid": "37151"
+  },
+  "Richmond County, NC": {
+    "geoid": "37153"
+  },
+  "Robeson County, NC": {
+    "geoid": "37155"
+  },
+  "Rockingham County, NC": {
+    "geoid": "37157"
+  },
+  "Rowan County, NC": {
+    "geoid": "37159"
+  },
+  "Rutherford County, NC": {
+    "geoid": "37161"
+  },
+  "Sampson County, NC": {
+    "geoid": "37163"
+  },
+  "Scotland County, NC": {
+    "geoid": "37165"
+  },
+  "Stanly County, NC": {
+    "geoid": "37167"
+  },
+  "Stokes County, NC": {
+    "geoid": "37169"
+  },
+  "Surry County, NC": {
+    "geoid": "37171"
+  },
+  "Swain County, NC": {
+    "geoid": "37173"
+  },
+  "Transylvania County, NC": {
+    "geoid": "37175"
+  },
+  "Tyrrell County, NC": {
+    "geoid": "37177"
+  },
+  "Union County, NC": {
+    "geoid": "37179"
+  },
+  "Vance County, NC": {
+    "geoid": "37181"
+  },
+  "Wake County, NC": {
+    "geoid": "37183"
+  },
+  "Warren County, NC": {
+    "geoid": "37185"
+  },
+  "Washington County, NC": {
+    "geoid": "37187"
+  },
+  "Watauga County, NC": {
+    "geoid": "37189"
+  },
+  "Wayne County, NC": {
+    "geoid": "37191"
+  },
+  "Wilkes County, NC": {
+    "geoid": "37193"
+  },
+  "Wilson County, NC": {
+    "geoid": "37195"
+  },
+  "Yadkin County, NC": {
+    "geoid": "37197"
+  },
+  "Yancey County, NC": {
+    "geoid": "37199"
+  },
+  "Adams County, ND": {
+    "geoid": "38001"
+  },
+  "Barnes County, ND": {
+    "geoid": "38003"
+  },
+  "Benson County, ND": {
+    "geoid": "38005"
+  },
+  "Billings County, ND": {
+    "geoid": "38007"
+  },
+  "Bottineau County, ND": {
+    "geoid": "38009"
+  },
+  "Bowman County, ND": {
+    "geoid": "38011"
+  },
+  "Burke County, ND": {
+    "geoid": "38013"
+  },
+  "Burleigh County, ND": {
+    "geoid": "38015"
+  },
+  "Cass County, ND": {
+    "geoid": "38017"
+  },
+  "Cavalier County, ND": {
+    "geoid": "38019"
+  },
+  "Dickey County, ND": {
+    "geoid": "38021"
+  },
+  "Divide County, ND": {
+    "geoid": "38023"
+  },
+  "Dunn County, ND": {
+    "geoid": "38025"
+  },
+  "Eddy County, ND": {
+    "geoid": "38027"
+  },
+  "Emmons County, ND": {
+    "geoid": "38029"
+  },
+  "Foster County, ND": {
+    "geoid": "38031"
+  },
+  "Golden Valley County, ND": {
+    "geoid": "38033"
+  },
+  "Grand Forks County, ND": {
+    "geoid": "38035"
+  },
+  "Grant County, ND": {
+    "geoid": "38037"
+  },
+  "Griggs County, ND": {
+    "geoid": "38039"
+  },
+  "Hettinger County, ND": {
+    "geoid": "38041"
+  },
+  "Kidder County, ND": {
+    "geoid": "38043"
+  },
+  "LaMoure County, ND": {
+    "geoid": "38045"
+  },
+  "Logan County, ND": {
+    "geoid": "38047"
+  },
+  "McHenry County, ND": {
+    "geoid": "38049"
+  },
+  "McIntosh County, ND": {
+    "geoid": "38051"
+  },
+  "McKenzie County, ND": {
+    "geoid": "38053"
+  },
+  "McLean County, ND": {
+    "geoid": "38055"
+  },
+  "Mercer County, ND": {
+    "geoid": "38057"
+  },
+  "Morton County, ND": {
+    "geoid": "38059"
+  },
+  "Mountrail County, ND": {
+    "geoid": "38061"
+  },
+  "Nelson County, ND": {
+    "geoid": "38063"
+  },
+  "Oliver County, ND": {
+    "geoid": "38065"
+  },
+  "Pembina County, ND": {
+    "geoid": "38067"
+  },
+  "Pierce County, ND": {
+    "geoid": "38069"
+  },
+  "Ramsey County, ND": {
+    "geoid": "38071"
+  },
+  "Ransom County, ND": {
+    "geoid": "38073"
+  },
+  "Renville County, ND": {
+    "geoid": "38075"
+  },
+  "Richland County, ND": {
+    "geoid": "38077"
+  },
+  "Rolette County, ND": {
+    "geoid": "38079"
+  },
+  "Sargent County, ND": {
+    "geoid": "38081"
+  },
+  "Sheridan County, ND": {
+    "geoid": "38083"
+  },
+  "Sioux County, ND": {
+    "geoid": "38085"
+  },
+  "Slope County, ND": {
+    "geoid": "38087"
+  },
+  "Stark County, ND": {
+    "geoid": "38089"
+  },
+  "Steele County, ND": {
+    "geoid": "38091"
+  },
+  "Stutsman County, ND": {
+    "geoid": "38093"
+  },
+  "Towner County, ND": {
+    "geoid": "38095"
+  },
+  "Traill County, ND": {
+    "geoid": "38097"
+  },
+  "Walsh County, ND": {
+    "geoid": "38099"
+  },
+  "Ward County, ND": {
+    "geoid": "38101"
+  },
+  "Wells County, ND": {
+    "geoid": "38103"
+  },
+  "Williams County, ND": {
+    "geoid": "38105"
+  },
+  "Adams County, OH": {
+    "geoid": "39001"
+  },
+  "Allen County, OH": {
+    "geoid": "39003"
+  },
+  "Ashland County, OH": {
+    "geoid": "39005"
+  },
+  "Ashtabula County, OH": {
+    "geoid": "39007"
+  },
+  "Athens County, OH": {
+    "geoid": "39009"
+  },
+  "Auglaize County, OH": {
+    "geoid": "39011"
+  },
+  "Belmont County, OH": {
+    "geoid": "39013"
+  },
+  "Brown County, OH": {
+    "geoid": "39015"
+  },
+  "Butler County, OH": {
+    "geoid": "39017"
+  },
+  "Carroll County, OH": {
+    "geoid": "39019"
+  },
+  "Champaign County, OH": {
+    "geoid": "39021"
+  },
+  "Clark County, OH": {
+    "geoid": "39023"
+  },
+  "Clermont County, OH": {
+    "geoid": "39025"
+  },
+  "Clinton County, OH": {
+    "geoid": "39027"
+  },
+  "Columbiana County, OH": {
+    "geoid": "39029"
+  },
+  "Coshocton County, OH": {
+    "geoid": "39031"
+  },
+  "Crawford County, OH": {
+    "geoid": "39033"
+  },
+  "Cuyahoga County, OH": {
+    "geoid": "39035"
+  },
+  "Darke County, OH": {
+    "geoid": "39037"
+  },
+  "Defiance County, OH": {
+    "geoid": "39039"
+  },
+  "Delaware County, OH": {
+    "geoid": "39041"
+  },
+  "Erie County, OH": {
+    "geoid": "39043"
+  },
+  "Fairfield County, OH": {
+    "geoid": "39045"
+  },
+  "Fayette County, OH": {
+    "geoid": "39047"
+  },
+  "Franklin County, OH": {
+    "geoid": "39049"
+  },
+  "Fulton County, OH": {
+    "geoid": "39051"
+  },
+  "Gallia County, OH": {
+    "geoid": "39053"
+  },
+  "Geauga County, OH": {
+    "geoid": "39055"
+  },
+  "Greene County, OH": {
+    "geoid": "39057"
+  },
+  "Guernsey County, OH": {
+    "geoid": "39059"
+  },
+  "Hamilton County, OH": {
+    "geoid": "39061"
+  },
+  "Hancock County, OH": {
+    "geoid": "39063"
+  },
+  "Hardin County, OH": {
+    "geoid": "39065"
+  },
+  "Harrison County, OH": {
+    "geoid": "39067"
+  },
+  "Henry County, OH": {
+    "geoid": "39069"
+  },
+  "Highland County, OH": {
+    "geoid": "39071"
+  },
+  "Hocking County, OH": {
+    "geoid": "39073"
+  },
+  "Holmes County, OH": {
+    "geoid": "39075"
+  },
+  "Huron County, OH": {
+    "geoid": "39077"
+  },
+  "Jackson County, OH": {
+    "geoid": "39079"
+  },
+  "Jefferson County, OH": {
+    "geoid": "39081"
+  },
+  "Knox County, OH": {
+    "geoid": "39083"
+  },
+  "Lake County, OH": {
+    "geoid": "39085"
+  },
+  "Lawrence County, OH": {
+    "geoid": "39087"
+  },
+  "Licking County, OH": {
+    "geoid": "39089"
+  },
+  "Logan County, OH": {
+    "geoid": "39091"
+  },
+  "Lorain County, OH": {
+    "geoid": "39093"
+  },
+  "Lucas County, OH": {
+    "geoid": "39095"
+  },
+  "Madison County, OH": {
+    "geoid": "39097"
+  },
+  "Mahoning County, OH": {
+    "geoid": "39099"
+  },
+  "Marion County, OH": {
+    "geoid": "39101"
+  },
+  "Medina County, OH": {
+    "geoid": "39103"
+  },
+  "Meigs County, OH": {
+    "geoid": "39105"
+  },
+  "Mercer County, OH": {
+    "geoid": "39107"
+  },
+  "Miami County, OH": {
+    "geoid": "39109"
+  },
+  "Monroe County, OH": {
+    "geoid": "39111"
+  },
+  "Montgomery County, OH": {
+    "geoid": "39113"
+  },
+  "Morgan County, OH": {
+    "geoid": "39115"
+  },
+  "Morrow County, OH": {
+    "geoid": "39117"
+  },
+  "Muskingum County, OH": {
+    "geoid": "39119"
+  },
+  "Noble County, OH": {
+    "geoid": "39121"
+  },
+  "Ottawa County, OH": {
+    "geoid": "39123"
+  },
+  "Paulding County, OH": {
+    "geoid": "39125"
+  },
+  "Perry County, OH": {
+    "geoid": "39127"
+  },
+  "Pickaway County, OH": {
+    "geoid": "39129"
+  },
+  "Pike County, OH": {
+    "geoid": "39131"
+  },
+  "Portage County, OH": {
+    "geoid": "39133"
+  },
+  "Preble County, OH": {
+    "geoid": "39135"
+  },
+  "Putnam County, OH": {
+    "geoid": "39137"
+  },
+  "Richland County, OH": {
+    "geoid": "39139"
+  },
+  "Ross County, OH": {
+    "geoid": "39141"
+  },
+  "Sandusky County, OH": {
+    "geoid": "39143"
+  },
+  "Scioto County, OH": {
+    "geoid": "39145"
+  },
+  "Seneca County, OH": {
+    "geoid": "39147"
+  },
+  "Shelby County, OH": {
+    "geoid": "39149"
+  },
+  "Stark County, OH": {
+    "geoid": "39151"
+  },
+  "Summit County, OH": {
+    "geoid": "39153"
+  },
+  "Trumbull County, OH": {
+    "geoid": "39155"
+  },
+  "Tuscarawas County, OH": {
+    "geoid": "39157"
+  },
+  "Union County, OH": {
+    "geoid": "39159"
+  },
+  "Van Wert County, OH": {
+    "geoid": "39161"
+  },
+  "Vinton County, OH": {
+    "geoid": "39163"
+  },
+  "Warren County, OH": {
+    "geoid": "39165"
+  },
+  "Washington County, OH": {
+    "geoid": "39167"
+  },
+  "Wayne County, OH": {
+    "geoid": "39169"
+  },
+  "Williams County, OH": {
+    "geoid": "39171"
+  },
+  "Wood County, OH": {
+    "geoid": "39173"
+  },
+  "Wyandot County, OH": {
+    "geoid": "39175"
+  },
+  "Adair County, OK": {
+    "geoid": "40001"
+  },
+  "Alfalfa County, OK": {
+    "geoid": "40003"
+  },
+  "Atoka County, OK": {
+    "geoid": "40005"
+  },
+  "Beaver County, OK": {
+    "geoid": "40007"
+  },
+  "Beckham County, OK": {
+    "geoid": "40009"
+  },
+  "Blaine County, OK": {
+    "geoid": "40011"
+  },
+  "Bryan County, OK": {
+    "geoid": "40013"
+  },
+  "Caddo County, OK": {
+    "geoid": "40015"
+  },
+  "Canadian County, OK": {
+    "geoid": "40017"
+  },
+  "Carter County, OK": {
+    "geoid": "40019"
+  },
+  "Cherokee County, OK": {
+    "geoid": "40021"
+  },
+  "Choctaw County, OK": {
+    "geoid": "40023"
+  },
+  "Cimarron County, OK": {
+    "geoid": "40025"
+  },
+  "Cleveland County, OK": {
+    "geoid": "40027"
+  },
+  "Coal County, OK": {
+    "geoid": "40029"
+  },
+  "Comanche County, OK": {
+    "geoid": "40031"
+  },
+  "Cotton County, OK": {
+    "geoid": "40033"
+  },
+  "Craig County, OK": {
+    "geoid": "40035"
+  },
+  "Creek County, OK": {
+    "geoid": "40037"
+  },
+  "Custer County, OK": {
+    "geoid": "40039"
+  },
+  "Delaware County, OK": {
+    "geoid": "40041"
+  },
+  "Dewey County, OK": {
+    "geoid": "40043"
+  },
+  "Ellis County, OK": {
+    "geoid": "40045"
+  },
+  "Garfield County, OK": {
+    "geoid": "40047"
+  },
+  "Garvin County, OK": {
+    "geoid": "40049"
+  },
+  "Grady County, OK": {
+    "geoid": "40051"
+  },
+  "Grant County, OK": {
+    "geoid": "40053"
+  },
+  "Greer County, OK": {
+    "geoid": "40055"
+  },
+  "Harmon County, OK": {
+    "geoid": "40057"
+  },
+  "Harper County, OK": {
+    "geoid": "40059"
+  },
+  "Haskell County, OK": {
+    "geoid": "40061"
+  },
+  "Hughes County, OK": {
+    "geoid": "40063"
+  },
+  "Jackson County, OK": {
+    "geoid": "40065"
+  },
+  "Jefferson County, OK": {
+    "geoid": "40067"
+  },
+  "Johnston County, OK": {
+    "geoid": "40069"
+  },
+  "Kay County, OK": {
+    "geoid": "40071"
+  },
+  "Kingfisher County, OK": {
+    "geoid": "40073"
+  },
+  "Kiowa County, OK": {
+    "geoid": "40075"
+  },
+  "Latimer County, OK": {
+    "geoid": "40077"
+  },
+  "Le Flore County, OK": {
+    "geoid": "40079"
+  },
+  "Lincoln County, OK": {
+    "geoid": "40081"
+  },
+  "Logan County, OK": {
+    "geoid": "40083"
+  },
+  "Love County, OK": {
+    "geoid": "40085"
+  },
+  "McClain County, OK": {
+    "geoid": "40087"
+  },
+  "McCurtain County, OK": {
+    "geoid": "40089"
+  },
+  "McIntosh County, OK": {
+    "geoid": "40091"
+  },
+  "Major County, OK": {
+    "geoid": "40093"
+  },
+  "Marshall County, OK": {
+    "geoid": "40095"
+  },
+  "Mayes County, OK": {
+    "geoid": "40097"
+  },
+  "Murray County, OK": {
+    "geoid": "40099"
+  },
+  "Muskogee County, OK": {
+    "geoid": "40101"
+  },
+  "Noble County, OK": {
+    "geoid": "40103"
+  },
+  "Nowata County, OK": {
+    "geoid": "40105"
+  },
+  "Okfuskee County, OK": {
+    "geoid": "40107"
+  },
+  "Oklahoma County, OK": {
+    "geoid": "40109"
+  },
+  "Okmulgee County, OK": {
+    "geoid": "40111"
+  },
+  "Osage County, OK": {
+    "geoid": "40113"
+  },
+  "Ottawa County, OK": {
+    "geoid": "40115"
+  },
+  "Pawnee County, OK": {
+    "geoid": "40117"
+  },
+  "Payne County, OK": {
+    "geoid": "40119"
+  },
+  "Pittsburg County, OK": {
+    "geoid": "40121"
+  },
+  "Pontotoc County, OK": {
+    "geoid": "40123"
+  },
+  "Pottawatomie County, OK": {
+    "geoid": "40125"
+  },
+  "Pushmataha County, OK": {
+    "geoid": "40127"
+  },
+  "Roger Mills County, OK": {
+    "geoid": "40129"
+  },
+  "Rogers County, OK": {
+    "geoid": "40131"
+  },
+  "Seminole County, OK": {
+    "geoid": "40133"
+  },
+  "Sequoyah County, OK": {
+    "geoid": "40135"
+  },
+  "Stephens County, OK": {
+    "geoid": "40137"
+  },
+  "Texas County, OK": {
+    "geoid": "40139"
+  },
+  "Tillman County, OK": {
+    "geoid": "40141"
+  },
+  "Tulsa County, OK": {
+    "geoid": "40143"
+  },
+  "Wagoner County, OK": {
+    "geoid": "40145"
+  },
+  "Washington County, OK": {
+    "geoid": "40147"
+  },
+  "Washita County, OK": {
+    "geoid": "40149"
+  },
+  "Woods County, OK": {
+    "geoid": "40151"
+  },
+  "Woodward County, OK": {
+    "geoid": "40153"
+  },
+  "Baker County, OR": {
+    "geoid": "41001"
+  },
+  "Benton County, OR": {
+    "geoid": "41003"
+  },
+  "Clackamas County, OR": {
+    "geoid": "41005"
+  },
+  "Clatsop County, OR": {
+    "geoid": "41007"
+  },
+  "Columbia County, OR": {
+    "geoid": "41009"
+  },
+  "Coos County, OR": {
+    "geoid": "41011"
+  },
+  "Crook County, OR": {
+    "geoid": "41013"
+  },
+  "Curry County, OR": {
+    "geoid": "41015"
+  },
+  "Deschutes County, OR": {
+    "geoid": "41017"
+  },
+  "Douglas County, OR": {
+    "geoid": "41019"
+  },
+  "Gilliam County, OR": {
+    "geoid": "41021"
+  },
+  "Grant County, OR": {
+    "geoid": "41023"
+  },
+  "Harney County, OR": {
+    "geoid": "41025"
+  },
+  "Hood River County, OR": {
+    "geoid": "41027"
+  },
+  "Jackson County, OR": {
+    "geoid": "41029"
+  },
+  "Jefferson County, OR": {
+    "geoid": "41031"
+  },
+  "Josephine County, OR": {
+    "geoid": "41033"
+  },
+  "Klamath County, OR": {
+    "geoid": "41035"
+  },
+  "Lake County, OR": {
+    "geoid": "41037"
+  },
+  "Lane County, OR": {
+    "geoid": "41039"
+  },
+  "Lincoln County, OR": {
+    "geoid": "41041"
+  },
+  "Linn County, OR": {
+    "geoid": "41043"
+  },
+  "Malheur County, OR": {
+    "geoid": "41045"
+  },
+  "Marion County, OR": {
+    "geoid": "41047"
+  },
+  "Morrow County, OR": {
+    "geoid": "41049"
+  },
+  "Multnomah County, OR": {
+    "geoid": "41051"
+  },
+  "Polk County, OR": {
+    "geoid": "41053"
+  },
+  "Sherman County, OR": {
+    "geoid": "41055"
+  },
+  "Tillamook County, OR": {
+    "geoid": "41057"
+  },
+  "Umatilla County, OR": {
+    "geoid": "41059"
+  },
+  "Union County, OR": {
+    "geoid": "41061"
+  },
+  "Wallowa County, OR": {
+    "geoid": "41063"
+  },
+  "Wasco County, OR": {
+    "geoid": "41065"
+  },
+  "Washington County, OR": {
+    "geoid": "41067"
+  },
+  "Wheeler County, OR": {
+    "geoid": "41069"
+  },
+  "Yamhill County, OR": {
+    "geoid": "41071"
+  },
+  "Adams County, PA": {
+    "geoid": "42001"
+  },
+  "Allegheny County, PA": {
+    "geoid": "42003"
+  },
+  "Armstrong County, PA": {
+    "geoid": "42005"
+  },
+  "Beaver County, PA": {
+    "geoid": "42007"
+  },
+  "Bedford County, PA": {
+    "geoid": "42009"
+  },
+  "Berks County, PA": {
+    "geoid": "42011"
+  },
+  "Blair County, PA": {
+    "geoid": "42013"
+  },
+  "Bradford County, PA": {
+    "geoid": "42015"
+  },
+  "Bucks County, PA": {
+    "geoid": "42017"
+  },
+  "Butler County, PA": {
+    "geoid": "42019"
+  },
+  "Cambria County, PA": {
+    "geoid": "42021"
+  },
+  "Cameron County, PA": {
+    "geoid": "42023"
+  },
+  "Carbon County, PA": {
+    "geoid": "42025"
+  },
+  "Centre County, PA": {
+    "geoid": "42027"
+  },
+  "Chester County, PA": {
+    "geoid": "42029"
+  },
+  "Clarion County, PA": {
+    "geoid": "42031"
+  },
+  "Clearfield County, PA": {
+    "geoid": "42033"
+  },
+  "Clinton County, PA": {
+    "geoid": "42035"
+  },
+  "Columbia County, PA": {
+    "geoid": "42037"
+  },
+  "Crawford County, PA": {
+    "geoid": "42039"
+  },
+  "Cumberland County, PA": {
+    "geoid": "42041"
+  },
+  "Dauphin County, PA": {
+    "geoid": "42043"
+  },
+  "Delaware County, PA": {
+    "geoid": "42045"
+  },
+  "Elk County, PA": {
+    "geoid": "42047"
+  },
+  "Erie County, PA": {
+    "geoid": "42049"
+  },
+  "Fayette County, PA": {
+    "geoid": "42051"
+  },
+  "Forest County, PA": {
+    "geoid": "42053"
+  },
+  "Franklin County, PA": {
+    "geoid": "42055"
+  },
+  "Fulton County, PA": {
+    "geoid": "42057"
+  },
+  "Greene County, PA": {
+    "geoid": "42059"
+  },
+  "Huntingdon County, PA": {
+    "geoid": "42061"
+  },
+  "Indiana County, PA": {
+    "geoid": "42063"
+  },
+  "Jefferson County, PA": {
+    "geoid": "42065"
+  },
+  "Juniata County, PA": {
+    "geoid": "42067"
+  },
+  "Lackawanna County, PA": {
+    "geoid": "42069"
+  },
+  "Lancaster County, PA": {
+    "geoid": "42071"
+  },
+  "Lawrence County, PA": {
+    "geoid": "42073"
+  },
+  "Lebanon County, PA": {
+    "geoid": "42075"
+  },
+  "Lehigh County, PA": {
+    "geoid": "42077"
+  },
+  "Luzerne County, PA": {
+    "geoid": "42079"
+  },
+  "Lycoming County, PA": {
+    "geoid": "42081"
+  },
+  "McKean County, PA": {
+    "geoid": "42083"
+  },
+  "Mercer County, PA": {
+    "geoid": "42085"
+  },
+  "Mifflin County, PA": {
+    "geoid": "42087"
+  },
+  "Monroe County, PA": {
+    "geoid": "42089"
+  },
+  "Montgomery County, PA": {
+    "geoid": "42091"
+  },
+  "Montour County, PA": {
+    "geoid": "42093"
+  },
+  "Northampton County, PA": {
+    "geoid": "42095"
+  },
+  "Northumberland County, PA": {
+    "geoid": "42097"
+  },
+  "Perry County, PA": {
+    "geoid": "42099"
+  },
+  "Philadelphia County, PA": {
+    "geoid": "42101"
+  },
+  "Pike County, PA": {
+    "geoid": "42103"
+  },
+  "Potter County, PA": {
+    "geoid": "42105"
+  },
+  "Schuylkill County, PA": {
+    "geoid": "42107"
+  },
+  "Snyder County, PA": {
+    "geoid": "42109"
+  },
+  "Somerset County, PA": {
+    "geoid": "42111"
+  },
+  "Sullivan County, PA": {
+    "geoid": "42113"
+  },
+  "Susquehanna County, PA": {
+    "geoid": "42115"
+  },
+  "Tioga County, PA": {
+    "geoid": "42117"
+  },
+  "Union County, PA": {
+    "geoid": "42119"
+  },
+  "Venango County, PA": {
+    "geoid": "42121"
+  },
+  "Warren County, PA": {
+    "geoid": "42123"
+  },
+  "Washington County, PA": {
+    "geoid": "42125"
+  },
+  "Wayne County, PA": {
+    "geoid": "42127"
+  },
+  "Westmoreland County, PA": {
+    "geoid": "42129"
+  },
+  "Wyoming County, PA": {
+    "geoid": "42131"
+  },
+  "York County, PA": {
+    "geoid": "42133"
+  },
+  "Bristol County, RI": {
+    "geoid": "44001"
+  },
+  "Kent County, RI": {
+    "geoid": "44003"
+  },
+  "Newport County, RI": {
+    "geoid": "44005"
+  },
+  "Providence County, RI": {
+    "geoid": "44007"
+  },
+  "Washington County, RI": {
+    "geoid": "44009"
+  },
+  "Abbeville County, SC": {
+    "geoid": "45001"
+  },
+  "Aiken County, SC": {
+    "geoid": "45003"
+  },
+  "Allendale County, SC": {
+    "geoid": "45005"
+  },
+  "Anderson County, SC": {
+    "geoid": "45007"
+  },
+  "Bamberg County, SC": {
+    "geoid": "45009"
+  },
+  "Barnwell County, SC": {
+    "geoid": "45011"
+  },
+  "Beaufort County, SC": {
+    "geoid": "45013"
+  },
+  "Berkeley County, SC": {
+    "geoid": "45015"
+  },
+  "Calhoun County, SC": {
+    "geoid": "45017"
+  },
+  "Charleston County, SC": {
+    "geoid": "45019"
+  },
+  "Cherokee County, SC": {
+    "geoid": "45021"
+  },
+  "Chester County, SC": {
+    "geoid": "45023"
+  },
+  "Chesterfield County, SC": {
+    "geoid": "45025"
+  },
+  "Clarendon County, SC": {
+    "geoid": "45027"
+  },
+  "Colleton County, SC": {
+    "geoid": "45029"
+  },
+  "Darlington County, SC": {
+    "geoid": "45031"
+  },
+  "Dillon County, SC": {
+    "geoid": "45033"
+  },
+  "Dorchester County, SC": {
+    "geoid": "45035"
+  },
+  "Edgefield County, SC": {
+    "geoid": "45037"
+  },
+  "Fairfield County, SC": {
+    "geoid": "45039"
+  },
+  "Florence County, SC": {
+    "geoid": "45041"
+  },
+  "Georgetown County, SC": {
+    "geoid": "45043"
+  },
+  "Greenville County, SC": {
+    "geoid": "45045"
+  },
+  "Greenwood County, SC": {
+    "geoid": "45047"
+  },
+  "Hampton County, SC": {
+    "geoid": "45049"
+  },
+  "Horry County, SC": {
+    "geoid": "45051"
+  },
+  "Jasper County, SC": {
+    "geoid": "45053"
+  },
+  "Kershaw County, SC": {
+    "geoid": "45055"
+  },
+  "Lancaster County, SC": {
+    "geoid": "45057"
+  },
+  "Laurens County, SC": {
+    "geoid": "45059"
+  },
+  "Lee County, SC": {
+    "geoid": "45061"
+  },
+  "Lexington County, SC": {
+    "geoid": "45063"
+  },
+  "McCormick County, SC": {
+    "geoid": "45065"
+  },
+  "Marion County, SC": {
+    "geoid": "45067"
+  },
+  "Marlboro County, SC": {
+    "geoid": "45069"
+  },
+  "Newberry County, SC": {
+    "geoid": "45071"
+  },
+  "Oconee County, SC": {
+    "geoid": "45073"
+  },
+  "Orangeburg County, SC": {
+    "geoid": "45075"
+  },
+  "Pickens County, SC": {
+    "geoid": "45077"
+  },
+  "Richland County, SC": {
+    "geoid": "45079"
+  },
+  "Saluda County, SC": {
+    "geoid": "45081"
+  },
+  "Spartanburg County, SC": {
+    "geoid": "45083"
+  },
+  "Sumter County, SC": {
+    "geoid": "45085"
+  },
+  "Union County, SC": {
+    "geoid": "45087"
+  },
+  "Williamsburg County, SC": {
+    "geoid": "45089"
+  },
+  "York County, SC": {
+    "geoid": "45091"
+  },
+  "Aurora County, SD": {
+    "geoid": "46003"
+  },
+  "Beadle County, SD": {
+    "geoid": "46005"
+  },
+  "Bennett County, SD": {
+    "geoid": "46007"
+  },
+  "Bon Homme County, SD": {
+    "geoid": "46009"
+  },
+  "Brookings County, SD": {
+    "geoid": "46011"
+  },
+  "Brown County, SD": {
+    "geoid": "46013"
+  },
+  "Brule County, SD": {
+    "geoid": "46015"
+  },
+  "Buffalo County, SD": {
+    "geoid": "46017"
+  },
+  "Butte County, SD": {
+    "geoid": "46019"
+  },
+  "Campbell County, SD": {
+    "geoid": "46021"
+  },
+  "Charles Mix County, SD": {
+    "geoid": "46023"
+  },
+  "Clark County, SD": {
+    "geoid": "46025"
+  },
+  "Clay County, SD": {
+    "geoid": "46027"
+  },
+  "Codington County, SD": {
+    "geoid": "46029"
+  },
+  "Corson County, SD": {
+    "geoid": "46031"
+  },
+  "Custer County, SD": {
+    "geoid": "46033"
+  },
+  "Davison County, SD": {
+    "geoid": "46035"
+  },
+  "Day County, SD": {
+    "geoid": "46037"
+  },
+  "Deuel County, SD": {
+    "geoid": "46039"
+  },
+  "Dewey County, SD": {
+    "geoid": "46041"
+  },
+  "Douglas County, SD": {
+    "geoid": "46043"
+  },
+  "Edmunds County, SD": {
+    "geoid": "46045"
+  },
+  "Fall River County, SD": {
+    "geoid": "46047"
+  },
+  "Faulk County, SD": {
+    "geoid": "46049"
+  },
+  "Grant County, SD": {
+    "geoid": "46051"
+  },
+  "Gregory County, SD": {
+    "geoid": "46053"
+  },
+  "Haakon County, SD": {
+    "geoid": "46055"
+  },
+  "Hamlin County, SD": {
+    "geoid": "46057"
+  },
+  "Hand County, SD": {
+    "geoid": "46059"
+  },
+  "Hanson County, SD": {
+    "geoid": "46061"
+  },
+  "Harding County, SD": {
+    "geoid": "46063"
+  },
+  "Hughes County, SD": {
+    "geoid": "46065"
+  },
+  "Hutchinson County, SD": {
+    "geoid": "46067"
+  },
+  "Hyde County, SD": {
+    "geoid": "46069"
+  },
+  "Jackson County, SD": {
+    "geoid": "46071"
+  },
+  "Jerauld County, SD": {
+    "geoid": "46073"
+  },
+  "Jones County, SD": {
+    "geoid": "46075"
+  },
+  "Kingsbury County, SD": {
+    "geoid": "46077"
+  },
+  "Lake County, SD": {
+    "geoid": "46079"
+  },
+  "Lawrence County, SD": {
+    "geoid": "46081"
+  },
+  "Lincoln County, SD": {
+    "geoid": "46083"
+  },
+  "Lyman County, SD": {
+    "geoid": "46085"
+  },
+  "McCook County, SD": {
+    "geoid": "46087"
+  },
+  "McPherson County, SD": {
+    "geoid": "46089"
+  },
+  "Marshall County, SD": {
+    "geoid": "46091"
+  },
+  "Meade County, SD": {
+    "geoid": "46093"
+  },
+  "Mellette County, SD": {
+    "geoid": "46095"
+  },
+  "Miner County, SD": {
+    "geoid": "46097"
+  },
+  "Minnehaha County, SD": {
+    "geoid": "46099"
+  },
+  "Moody County, SD": {
+    "geoid": "46101"
+  },
+  "Pennington County, SD": {
+    "geoid": "46103"
+  },
+  "Perkins County, SD": {
+    "geoid": "46105"
+  },
+  "Potter County, SD": {
+    "geoid": "46107"
+  },
+  "Roberts County, SD": {
+    "geoid": "46109"
+  },
+  "Sanborn County, SD": {
+    "geoid": "46111"
+  },
+  "Shannon County, SD": {
+    "geoid": "46113"
+  },
+  "Spink County, SD": {
+    "geoid": "46115"
+  },
+  "Stanley County, SD": {
+    "geoid": "46117"
+  },
+  "Sully County, SD": {
+    "geoid": "46119"
+  },
+  "Todd County, SD": {
+    "geoid": "46121"
+  },
+  "Tripp County, SD": {
+    "geoid": "46123"
+  },
+  "Turner County, SD": {
+    "geoid": "46125"
+  },
+  "Union County, SD": {
+    "geoid": "46127"
+  },
+  "Walworth County, SD": {
+    "geoid": "46129"
+  },
+  "Yankton County, SD": {
+    "geoid": "46135"
+  },
+  "Ziebach County, SD": {
+    "geoid": "46137"
+  },
+  "Anderson County, TN": {
+    "geoid": "47001"
+  },
+  "Bedford County, TN": {
+    "geoid": "47003"
+  },
+  "Benton County, TN": {
+    "geoid": "47005"
+  },
+  "Bledsoe County, TN": {
+    "geoid": "47007"
+  },
+  "Blount County, TN": {
+    "geoid": "47009"
+  },
+  "Bradley County, TN": {
+    "geoid": "47011"
+  },
+  "Campbell County, TN": {
+    "geoid": "47013"
+  },
+  "Cannon County, TN": {
+    "geoid": "47015"
+  },
+  "Carroll County, TN": {
+    "geoid": "47017"
+  },
+  "Carter County, TN": {
+    "geoid": "47019"
+  },
+  "Cheatham County, TN": {
+    "geoid": "47021"
+  },
+  "Chester County, TN": {
+    "geoid": "47023"
+  },
+  "Claiborne County, TN": {
+    "geoid": "47025"
+  },
+  "Clay County, TN": {
+    "geoid": "47027"
+  },
+  "Cocke County, TN": {
+    "geoid": "47029"
+  },
+  "Coffee County, TN": {
+    "geoid": "47031"
+  },
+  "Crockett County, TN": {
+    "geoid": "47033"
+  },
+  "Cumberland County, TN": {
+    "geoid": "47035"
+  },
+  "Davidson County, TN": {
+    "geoid": "47037"
+  },
+  "Decatur County, TN": {
+    "geoid": "47039"
+  },
+  "DeKalb County, TN": {
+    "geoid": "47041"
+  },
+  "Dickson County, TN": {
+    "geoid": "47043"
+  },
+  "Dyer County, TN": {
+    "geoid": "47045"
+  },
+  "Fayette County, TN": {
+    "geoid": "47047"
+  },
+  "Fentress County, TN": {
+    "geoid": "47049"
+  },
+  "Franklin County, TN": {
+    "geoid": "47051"
+  },
+  "Gibson County, TN": {
+    "geoid": "47053"
+  },
+  "Giles County, TN": {
+    "geoid": "47055"
+  },
+  "Grainger County, TN": {
+    "geoid": "47057"
+  },
+  "Greene County, TN": {
+    "geoid": "47059"
+  },
+  "Grundy County, TN": {
+    "geoid": "47061"
+  },
+  "Hamblen County, TN": {
+    "geoid": "47063"
+  },
+  "Hamilton County, TN": {
+    "geoid": "47065"
+  },
+  "Hancock County, TN": {
+    "geoid": "47067"
+  },
+  "Hardeman County, TN": {
+    "geoid": "47069"
+  },
+  "Hardin County, TN": {
+    "geoid": "47071"
+  },
+  "Hawkins County, TN": {
+    "geoid": "47073"
+  },
+  "Haywood County, TN": {
+    "geoid": "47075"
+  },
+  "Henderson County, TN": {
+    "geoid": "47077"
+  },
+  "Henry County, TN": {
+    "geoid": "47079"
+  },
+  "Hickman County, TN": {
+    "geoid": "47081"
+  },
+  "Houston County, TN": {
+    "geoid": "47083"
+  },
+  "Humphreys County, TN": {
+    "geoid": "47085"
+  },
+  "Jackson County, TN": {
+    "geoid": "47087"
+  },
+  "Jefferson County, TN": {
+    "geoid": "47089"
+  },
+  "Johnson County, TN": {
+    "geoid": "47091"
+  },
+  "Knox County, TN": {
+    "geoid": "47093"
+  },
+  "Lake County, TN": {
+    "geoid": "47095"
+  },
+  "Lauderdale County, TN": {
+    "geoid": "47097"
+  },
+  "Lawrence County, TN": {
+    "geoid": "47099"
+  },
+  "Lewis County, TN": {
+    "geoid": "47101"
+  },
+  "Lincoln County, TN": {
+    "geoid": "47103"
+  },
+  "Loudon County, TN": {
+    "geoid": "47105"
+  },
+  "McMinn County, TN": {
+    "geoid": "47107"
+  },
+  "McNairy County, TN": {
+    "geoid": "47109"
+  },
+  "Macon County, TN": {
+    "geoid": "47111"
+  },
+  "Madison County, TN": {
+    "geoid": "47113"
+  },
+  "Marion County, TN": {
+    "geoid": "47115"
+  },
+  "Marshall County, TN": {
+    "geoid": "47117"
+  },
+  "Maury County, TN": {
+    "geoid": "47119"
+  },
+  "Meigs County, TN": {
+    "geoid": "47121"
+  },
+  "Monroe County, TN": {
+    "geoid": "47123"
+  },
+  "Montgomery County, TN": {
+    "geoid": "47125"
+  },
+  "Moore County, TN": {
+    "geoid": "47127"
+  },
+  "Morgan County, TN": {
+    "geoid": "47129"
+  },
+  "Obion County, TN": {
+    "geoid": "47131"
+  },
+  "Overton County, TN": {
+    "geoid": "47133"
+  },
+  "Perry County, TN": {
+    "geoid": "47135"
+  },
+  "Pickett County, TN": {
+    "geoid": "47137"
+  },
+  "Polk County, TN": {
+    "geoid": "47139"
+  },
+  "Putnam County, TN": {
+    "geoid": "47141"
+  },
+  "Rhea County, TN": {
+    "geoid": "47143"
+  },
+  "Roane County, TN": {
+    "geoid": "47145"
+  },
+  "Robertson County, TN": {
+    "geoid": "47147"
+  },
+  "Rutherford County, TN": {
+    "geoid": "47149"
+  },
+  "Scott County, TN": {
+    "geoid": "47151"
+  },
+  "Sequatchie County, TN": {
+    "geoid": "47153"
+  },
+  "Sevier County, TN": {
+    "geoid": "47155"
+  },
+  "Shelby County, TN": {
+    "geoid": "47157"
+  },
+  "Smith County, TN": {
+    "geoid": "47159"
+  },
+  "Stewart County, TN": {
+    "geoid": "47161"
+  },
+  "Sullivan County, TN": {
+    "geoid": "47163"
+  },
+  "Sumner County, TN": {
+    "geoid": "47165"
+  },
+  "Tipton County, TN": {
+    "geoid": "47167"
+  },
+  "Trousdale County, TN": {
+    "geoid": "47169"
+  },
+  "Unicoi County, TN": {
+    "geoid": "47171"
+  },
+  "Union County, TN": {
+    "geoid": "47173"
+  },
+  "Van Buren County, TN": {
+    "geoid": "47175"
+  },
+  "Warren County, TN": {
+    "geoid": "47177"
+  },
+  "Washington County, TN": {
+    "geoid": "47179"
+  },
+  "Wayne County, TN": {
+    "geoid": "47181"
+  },
+  "Weakley County, TN": {
+    "geoid": "47183"
+  },
+  "White County, TN": {
+    "geoid": "47185"
+  },
+  "Williamson County, TN": {
+    "geoid": "47187"
+  },
+  "Wilson County, TN": {
+    "geoid": "47189"
+  },
+  "Anderson County, TX": {
+    "geoid": "48001"
+  },
+  "Andrews County, TX": {
+    "geoid": "48003"
+  },
+  "Angelina County, TX": {
+    "geoid": "48005"
+  },
+  "Aransas County, TX": {
+    "geoid": "48007"
+  },
+  "Archer County, TX": {
+    "geoid": "48009"
+  },
+  "Armstrong County, TX": {
+    "geoid": "48011"
+  },
+  "Atascosa County, TX": {
+    "geoid": "48013"
+  },
+  "Austin County, TX": {
+    "geoid": "48015"
+  },
+  "Bailey County, TX": {
+    "geoid": "48017"
+  },
+  "Bandera County, TX": {
+    "geoid": "48019"
+  },
+  "Bastrop County, TX": {
+    "geoid": "48021"
+  },
+  "Baylor County, TX": {
+    "geoid": "48023"
+  },
+  "Bee County, TX": {
+    "geoid": "48025"
+  },
+  "Bell County, TX": {
+    "geoid": "48027"
+  },
+  "Bexar County, TX": {
+    "geoid": "48029"
+  },
+  "Blanco County, TX": {
+    "geoid": "48031"
+  },
+  "Borden County, TX": {
+    "geoid": "48033"
+  },
+  "Bosque County, TX": {
+    "geoid": "48035"
+  },
+  "Bowie County, TX": {
+    "geoid": "48037"
+  },
+  "Brazoria County, TX": {
+    "geoid": "48039"
+  },
+  "Brazos County, TX": {
+    "geoid": "48041"
+  },
+  "Brewster County, TX": {
+    "geoid": "48043"
+  },
+  "Briscoe County, TX": {
+    "geoid": "48045"
+  },
+  "Brooks County, TX": {
+    "geoid": "48047"
+  },
+  "Brown County, TX": {
+    "geoid": "48049"
+  },
+  "Burleson County, TX": {
+    "geoid": "48051"
+  },
+  "Burnet County, TX": {
+    "geoid": "48053"
+  },
+  "Caldwell County, TX": {
+    "geoid": "48055"
+  },
+  "Calhoun County, TX": {
+    "geoid": "48057"
+  },
+  "Callahan County, TX": {
+    "geoid": "48059"
+  },
+  "Cameron County, TX": {
+    "geoid": "48061"
+  },
+  "Camp County, TX": {
+    "geoid": "48063"
+  },
+  "Carson County, TX": {
+    "geoid": "48065"
+  },
+  "Cass County, TX": {
+    "geoid": "48067"
+  },
+  "Castro County, TX": {
+    "geoid": "48069"
+  },
+  "Chambers County, TX": {
+    "geoid": "48071"
+  },
+  "Cherokee County, TX": {
+    "geoid": "48073"
+  },
+  "Childress County, TX": {
+    "geoid": "48075"
+  },
+  "Clay County, TX": {
+    "geoid": "48077"
+  },
+  "Cochran County, TX": {
+    "geoid": "48079"
+  },
+  "Coke County, TX": {
+    "geoid": "48081"
+  },
+  "Coleman County, TX": {
+    "geoid": "48083"
+  },
+  "Collin County, TX": {
+    "geoid": "48085"
+  },
+  "Collingsworth County, TX": {
+    "geoid": "48087"
+  },
+  "Colorado County, TX": {
+    "geoid": "48089"
+  },
+  "Comal County, TX": {
+    "geoid": "48091"
+  },
+  "Comanche County, TX": {
+    "geoid": "48093"
+  },
+  "Concho County, TX": {
+    "geoid": "48095"
+  },
+  "Cooke County, TX": {
+    "geoid": "48097"
+  },
+  "Coryell County, TX": {
+    "geoid": "48099"
+  },
+  "Cottle County, TX": {
+    "geoid": "48101"
+  },
+  "Crane County, TX": {
+    "geoid": "48103"
+  },
+  "Crockett County, TX": {
+    "geoid": "48105"
+  },
+  "Crosby County, TX": {
+    "geoid": "48107"
+  },
+  "Culberson County, TX": {
+    "geoid": "48109"
+  },
+  "Dallam County, TX": {
+    "geoid": "48111"
+  },
+  "Dallas County, TX": {
+    "geoid": "48113"
+  },
+  "Dawson County, TX": {
+    "geoid": "48115"
+  },
+  "Deaf Smith County, TX": {
+    "geoid": "48117"
+  },
+  "Delta County, TX": {
+    "geoid": "48119"
+  },
+  "Denton County, TX": {
+    "geoid": "48121"
+  },
+  "DeWitt County, TX": {
+    "geoid": "48123"
+  },
+  "Dickens County, TX": {
+    "geoid": "48125"
+  },
+  "Dimmit County, TX": {
+    "geoid": "48127"
+  },
+  "Donley County, TX": {
+    "geoid": "48129"
+  },
+  "Duval County, TX": {
+    "geoid": "48131"
+  },
+  "Eastland County, TX": {
+    "geoid": "48133"
+  },
+  "Ector County, TX": {
+    "geoid": "48135"
+  },
+  "Edwards County, TX": {
+    "geoid": "48137"
+  },
+  "Ellis County, TX": {
+    "geoid": "48139"
+  },
+  "El Paso County, TX": {
+    "geoid": "48141"
+  },
+  "Erath County, TX": {
+    "geoid": "48143"
+  },
+  "Falls County, TX": {
+    "geoid": "48145"
+  },
+  "Fannin County, TX": {
+    "geoid": "48147"
+  },
+  "Fayette County, TX": {
+    "geoid": "48149"
+  },
+  "Fisher County, TX": {
+    "geoid": "48151"
+  },
+  "Floyd County, TX": {
+    "geoid": "48153"
+  },
+  "Foard County, TX": {
+    "geoid": "48155"
+  },
+  "Fort Bend County, TX": {
+    "geoid": "48157"
+  },
+  "Franklin County, TX": {
+    "geoid": "48159"
+  },
+  "Freestone County, TX": {
+    "geoid": "48161"
+  },
+  "Frio County, TX": {
+    "geoid": "48163"
+  },
+  "Gaines County, TX": {
+    "geoid": "48165"
+  },
+  "Galveston County, TX": {
+    "geoid": "48167"
+  },
+  "Garza County, TX": {
+    "geoid": "48169"
+  },
+  "Gillespie County, TX": {
+    "geoid": "48171"
+  },
+  "Glasscock County, TX": {
+    "geoid": "48173"
+  },
+  "Goliad County, TX": {
+    "geoid": "48175"
+  },
+  "Gonzales County, TX": {
+    "geoid": "48177"
+  },
+  "Gray County, TX": {
+    "geoid": "48179"
+  },
+  "Grayson County, TX": {
+    "geoid": "48181"
+  },
+  "Gregg County, TX": {
+    "geoid": "48183"
+  },
+  "Grimes County, TX": {
+    "geoid": "48185"
+  },
+  "Guadalupe County, TX": {
+    "geoid": "48187"
+  },
+  "Hale County, TX": {
+    "geoid": "48189"
+  },
+  "Hall County, TX": {
+    "geoid": "48191"
+  },
+  "Hamilton County, TX": {
+    "geoid": "48193"
+  },
+  "Hansford County, TX": {
+    "geoid": "48195"
+  },
+  "Hardeman County, TX": {
+    "geoid": "48197"
+  },
+  "Hardin County, TX": {
+    "geoid": "48199"
+  },
+  "Harris County, TX": {
+    "geoid": "48201"
+  },
+  "Harrison County, TX": {
+    "geoid": "48203"
+  },
+  "Hartley County, TX": {
+    "geoid": "48205"
+  },
+  "Haskell County, TX": {
+    "geoid": "48207"
+  },
+  "Hays County, TX": {
+    "geoid": "48209"
+  },
+  "Hemphill County, TX": {
+    "geoid": "48211"
+  },
+  "Henderson County, TX": {
+    "geoid": "48213"
+  },
+  "Hidalgo County, TX": {
+    "geoid": "48215"
+  },
+  "Hill County, TX": {
+    "geoid": "48217"
+  },
+  "Hockley County, TX": {
+    "geoid": "48219"
+  },
+  "Hood County, TX": {
+    "geoid": "48221"
+  },
+  "Hopkins County, TX": {
+    "geoid": "48223"
+  },
+  "Houston County, TX": {
+    "geoid": "48225"
+  },
+  "Howard County, TX": {
+    "geoid": "48227"
+  },
+  "Hudspeth County, TX": {
+    "geoid": "48229"
+  },
+  "Hunt County, TX": {
+    "geoid": "48231"
+  },
+  "Hutchinson County, TX": {
+    "geoid": "48233"
+  },
+  "Irion County, TX": {
+    "geoid": "48235"
+  },
+  "Jack County, TX": {
+    "geoid": "48237"
+  },
+  "Jackson County, TX": {
+    "geoid": "48239"
+  },
+  "Jasper County, TX": {
+    "geoid": "48241"
+  },
+  "Jeff Davis County, TX": {
+    "geoid": "48243"
+  },
+  "Jefferson County, TX": {
+    "geoid": "48245"
+  },
+  "Jim Hogg County, TX": {
+    "geoid": "48247"
+  },
+  "Jim Wells County, TX": {
+    "geoid": "48249"
+  },
+  "Johnson County, TX": {
+    "geoid": "48251"
+  },
+  "Jones County, TX": {
+    "geoid": "48253"
+  },
+  "Karnes County, TX": {
+    "geoid": "48255"
+  },
+  "Kaufman County, TX": {
+    "geoid": "48257"
+  },
+  "Kendall County, TX": {
+    "geoid": "48259"
+  },
+  "Kenedy County, TX": {
+    "geoid": "48261"
+  },
+  "Kent County, TX": {
+    "geoid": "48263"
+  },
+  "Kerr County, TX": {
+    "geoid": "48265"
+  },
+  "Kimble County, TX": {
+    "geoid": "48267"
+  },
+  "King County, TX": {
+    "geoid": "48269"
+  },
+  "Kinney County, TX": {
+    "geoid": "48271"
+  },
+  "Kleberg County, TX": {
+    "geoid": "48273"
+  },
+  "Knox County, TX": {
+    "geoid": "48275"
+  },
+  "Lamar County, TX": {
+    "geoid": "48277"
+  },
+  "Lamb County, TX": {
+    "geoid": "48279"
+  },
+  "Lampasas County, TX": {
+    "geoid": "48281"
+  },
+  "La Salle County, TX": {
+    "geoid": "48283"
+  },
+  "Lavaca County, TX": {
+    "geoid": "48285"
+  },
+  "Lee County, TX": {
+    "geoid": "48287"
+  },
+  "Leon County, TX": {
+    "geoid": "48289"
+  },
+  "Liberty County, TX": {
+    "geoid": "48291"
+  },
+  "Limestone County, TX": {
+    "geoid": "48293"
+  },
+  "Lipscomb County, TX": {
+    "geoid": "48295"
+  },
+  "Live Oak County, TX": {
+    "geoid": "48297"
+  },
+  "Llano County, TX": {
+    "geoid": "48299"
+  },
+  "Loving County, TX": {
+    "geoid": "48301"
+  },
+  "Lubbock County, TX": {
+    "geoid": "48303"
+  },
+  "Lynn County, TX": {
+    "geoid": "48305"
+  },
+  "McCulloch County, TX": {
+    "geoid": "48307"
+  },
+  "McLennan County, TX": {
+    "geoid": "48309"
+  },
+  "McMullen County, TX": {
+    "geoid": "48311"
+  },
+  "Madison County, TX": {
+    "geoid": "48313"
+  },
+  "Marion County, TX": {
+    "geoid": "48315"
+  },
+  "Martin County, TX": {
+    "geoid": "48317"
+  },
+  "Mason County, TX": {
+    "geoid": "48319"
+  },
+  "Matagorda County, TX": {
+    "geoid": "48321"
+  },
+  "Maverick County, TX": {
+    "geoid": "48323"
+  },
+  "Medina County, TX": {
+    "geoid": "48325"
+  },
+  "Menard County, TX": {
+    "geoid": "48327"
+  },
+  "Midland County, TX": {
+    "geoid": "48329"
+  },
+  "Milam County, TX": {
+    "geoid": "48331"
+  },
+  "Mills County, TX": {
+    "geoid": "48333"
+  },
+  "Mitchell County, TX": {
+    "geoid": "48335"
+  },
+  "Montague County, TX": {
+    "geoid": "48337"
+  },
+  "Montgomery County, TX": {
+    "geoid": "48339"
+  },
+  "Moore County, TX": {
+    "geoid": "48341"
+  },
+  "Morris County, TX": {
+    "geoid": "48343"
+  },
+  "Motley County, TX": {
+    "geoid": "48345"
+  },
+  "Nacogdoches County, TX": {
+    "geoid": "48347"
+  },
+  "Navarro County, TX": {
+    "geoid": "48349"
+  },
+  "Newton County, TX": {
+    "geoid": "48351"
+  },
+  "Nolan County, TX": {
+    "geoid": "48353"
+  },
+  "Nueces County, TX": {
+    "geoid": "48355"
+  },
+  "Ochiltree County, TX": {
+    "geoid": "48357"
+  },
+  "Oldham County, TX": {
+    "geoid": "48359"
+  },
+  "Orange County, TX": {
+    "geoid": "48361"
+  },
+  "Palo Pinto County, TX": {
+    "geoid": "48363"
+  },
+  "Panola County, TX": {
+    "geoid": "48365"
+  },
+  "Parker County, TX": {
+    "geoid": "48367"
+  },
+  "Parmer County, TX": {
+    "geoid": "48369"
+  },
+  "Pecos County, TX": {
+    "geoid": "48371"
+  },
+  "Polk County, TX": {
+    "geoid": "48373"
+  },
+  "Potter County, TX": {
+    "geoid": "48375"
+  },
+  "Presidio County, TX": {
+    "geoid": "48377"
+  },
+  "Rains County, TX": {
+    "geoid": "48379"
+  },
+  "Randall County, TX": {
+    "geoid": "48381"
+  },
+  "Reagan County, TX": {
+    "geoid": "48383"
+  },
+  "Real County, TX": {
+    "geoid": "48385"
+  },
+  "Red River County, TX": {
+    "geoid": "48387"
+  },
+  "Reeves County, TX": {
+    "geoid": "48389"
+  },
+  "Refugio County, TX": {
+    "geoid": "48391"
+  },
+  "Roberts County, TX": {
+    "geoid": "48393"
+  },
+  "Robertson County, TX": {
+    "geoid": "48395"
+  },
+  "Rockwall County, TX": {
+    "geoid": "48397"
+  },
+  "Runnels County, TX": {
+    "geoid": "48399"
+  },
+  "Rusk County, TX": {
+    "geoid": "48401"
+  },
+  "Sabine County, TX": {
+    "geoid": "48403"
+  },
+  "San Augustine County, TX": {
+    "geoid": "48405"
+  },
+  "San Jacinto County, TX": {
+    "geoid": "48407"
+  },
+  "San Patricio County, TX": {
+    "geoid": "48409"
+  },
+  "San Saba County, TX": {
+    "geoid": "48411"
+  },
+  "Schleicher County, TX": {
+    "geoid": "48413"
+  },
+  "Scurry County, TX": {
+    "geoid": "48415"
+  },
+  "Shackelford County, TX": {
+    "geoid": "48417"
+  },
+  "Shelby County, TX": {
+    "geoid": "48419"
+  },
+  "Sherman County, TX": {
+    "geoid": "48421"
+  },
+  "Smith County, TX": {
+    "geoid": "48423"
+  },
+  "Somervell County, TX": {
+    "geoid": "48425"
+  },
+  "Starr County, TX": {
+    "geoid": "48427"
+  },
+  "Stephens County, TX": {
+    "geoid": "48429"
+  },
+  "Sterling County, TX": {
+    "geoid": "48431"
+  },
+  "Stonewall County, TX": {
+    "geoid": "48433"
+  },
+  "Sutton County, TX": {
+    "geoid": "48435"
+  },
+  "Swisher County, TX": {
+    "geoid": "48437"
+  },
+  "Tarrant County, TX": {
+    "geoid": "48439"
+  },
+  "Taylor County, TX": {
+    "geoid": "48441"
+  },
+  "Terrell County, TX": {
+    "geoid": "48443"
+  },
+  "Terry County, TX": {
+    "geoid": "48445"
+  },
+  "Throckmorton County, TX": {
+    "geoid": "48447"
+  },
+  "Titus County, TX": {
+    "geoid": "48449"
+  },
+  "Tom Green County, TX": {
+    "geoid": "48451"
+  },
+  "Travis County, TX": {
+    "geoid": "48453"
+  },
+  "Trinity County, TX": {
+    "geoid": "48455"
+  },
+  "Tyler County, TX": {
+    "geoid": "48457"
+  },
+  "Upshur County, TX": {
+    "geoid": "48459"
+  },
+  "Upton County, TX": {
+    "geoid": "48461"
+  },
+  "Uvalde County, TX": {
+    "geoid": "48463"
+  },
+  "Val Verde County, TX": {
+    "geoid": "48465"
+  },
+  "Van Zandt County, TX": {
+    "geoid": "48467"
+  },
+  "Victoria County, TX": {
+    "geoid": "48469"
+  },
+  "Walker County, TX": {
+    "geoid": "48471"
+  },
+  "Waller County, TX": {
+    "geoid": "48473"
+  },
+  "Ward County, TX": {
+    "geoid": "48475"
+  },
+  "Washington County, TX": {
+    "geoid": "48477"
+  },
+  "Webb County, TX": {
+    "geoid": "48479"
+  },
+  "Wharton County, TX": {
+    "geoid": "48481"
+  },
+  "Wheeler County, TX": {
+    "geoid": "48483"
+  },
+  "Wichita County, TX": {
+    "geoid": "48485"
+  },
+  "Wilbarger County, TX": {
+    "geoid": "48487"
+  },
+  "Willacy County, TX": {
+    "geoid": "48489"
+  },
+  "Williamson County, TX": {
+    "geoid": "48491"
+  },
+  "Wilson County, TX": {
+    "geoid": "48493"
+  },
+  "Winkler County, TX": {
+    "geoid": "48495"
+  },
+  "Wise County, TX": {
+    "geoid": "48497"
+  },
+  "Wood County, TX": {
+    "geoid": "48499"
+  },
+  "Yoakum County, TX": {
+    "geoid": "48501"
+  },
+  "Young County, TX": {
+    "geoid": "48503"
+  },
+  "Zapata County, TX": {
+    "geoid": "48505"
+  },
+  "Zavala County, TX": {
+    "geoid": "48507"
+  },
+  "Beaver County, UT": {
+    "geoid": "49001"
+  },
+  "Box Elder County, UT": {
+    "geoid": "49003"
+  },
+  "Cache County, UT": {
+    "geoid": "49005"
+  },
+  "Carbon County, UT": {
+    "geoid": "49007"
+  },
+  "Daggett County, UT": {
+    "geoid": "49009"
+  },
+  "Davis County, UT": {
+    "geoid": "49011"
+  },
+  "Duchesne County, UT": {
+    "geoid": "49013"
+  },
+  "Emery County, UT": {
+    "geoid": "49015"
+  },
+  "Garfield County, UT": {
+    "geoid": "49017"
+  },
+  "Grand County, UT": {
+    "geoid": "49019"
+  },
+  "Iron County, UT": {
+    "geoid": "49021"
+  },
+  "Juab County, UT": {
+    "geoid": "49023"
+  },
+  "Kane County, UT": {
+    "geoid": "49025"
+  },
+  "Millard County, UT": {
+    "geoid": "49027"
+  },
+  "Morgan County, UT": {
+    "geoid": "49029"
+  },
+  "Piute County, UT": {
+    "geoid": "49031"
+  },
+  "Rich County, UT": {
+    "geoid": "49033"
+  },
+  "Salt Lake County, UT": {
+    "geoid": "49035"
+  },
+  "San Juan County, UT": {
+    "geoid": "49037"
+  },
+  "Sanpete County, UT": {
+    "geoid": "49039"
+  },
+  "Sevier County, UT": {
+    "geoid": "49041"
+  },
+  "Summit County, UT": {
+    "geoid": "49043"
+  },
+  "Tooele County, UT": {
+    "geoid": "49045"
+  },
+  "Uintah County, UT": {
+    "geoid": "49047"
+  },
+  "Utah County, UT": {
+    "geoid": "49049"
+  },
+  "Wasatch County, UT": {
+    "geoid": "49051"
+  },
+  "Washington County, UT": {
+    "geoid": "49053"
+  },
+  "Wayne County, UT": {
+    "geoid": "49055"
+  },
+  "Weber County, UT": {
+    "geoid": "49057"
+  },
+  "Addison County, VT": {
+    "geoid": "50001"
+  },
+  "Bennington County, VT": {
+    "geoid": "50003"
+  },
+  "Caledonia County, VT": {
+    "geoid": "50005"
+  },
+  "Chittenden County, VT": {
+    "geoid": "50007"
+  },
+  "Essex County, VT": {
+    "geoid": "50009"
+  },
+  "Franklin County, VT": {
+    "geoid": "50011"
+  },
+  "Grand Isle County, VT": {
+    "geoid": "50013"
+  },
+  "Lamoille County, VT": {
+    "geoid": "50015"
+  },
+  "Orange County, VT": {
+    "geoid": "50017"
+  },
+  "Orleans County, VT": {
+    "geoid": "50019"
+  },
+  "Rutland County, VT": {
+    "geoid": "50021"
+  },
+  "Washington County, VT": {
+    "geoid": "50023"
+  },
+  "Windham County, VT": {
+    "geoid": "50025"
+  },
+  "Windsor County, VT": {
+    "geoid": "50027"
+  },
+  "Accomack County, VA": {
+    "geoid": "51001"
+  },
+  "Albemarle County, VA": {
+    "geoid": "51003"
+  },
+  "Alleghany County, VA": {
+    "geoid": "51005"
+  },
+  "Amelia County, VA": {
+    "geoid": "51007"
+  },
+  "Amherst County, VA": {
+    "geoid": "51009"
+  },
+  "Appomattox County, VA": {
+    "geoid": "51011"
+  },
+  "Arlington County, VA": {
+    "geoid": "51013"
+  },
+  "Augusta County, VA": {
+    "geoid": "51015"
+  },
+  "Bath County, VA": {
+    "geoid": "51017"
+  },
+  "Bedford County, VA": {
+    "geoid": "51019"
+  },
+  "Bland County, VA": {
+    "geoid": "51021"
+  },
+  "Botetourt County, VA": {
+    "geoid": "51023"
+  },
+  "Brunswick County, VA": {
+    "geoid": "51025"
+  },
+  "Buchanan County, VA": {
+    "geoid": "51027"
+  },
+  "Buckingham County, VA": {
+    "geoid": "51029"
+  },
+  "Campbell County, VA": {
+    "geoid": "51031"
+  },
+  "Caroline County, VA": {
+    "geoid": "51033"
+  },
+  "Carroll County, VA": {
+    "geoid": "51035"
+  },
+  "Charles City County, VA": {
+    "geoid": "51036"
+  },
+  "Charlotte County, VA": {
+    "geoid": "51037"
+  },
+  "Chesterfield County, VA": {
+    "geoid": "51041"
+  },
+  "Clarke County, VA": {
+    "geoid": "51043"
+  },
+  "Craig County, VA": {
+    "geoid": "51045"
+  },
+  "Culpeper County, VA": {
+    "geoid": "51047"
+  },
+  "Cumberland County, VA": {
+    "geoid": "51049"
+  },
+  "Dickenson County, VA": {
+    "geoid": "51051"
+  },
+  "Dinwiddie County, VA": {
+    "geoid": "51053"
+  },
+  "Essex County, VA": {
+    "geoid": "51057"
+  },
+  "Fairfax County, VA": {
+    "geoid": "51059"
+  },
+  "Fauquier County, VA": {
+    "geoid": "51061"
+  },
+  "Floyd County, VA": {
+    "geoid": "51063"
+  },
+  "Fluvanna County, VA": {
+    "geoid": "51065"
+  },
+  "Franklin County, VA": {
+    "geoid": "51067"
+  },
+  "Frederick County, VA": {
+    "geoid": "51069"
+  },
+  "Giles County, VA": {
+    "geoid": "51071"
+  },
+  "Gloucester County, VA": {
+    "geoid": "51073"
+  },
+  "Goochland County, VA": {
+    "geoid": "51075"
+  },
+  "Grayson County, VA": {
+    "geoid": "51077"
+  },
+  "Greene County, VA": {
+    "geoid": "51079"
+  },
+  "Greensville County, VA": {
+    "geoid": "51081"
+  },
+  "Halifax County, VA": {
+    "geoid": "51083"
+  },
+  "Hanover County, VA": {
+    "geoid": "51085"
+  },
+  "Henrico County, VA": {
+    "geoid": "51087"
+  },
+  "Henry County, VA": {
+    "geoid": "51089"
+  },
+  "Highland County, VA": {
+    "geoid": "51091"
+  },
+  "Isle of Wight County, VA": {
+    "geoid": "51093"
+  },
+  "James City County, VA": {
+    "geoid": "51095"
+  },
+  "King and Queen County, VA": {
+    "geoid": "51097"
+  },
+  "King George County, VA": {
+    "geoid": "51099"
+  },
+  "King William County, VA": {
+    "geoid": "51101"
+  },
+  "Lancaster County, VA": {
+    "geoid": "51103"
+  },
+  "Lee County, VA": {
+    "geoid": "51105"
+  },
+  "Loudoun County, VA": {
+    "geoid": "51107"
+  },
+  "Louisa County, VA": {
+    "geoid": "51109"
+  },
+  "Lunenburg County, VA": {
+    "geoid": "51111"
+  },
+  "Madison County, VA": {
+    "geoid": "51113"
+  },
+  "Mathews County, VA": {
+    "geoid": "51115"
+  },
+  "Mecklenburg County, VA": {
+    "geoid": "51117"
+  },
+  "Middlesex County, VA": {
+    "geoid": "51119"
+  },
+  "Montgomery County, VA": {
+    "geoid": "51121"
+  },
+  "Nelson County, VA": {
+    "geoid": "51125"
+  },
+  "New Kent County, VA": {
+    "geoid": "51127"
+  },
+  "Northampton County, VA": {
+    "geoid": "51131"
+  },
+  "Northumberland County, VA": {
+    "geoid": "51133"
+  },
+  "Nottoway County, VA": {
+    "geoid": "51135"
+  },
+  "Orange County, VA": {
+    "geoid": "51137"
+  },
+  "Page County, VA": {
+    "geoid": "51139"
+  },
+  "Patrick County, VA": {
+    "geoid": "51141"
+  },
+  "Pittsylvania County, VA": {
+    "geoid": "51143"
+  },
+  "Powhatan County, VA": {
+    "geoid": "51145"
+  },
+  "Prince Edward County, VA": {
+    "geoid": "51147"
+  },
+  "Prince George County, VA": {
+    "geoid": "51149"
+  },
+  "Prince William County, VA": {
+    "geoid": "51153"
+  },
+  "Pulaski County, VA": {
+    "geoid": "51155"
+  },
+  "Rappahannock County, VA": {
+    "geoid": "51157"
+  },
+  "Richmond County, VA": {
+    "geoid": "51159"
+  },
+  "Roanoke County, VA": {
+    "geoid": "51161"
+  },
+  "Rockbridge County, VA": {
+    "geoid": "51163"
+  },
+  "Rockingham County, VA": {
+    "geoid": "51165"
+  },
+  "Russell County, VA": {
+    "geoid": "51167"
+  },
+  "Scott County, VA": {
+    "geoid": "51169"
+  },
+  "Shenandoah County, VA": {
+    "geoid": "51171"
+  },
+  "Smyth County, VA": {
+    "geoid": "51173"
+  },
+  "Southampton County, VA": {
+    "geoid": "51175"
+  },
+  "Spotsylvania County, VA": {
+    "geoid": "51177"
+  },
+  "Stafford County, VA": {
+    "geoid": "51179"
+  },
+  "Surry County, VA": {
+    "geoid": "51181"
+  },
+  "Sussex County, VA": {
+    "geoid": "51183"
+  },
+  "Tazewell County, VA": {
+    "geoid": "51185"
+  },
+  "Warren County, VA": {
+    "geoid": "51187"
+  },
+  "Washington County, VA": {
+    "geoid": "51191"
+  },
+  "Westmoreland County, VA": {
+    "geoid": "51193"
+  },
+  "Wise County, VA": {
+    "geoid": "51195"
+  },
+  "Wythe County, VA": {
+    "geoid": "51197"
+  },
+  "York County, VA": {
+    "geoid": "51199"
+  },
+  "Alexandria city, VA": {
+    "geoid": "51510"
+  },
+  "Bedford city, VA": {
+    "geoid": "51515"
+  },
+  "Bristol city, VA": {
+    "geoid": "51520"
+  },
+  "Buena Vista city, VA": {
+    "geoid": "51530"
+  },
+  "Charlottesville city, VA": {
+    "geoid": "51540"
+  },
+  "Chesapeake city, VA": {
+    "geoid": "51550"
+  },
+  "Colonial Heights city, VA": {
+    "geoid": "51570"
+  },
+  "Covington city, VA": {
+    "geoid": "51580"
+  },
+  "Danville city, VA": {
+    "geoid": "51590"
+  },
+  "Emporia city, VA": {
+    "geoid": "51595"
+  },
+  "Fairfax city, VA": {
+    "geoid": "51600"
+  },
+  "Falls Church city, VA": {
+    "geoid": "51610"
+  },
+  "Franklin city, VA": {
+    "geoid": "51620"
+  },
+  "Fredericksburg city, VA": {
+    "geoid": "51630"
+  },
+  "Galax city, VA": {
+    "geoid": "51640"
+  },
+  "Hampton city, VA": {
+    "geoid": "51650"
+  },
+  "Harrisonburg city, VA": {
+    "geoid": "51660"
+  },
+  "Hopewell city, VA": {
+    "geoid": "51670"
+  },
+  "Lexington city, VA": {
+    "geoid": "51678"
+  },
+  "Lynchburg city, VA": {
+    "geoid": "51680"
+  },
+  "Manassas city, VA": {
+    "geoid": "51683"
+  },
+  "Manassas Park city, VA": {
+    "geoid": "51685"
+  },
+  "Martinsville city, VA": {
+    "geoid": "51690"
+  },
+  "Newport News city, VA": {
+    "geoid": "51700"
+  },
+  "Norfolk city, VA": {
+    "geoid": "51710"
+  },
+  "Norton city, VA": {
+    "geoid": "51720"
+  },
+  "Petersburg city, VA": {
+    "geoid": "51730"
+  },
+  "Poquoson city, VA": {
+    "geoid": "51735"
+  },
+  "Portsmouth city, VA": {
+    "geoid": "51740"
+  },
+  "Radford city, VA": {
+    "geoid": "51750"
+  },
+  "Richmond city, VA": {
+    "geoid": "51760"
+  },
+  "Roanoke city, VA": {
+    "geoid": "51770"
+  },
+  "Salem city, VA": {
+    "geoid": "51775"
+  },
+  "Staunton city, VA": {
+    "geoid": "51790"
+  },
+  "Suffolk city, VA": {
+    "geoid": "51800"
+  },
+  "Virginia Beach city, VA": {
+    "geoid": "51810"
+  },
+  "Waynesboro city, VA": {
+    "geoid": "51820"
+  },
+  "Williamsburg city, VA": {
+    "geoid": "51830"
+  },
+  "Winchester city, VA": {
+    "geoid": "51840"
+  },
+  "Adams County, WA": {
+    "geoid": "53001"
+  },
+  "Asotin County, WA": {
+    "geoid": "53003"
+  },
+  "Benton County, WA": {
+    "geoid": "53005"
+  },
+  "Chelan County, WA": {
+    "geoid": "53007"
+  },
+  "Clallam County, WA": {
+    "geoid": "53009"
+  },
+  "Clark County, WA": {
+    "geoid": "53011"
+  },
+  "Columbia County, WA": {
+    "geoid": "53013"
+  },
+  "Cowlitz County, WA": {
+    "geoid": "53015"
+  },
+  "Douglas County, WA": {
+    "geoid": "53017"
+  },
+  "Ferry County, WA": {
+    "geoid": "53019"
+  },
+  "Franklin County, WA": {
+    "geoid": "53021"
+  },
+  "Garfield County, WA": {
+    "geoid": "53023"
+  },
+  "Grant County, WA": {
+    "geoid": "53025"
+  },
+  "Grays Harbor County, WA": {
+    "geoid": "53027"
+  },
+  "Island County, WA": {
+    "geoid": "53029"
+  },
+  "Jefferson County, WA": {
+    "geoid": "53031"
+  },
+  "King County, WA": {
+    "geoid": "53033"
+  },
+  "Kitsap County, WA": {
+    "geoid": "53035"
+  },
+  "Kittitas County, WA": {
+    "geoid": "53037"
+  },
+  "Klickitat County, WA": {
+    "geoid": "53039"
+  },
+  "Lewis County, WA": {
+    "geoid": "53041"
+  },
+  "Lincoln County, WA": {
+    "geoid": "53043"
+  },
+  "Mason County, WA": {
+    "geoid": "53045"
+  },
+  "Okanogan County, WA": {
+    "geoid": "53047"
+  },
+  "Pacific County, WA": {
+    "geoid": "53049"
+  },
+  "Pend Oreille County, WA": {
+    "geoid": "53051"
+  },
+  "Pierce County, WA": {
+    "geoid": "53053"
+  },
+  "San Juan County, WA": {
+    "geoid": "53055"
+  },
+  "Skagit County, WA": {
+    "geoid": "53057"
+  },
+  "Skamania County, WA": {
+    "geoid": "53059"
+  },
+  "Snohomish County, WA": {
+    "geoid": "53061"
+  },
+  "Spokane County, WA": {
+    "geoid": "53063"
+  },
+  "Stevens County, WA": {
+    "geoid": "53065"
+  },
+  "Thurston County, WA": {
+    "geoid": "53067"
+  },
+  "Wahkiakum County, WA": {
+    "geoid": "53069"
+  },
+  "Walla Walla County, WA": {
+    "geoid": "53071"
+  },
+  "Whatcom County, WA": {
+    "geoid": "53073"
+  },
+  "Whitman County, WA": {
+    "geoid": "53075"
+  },
+  "Yakima County, WA": {
+    "geoid": "53077"
+  },
+  "Barbour County, WV": {
+    "geoid": "54001"
+  },
+  "Berkeley County, WV": {
+    "geoid": "54003"
+  },
+  "Boone County, WV": {
+    "geoid": "54005"
+  },
+  "Braxton County, WV": {
+    "geoid": "54007"
+  },
+  "Brooke County, WV": {
+    "geoid": "54009"
+  },
+  "Cabell County, WV": {
+    "geoid": "54011"
+  },
+  "Calhoun County, WV": {
+    "geoid": "54013"
+  },
+  "Clay County, WV": {
+    "geoid": "54015"
+  },
+  "Doddridge County, WV": {
+    "geoid": "54017"
+  },
+  "Fayette County, WV": {
+    "geoid": "54019"
+  },
+  "Gilmer County, WV": {
+    "geoid": "54021"
+  },
+  "Grant County, WV": {
+    "geoid": "54023"
+  },
+  "Greenbrier County, WV": {
+    "geoid": "54025"
+  },
+  "Hampshire County, WV": {
+    "geoid": "54027"
+  },
+  "Hancock County, WV": {
+    "geoid": "54029"
+  },
+  "Hardy County, WV": {
+    "geoid": "54031"
+  },
+  "Harrison County, WV": {
+    "geoid": "54033"
+  },
+  "Jackson County, WV": {
+    "geoid": "54035"
+  },
+  "Jefferson County, WV": {
+    "geoid": "54037"
+  },
+  "Kanawha County, WV": {
+    "geoid": "54039"
+  },
+  "Lewis County, WV": {
+    "geoid": "54041"
+  },
+  "Lincoln County, WV": {
+    "geoid": "54043"
+  },
+  "Logan County, WV": {
+    "geoid": "54045"
+  },
+  "McDowell County, WV": {
+    "geoid": "54047"
+  },
+  "Marion County, WV": {
+    "geoid": "54049"
+  },
+  "Marshall County, WV": {
+    "geoid": "54051"
+  },
+  "Mason County, WV": {
+    "geoid": "54053"
+  },
+  "Mercer County, WV": {
+    "geoid": "54055"
+  },
+  "Mineral County, WV": {
+    "geoid": "54057"
+  },
+  "Mingo County, WV": {
+    "geoid": "54059"
+  },
+  "Monongalia County, WV": {
+    "geoid": "54061"
+  },
+  "Monroe County, WV": {
+    "geoid": "54063"
+  },
+  "Morgan County, WV": {
+    "geoid": "54065"
+  },
+  "Nicholas County, WV": {
+    "geoid": "54067"
+  },
+  "Ohio County, WV": {
+    "geoid": "54069"
+  },
+  "Pendleton County, WV": {
+    "geoid": "54071"
+  },
+  "Pleasants County, WV": {
+    "geoid": "54073"
+  },
+  "Pocahontas County, WV": {
+    "geoid": "54075"
+  },
+  "Preston County, WV": {
+    "geoid": "54077"
+  },
+  "Putnam County, WV": {
+    "geoid": "54079"
+  },
+  "Raleigh County, WV": {
+    "geoid": "54081"
+  },
+  "Randolph County, WV": {
+    "geoid": "54083"
+  },
+  "Ritchie County, WV": {
+    "geoid": "54085"
+  },
+  "Roane County, WV": {
+    "geoid": "54087"
+  },
+  "Summers County, WV": {
+    "geoid": "54089"
+  },
+  "Taylor County, WV": {
+    "geoid": "54091"
+  },
+  "Tucker County, WV": {
+    "geoid": "54093"
+  },
+  "Tyler County, WV": {
+    "geoid": "54095"
+  },
+  "Upshur County, WV": {
+    "geoid": "54097"
+  },
+  "Wayne County, WV": {
+    "geoid": "54099"
+  },
+  "Webster County, WV": {
+    "geoid": "54101"
+  },
+  "Wetzel County, WV": {
+    "geoid": "54103"
+  },
+  "Wirt County, WV": {
+    "geoid": "54105"
+  },
+  "Wood County, WV": {
+    "geoid": "54107"
+  },
+  "Wyoming County, WV": {
+    "geoid": "54109"
+  },
+  "Adams County, WI": {
+    "geoid": "55001"
+  },
+  "Ashland County, WI": {
+    "geoid": "55003"
+  },
+  "Barron County, WI": {
+    "geoid": "55005"
+  },
+  "Bayfield County, WI": {
+    "geoid": "55007"
+  },
+  "Brown County, WI": {
+    "geoid": "55009"
+  },
+  "Buffalo County, WI": {
+    "geoid": "55011"
+  },
+  "Burnett County, WI": {
+    "geoid": "55013"
+  },
+  "Calumet County, WI": {
+    "geoid": "55015"
+  },
+  "Chippewa County, WI": {
+    "geoid": "55017"
+  },
+  "Clark County, WI": {
+    "geoid": "55019"
+  },
+  "Columbia County, WI": {
+    "geoid": "55021"
+  },
+  "Crawford County, WI": {
+    "geoid": "55023"
+  },
+  "Dane County, WI": {
+    "geoid": "55025"
+  },
+  "Dodge County, WI": {
+    "geoid": "55027"
+  },
+  "Door County, WI": {
+    "geoid": "55029"
+  },
+  "Douglas County, WI": {
+    "geoid": "55031"
+  },
+  "Dunn County, WI": {
+    "geoid": "55033"
+  },
+  "Eau Claire County, WI": {
+    "geoid": "55035"
+  },
+  "Florence County, WI": {
+    "geoid": "55037"
+  },
+  "Fond du Lac County, WI": {
+    "geoid": "55039"
+  },
+  "Forest County, WI": {
+    "geoid": "55041"
+  },
+  "Grant County, WI": {
+    "geoid": "55043"
+  },
+  "Green County, WI": {
+    "geoid": "55045"
+  },
+  "Green Lake County, WI": {
+    "geoid": "55047"
+  },
+  "Iowa County, WI": {
+    "geoid": "55049"
+  },
+  "Iron County, WI": {
+    "geoid": "55051"
+  },
+  "Jackson County, WI": {
+    "geoid": "55053"
+  },
+  "Jefferson County, WI": {
+    "geoid": "55055"
+  },
+  "Juneau County, WI": {
+    "geoid": "55057"
+  },
+  "Kenosha County, WI": {
+    "geoid": "55059"
+  },
+  "Kewaunee County, WI": {
+    "geoid": "55061"
+  },
+  "La Crosse County, WI": {
+    "geoid": "55063"
+  },
+  "Lafayette County, WI": {
+    "geoid": "55065"
+  },
+  "Langlade County, WI": {
+    "geoid": "55067"
+  },
+  "Lincoln County, WI": {
+    "geoid": "55069"
+  },
+  "Manitowoc County, WI": {
+    "geoid": "55071"
+  },
+  "Marathon County, WI": {
+    "geoid": "55073"
+  },
+  "Marinette County, WI": {
+    "geoid": "55075"
+  },
+  "Marquette County, WI": {
+    "geoid": "55077"
+  },
+  "Menominee County, WI": {
+    "geoid": "55078"
+  },
+  "Milwaukee County, WI": {
+    "geoid": "55079"
+  },
+  "Monroe County, WI": {
+    "geoid": "55081"
+  },
+  "Oconto County, WI": {
+    "geoid": "55083"
+  },
+  "Oneida County, WI": {
+    "geoid": "55085"
+  },
+  "Outagamie County, WI": {
+    "geoid": "55087"
+  },
+  "Ozaukee County, WI": {
+    "geoid": "55089"
+  },
+  "Pepin County, WI": {
+    "geoid": "55091"
+  },
+  "Pierce County, WI": {
+    "geoid": "55093"
+  },
+  "Polk County, WI": {
+    "geoid": "55095"
+  },
+  "Portage County, WI": {
+    "geoid": "55097"
+  },
+  "Price County, WI": {
+    "geoid": "55099"
+  },
+  "Racine County, WI": {
+    "geoid": "55101"
+  },
+  "Richland County, WI": {
+    "geoid": "55103"
+  },
+  "Rock County, WI": {
+    "geoid": "55105"
+  },
+  "Rusk County, WI": {
+    "geoid": "55107"
+  },
+  "St. Croix County, WI": {
+    "geoid": "55109"
+  },
+  "Sauk County, WI": {
+    "geoid": "55111"
+  },
+  "Sawyer County, WI": {
+    "geoid": "55113"
+  },
+  "Shawano County, WI": {
+    "geoid": "55115"
+  },
+  "Sheboygan County, WI": {
+    "geoid": "55117"
+  },
+  "Taylor County, WI": {
+    "geoid": "55119"
+  },
+  "Trempealeau County, WI": {
+    "geoid": "55121"
+  },
+  "Vernon County, WI": {
+    "geoid": "55123"
+  },
+  "Vilas County, WI": {
+    "geoid": "55125"
+  },
+  "Walworth County, WI": {
+    "geoid": "55127"
+  },
+  "Washburn County, WI": {
+    "geoid": "55129"
+  },
+  "Washington County, WI": {
+    "geoid": "55131"
+  },
+  "Waukesha County, WI": {
+    "geoid": "55133"
+  },
+  "Waupaca County, WI": {
+    "geoid": "55135"
+  },
+  "Waushara County, WI": {
+    "geoid": "55137"
+  },
+  "Winnebago County, WI": {
+    "geoid": "55139"
+  },
+  "Wood County, WI": {
+    "geoid": "55141"
+  },
+  "Albany County, WY": {
+    "geoid": "56001"
+  },
+  "Big Horn County, WY": {
+    "geoid": "56003"
+  },
+  "Campbell County, WY": {
+    "geoid": "56005"
+  },
+  "Carbon County, WY": {
+    "geoid": "56007"
+  },
+  "Converse County, WY": {
+    "geoid": "56009"
+  },
+  "Crook County, WY": {
+    "geoid": "56011"
+  },
+  "Fremont County, WY": {
+    "geoid": "56013"
+  },
+  "Goshen County, WY": {
+    "geoid": "56015"
+  },
+  "Hot Springs County, WY": {
+    "geoid": "56017"
+  },
+  "Johnson County, WY": {
+    "geoid": "56019"
+  },
+  "Laramie County, WY": {
+    "geoid": "56021"
+  },
+  "Lincoln County, WY": {
+    "geoid": "56023"
+  },
+  "Natrona County, WY": {
+    "geoid": "56025"
+  },
+  "Niobrara County, WY": {
+    "geoid": "56027"
+  },
+  "Park County, WY": {
+    "geoid": "56029"
+  },
+  "Platte County, WY": {
+    "geoid": "56031"
+  },
+  "Sheridan County, WY": {
+    "geoid": "56033"
+  },
+  "Sublette County, WY": {
+    "geoid": "56035"
+  },
+  "Sweetwater County, WY": {
+    "geoid": "56037"
+  },
+  "Teton County, WY": {
+    "geoid": "56039"
+  },
+  "Uinta County, WY": {
+    "geoid": "56041"
+  },
+  "Washakie County, WY": {
+    "geoid": "56043"
+  },
+  "Weston County, WY": {
+    "geoid": "56045"
+  },
+  "Adjuntas Municipio, PR": {
+    "geoid": "72001"
+  },
+  "Aguada Municipio, PR": {
+    "geoid": "72003"
+  },
+  "Aguadilla Municipio, PR": {
+    "geoid": "72005"
+  },
+  "Aguas Buenas Municipio, PR": {
+    "geoid": "72007"
+  },
+  "Aibonito Municipio, PR": {
+    "geoid": "72009"
+  },
+  "A�asco Municipio, PR": {
+    "geoid": "72011"
+  },
+  "Arecibo Municipio, PR": {
+    "geoid": "72013"
+  },
+  "Arroyo Municipio, PR": {
+    "geoid": "72015"
+  },
+  "Barceloneta Municipio, PR": {
+    "geoid": "72017"
+  },
+  "Barranquitas Municipio, PR": {
+    "geoid": "72019"
+  },
+  "Bayam�n Municipio, PR": {
+    "geoid": "72021"
+  },
+  "Cabo Rojo Municipio, PR": {
+    "geoid": "72023"
+  },
+  "Caguas Municipio, PR": {
+    "geoid": "72025"
+  },
+  "Camuy Municipio, PR": {
+    "geoid": "72027"
+  },
+  "Can�vanas Municipio, PR": {
+    "geoid": "72029"
+  },
+  "Carolina Municipio, PR": {
+    "geoid": "72031"
+  },
+  "Cata�o Municipio, PR": {
+    "geoid": "72033"
+  },
+  "Cayey Municipio, PR": {
+    "geoid": "72035"
+  },
+  "Ceiba Municipio, PR": {
+    "geoid": "72037"
+  },
+  "Ciales Municipio, PR": {
+    "geoid": "72039"
+  },
+  "Cidra Municipio, PR": {
+    "geoid": "72041"
+  },
+  "Coamo Municipio, PR": {
+    "geoid": "72043"
+  },
+  "Comer�o Municipio, PR": {
+    "geoid": "72045"
+  },
+  "Corozal Municipio, PR": {
+    "geoid": "72047"
+  },
+  "Culebra Municipio, PR": {
+    "geoid": "72049"
+  },
+  "Dorado Municipio, PR": {
+    "geoid": "72051"
+  },
+  "Fajardo Municipio, PR": {
+    "geoid": "72053"
+  },
+  "Florida Municipio, PR": {
+    "geoid": "72054"
+  },
+  "Gu�nica Municipio, PR": {
+    "geoid": "72055"
+  },
+  "Guayama Municipio, PR": {
+    "geoid": "72057"
+  },
+  "Guayanilla Municipio, PR": {
+    "geoid": "72059"
+  },
+  "Guaynabo Municipio, PR": {
+    "geoid": "72061"
+  },
+  "Gurabo Municipio, PR": {
+    "geoid": "72063"
+  },
+  "Hatillo Municipio, PR": {
+    "geoid": "72065"
+  },
+  "Hormigueros Municipio, PR": {
+    "geoid": "72067"
+  },
+  "Humacao Municipio, PR": {
+    "geoid": "72069"
+  },
+  "Isabela Municipio, PR": {
+    "geoid": "72071"
+  },
+  "Jayuya Municipio, PR": {
+    "geoid": "72073"
+  },
+  "Juana D�az Municipio, PR": {
+    "geoid": "72075"
+  },
+  "Juncos Municipio, PR": {
+    "geoid": "72077"
+  },
+  "Lajas Municipio, PR": {
+    "geoid": "72079"
+  },
+  "Lares Municipio, PR": {
+    "geoid": "72081"
+  },
+  "Las Mar�as Municipio, PR": {
+    "geoid": "72083"
+  },
+  "Las Piedras Municipio, PR": {
+    "geoid": "72085"
+  },
+  "Lo�za Municipio, PR": {
+    "geoid": "72087"
+  },
+  "Luquillo Municipio, PR": {
+    "geoid": "72089"
+  },
+  "Manat� Municipio, PR": {
+    "geoid": "72091"
+  },
+  "Maricao Municipio, PR": {
+    "geoid": "72093"
+  },
+  "Maunabo Municipio, PR": {
+    "geoid": "72095"
+  },
+  "Mayag�ez Municipio, PR": {
+    "geoid": "72097"
+  },
+  "Moca Municipio, PR": {
+    "geoid": "72099"
+  },
+  "Morovis Municipio, PR": {
+    "geoid": "72101"
+  },
+  "Naguabo Municipio, PR": {
+    "geoid": "72103"
+  },
+  "Naranjito Municipio, PR": {
+    "geoid": "72105"
+  },
+  "Orocovis Municipio, PR": {
+    "geoid": "72107"
+  },
+  "Patillas Municipio, PR": {
+    "geoid": "72109"
+  },
+  "Pe�uelas Municipio, PR": {
+    "geoid": "72111"
+  },
+  "Ponce Municipio, PR": {
+    "geoid": "72113"
+  },
+  "Quebradillas Municipio, PR": {
+    "geoid": "72115"
+  },
+  "Rinc�n Municipio, PR": {
+    "geoid": "72117"
+  },
+  "R�o Grande Municipio, PR": {
+    "geoid": "72119"
+  },
+  "Sabana Grande Municipio, PR": {
+    "geoid": "72121"
+  },
+  "Salinas Municipio, PR": {
+    "geoid": "72123"
+  },
+  "San Germ�n Municipio, PR": {
+    "geoid": "72125"
+  },
+  "San Juan Municipio, PR": {
+    "geoid": "72127"
+  },
+  "San Lorenzo Municipio, PR": {
+    "geoid": "72129"
+  },
+  "San Sebasti�n Municipio, PR": {
+    "geoid": "72131"
+  },
+  "Santa Isabel Municipio, PR": {
+    "geoid": "72133"
+  },
+  "Toa Alta Municipio, PR": {
+    "geoid": "72135"
+  },
+  "Toa Baja Municipio, PR": {
+    "geoid": "72137"
+  },
+  "Trujillo Alto Municipio, PR": {
+    "geoid": "72139"
+  },
+  "Utuado Municipio, PR": {
+    "geoid": "72141"
+  },
+  "Vega Alta Municipio, PR": {
+    "geoid": "72143"
+  },
+  "Vega Baja Municipio, PR": {
+    "geoid": "72145"
+  },
+  "Vieques Municipio, PR": {
+    "geoid": "72147"
+  },
+  "Villalba Municipio, PR": {
+    "geoid": "72149"
+  },
+  "Yabucoa Municipio, PR": {
+    "geoid": "72151"
+  },
+  "Yauco Municipio, PR": {
+    "geoid": "72153"
+  }
+}

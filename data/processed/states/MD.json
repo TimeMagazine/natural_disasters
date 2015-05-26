@@ -1,0 +1,7202 @@
+{
+  "510": {
+    "name": "Baltimore city",
+    "fips": "MD",
+    "pop10": "620961",
+    "lat": 39.300213,
+    "lon": -76.610516,
+    "geoid": "24510",
+    "deaths": 48,
+    "prop_dmg": "254M",
+    "crop_dmg": 0,
+    "inj": 283,
+    "all": 27,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "2100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0k",
+        "crop_dmg": "0",
+        "begin": "11/16/2006",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1136",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "01/25/2010",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "2100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/17/1996",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2245",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1900",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "06/13/2003",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "50",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/13/1997",
+        "county": "SOUTHERN BALTIMORE / BALTIMORE (C) ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "30",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/16/1997",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "400",
+        "inj": "200",
+        "deaths": "15",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/27/2001",
+        "county": "SOUTHERN BALTIMORE / BALTIMORE (C) ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "3",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/25/2002",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "17",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/02/2002",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/22/2002",
+        "county": "SOUTHERN BALTIMORE / BALTIMORE (C) ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/24/2010",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/2010",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1054",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/18/2013",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [
+      {
+        "type": "Heavy+Rain",
+        "time": "200",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "09/05/1999",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Heavy+Rain",
+        "time": "1520",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/28/2005",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1630",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1805",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "07/08/1996",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1730",
+        "inj": "1",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/26/1998",
+        "county": "BALTIMORE CITY (C) CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "400k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "SOUTHERN BALTIMORE / BALTIMORE (C) ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "252M",
+        "crop_dmg": "0",
+        "begin": "09/18/2003",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "200k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": [
+      {
+        "type": "Winter+Weather",
+        "time": "1530",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "01/26/2004",
+        "county": "SOUTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ]
+  },
+  "001": {
+    "name": "Allegany County",
+    "fips": "MD",
+    "pop10": "75087",
+    "lat": 39.612309,
+    "lon": -78.703108,
+    "geoid": "24001",
+    "deaths": 0,
+    "prop_dmg": "12.5M",
+    "crop_dmg": "250k",
+    "inj": 7,
+    "all": 11,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "7.00M",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "06/11/1996",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "215",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "06/07/2001",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "06/13/2007",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flood",
+        "time": "2334",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "03/04/2008",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "02/01/2008",
+        "county": "EXTREME WESTERN ALLEGANY ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1845",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "05/07/1999",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1730",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/25/2000",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1415",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "05/14/2002",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1315",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "07/05/1969",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "2043",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "5.00M",
+        "crop_dmg": "250k",
+        "begin": "06/02/1998",
+        "county": "ALLEGANY CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "003": {
+    "name": "Anne Arundel County",
+    "fips": "MD",
+    "pop10": "537656",
+    "lat": 38.993374,
+    "lon": -76.560511,
+    "geoid": "24003",
+    "deaths": 4,
+    "prop_dmg": "7.69M",
+    "crop_dmg": "10.0k",
+    "inj": 76,
+    "all": 48,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "02/04/1998",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [
+      {
+        "type": "Excessive+Heat",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/09/2008",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "1100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/25/2006",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "01/31/2013",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "1230",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "10/02/2012",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "25",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/13/1997",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "10",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/16/1997",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "10.0k",
+        "begin": "03/27/1998",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "800",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/07/1999",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "400",
+        "inj": "21",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1200",
+        "inj": "4",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/2010",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [
+      {
+        "type": "Heavy+Snow",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "02/12/2006",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1650",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/24/1996",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1650",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/24/1996",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00k",
+        "crop_dmg": "0",
+        "begin": "06/22/1997",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1920",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/26/1998",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1555",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/10/1998",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1545",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/14/1999",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2015",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0k",
+        "crop_dmg": "0",
+        "begin": "07/22/1999",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1615",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/14/1999",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1024",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "110k",
+        "crop_dmg": "0",
+        "begin": "05/10/2000",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1340",
+        "inj": "8",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/17/2000",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1715",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/18/2000",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2226",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "07/15/2000",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "07/15/2000",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1630",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/2001",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1510",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "04/18/2002",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1705",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "70.0k",
+        "crop_dmg": "0",
+        "begin": "04/18/2002",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/13/2003",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1430",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/03/2003",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "350k",
+        "crop_dmg": "0",
+        "begin": "06/17/2004",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1542",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "08/10/2004",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1558",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "08/10/2004",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "450k",
+        "crop_dmg": "0",
+        "begin": "07/27/2005",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1430",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "04/20/2008",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1459",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/25/2010",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.40M",
+        "crop_dmg": "0",
+        "begin": "09/06/1996",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "01/15/2006",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1530",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "06/09/1961",
+        "county": "ANNE ARUNDEL CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "4.02M",
+        "crop_dmg": "0",
+        "begin": "09/18/2003",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "300k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [
+      {
+        "type": "Wildfire",
+        "time": "820",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "03/17/2006",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Winter_Storm": [
+      {
+        "type": "Winter+Storm",
+        "time": "0",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "01/20/2000",
+        "county": "ANNE ARUNDEL ",
+        "state": "MD"
+      }
+    ],
+    "Winter_Weather": []
+  },
+  "005": {
+    "name": "Baltimore County",
+    "fips": "MD",
+    "pop10": "805029",
+    "lat": 39.443167,
+    "lon": -76.616569,
+    "geoid": "24005",
+    "deaths": 4,
+    "prop_dmg": "182M",
+    "crop_dmg": "2.58M",
+    "inj": 96,
+    "all": 23,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [
+      {
+        "type": "Drought",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "2.53M",
+        "begin": "07/01/1997",
+        "county": "NORTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "2100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "06/17/1996",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1115",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2245",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2130",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/01/2006",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2245",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/02/2006",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1640",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/24/2006",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/25/2006",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/25/2002",
+        "county": "NORTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [
+      {
+        "type": "Heavy+Rain",
+        "time": "500",
+        "inj": "32",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/25/2005",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "03/29/1996",
+        "county": "NORTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "NORTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1930",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "07/02/1996",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1325",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "03/29/1997",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1530",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "07/01/2001",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1730",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0k",
+        "crop_dmg": "0",
+        "begin": "04/20/2008",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "09/06/1996",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1550",
+        "inj": "4",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/16/1973",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "09/05/1979",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1430",
+        "inj": "59",
+        "deaths": "0",
+        "prop_dmg": "25.0M",
+        "crop_dmg": "0",
+        "begin": "10/18/1990",
+        "county": "BALTIMORE CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "155M",
+        "crop_dmg": "50.0k",
+        "begin": "09/18/2003",
+        "county": "NORTHERN BALTIMORE ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "200k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "NORTHERN BALTIMORE ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "009": {
+    "name": "Calvert County",
+    "fips": "MD",
+    "pop10": "88737",
+    "lat": 38.521357,
+    "lon": -76.525864,
+    "geoid": "24009",
+    "deaths": 4,
+    "prop_dmg": "25.8M",
+    "crop_dmg": "12.5k",
+    "inj": 6,
+    "all": 18,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [
+      {
+        "type": "Cold%2FWind+Chill",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "2.50k",
+        "begin": "03/11/1998",
+        "county": "CALVERT ",
+        "state": "MD"
+      }
+    ],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "1430",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "10/08/1996",
+        "county": "CALVERT ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "200k",
+        "crop_dmg": "0",
+        "begin": "02/04/1998",
+        "county": "CALVERT ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "400",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "CALVERT ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/18/2006",
+        "county": "CALVERT ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/24/1996",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1915",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/02/2000",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/02/2000",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1715",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/26/2000",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/03/2000",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1825",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "07/04/2008",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "750k",
+        "crop_dmg": "0",
+        "begin": "09/06/1996",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "06/27/1978",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1853",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "10/13/1983",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1831",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "10.0M",
+        "crop_dmg": "0",
+        "begin": "04/28/2002",
+        "county": "CALVERT CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "CALVERT ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "12.5M",
+        "crop_dmg": "10.0k",
+        "begin": "09/18/2003",
+        "county": "CALVERT ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.80M",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "CALVERT ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "011": {
+    "name": "Caroline County",
+    "fips": "MD",
+    "pop10": "33066",
+    "lat": 38.871531,
+    "lon": -75.831631,
+    "geoid": "24011",
+    "deaths": 0,
+    "prop_dmg": "6.01M",
+    "crop_dmg": "1.00M",
+    "inj": 7,
+    "all": 13,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/17/2001",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "4.00M",
+        "crop_dmg": "1.00M",
+        "begin": "06/25/2006",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "800k",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "900",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/07/1999",
+        "county": "CAROLINE ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "900",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/09/2011",
+        "county": "CAROLINE ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1308",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1950",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "28.0k",
+        "crop_dmg": "0",
+        "begin": "05/13/2000",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "605",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "04/06/2009",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "04/21/2009",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1430",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/01/2010",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1430",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/01/2010",
+        "county": "CAROLINE CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "09/19/2003",
+        "county": "CAROLINE ",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "135k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "CAROLINE ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "013": {
+    "name": "Carroll County",
+    "fips": "MD",
+    "pop10": "167134",
+    "lat": 39.563189,
+    "lon": -77.015512,
+    "geoid": "24013",
+    "deaths": 2,
+    "prop_dmg": "9.37M",
+    "crop_dmg": "5.62M",
+    "inj": 12,
+    "all": 26,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [
+      {
+        "type": "Cold%2FWind+Chill",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "2.50k",
+        "begin": "03/11/1998",
+        "county": "CARROLL ",
+        "state": "MD"
+      }
+    ],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [
+      {
+        "type": "Drought",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "5.60M",
+        "begin": "07/01/1997",
+        "county": "CARROLL ",
+        "state": "MD"
+      }
+    ],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "300k",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "30",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2245",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00k",
+        "crop_dmg": "0",
+        "begin": "01/08/1998",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/16/1998",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1830",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/23/1998",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/25/2002",
+        "county": "CARROLL ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/18/2006",
+        "county": "CARROLL ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "03/29/1996",
+        "county": "CARROLL ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "CARROLL ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1925",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/04/1996",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1725",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/16/1998",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1435",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "08/10/1998",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1415",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "05/13/2000",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1330",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/13/2000",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "30",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "70.0k",
+        "crop_dmg": "0",
+        "begin": "06/23/2001",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "05/26/2002",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2327",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "200k",
+        "crop_dmg": "0",
+        "begin": "05/31/2003",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2015",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/27/2006",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1900",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/07/2006",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1630",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.50M",
+        "crop_dmg": "0",
+        "begin": "05/23/1979",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1708",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "05/22/1983",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1442",
+        "inj": "3",
+        "deaths": "0",
+        "prop_dmg": "5.00M",
+        "crop_dmg": "20.0k",
+        "begin": "07/19/1996",
+        "county": "CARROLL CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "CARROLL ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "015": {
+    "name": "Cecil County",
+    "fips": "MD",
+    "pop10": "101108",
+    "lat": 39.562352,
+    "lon": -75.941584,
+    "geoid": "24015",
+    "deaths": 1,
+    "prop_dmg": "5.46M",
+    "crop_dmg": 0,
+    "inj": 17,
+    "all": 23,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "315",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "10/30/2012",
+        "county": "CECIL ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [
+      {
+        "type": "Excessive+Heat",
+        "time": "900",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/23/2010",
+        "county": "CECIL ",
+        "state": "MD"
+      }
+    ],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "1830",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "06/22/2001",
+        "county": "CECIL CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "1600",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "01/20/1996",
+        "county": "CECIL ",
+        "state": "MD"
+      },
+      {
+        "type": "Flood",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "CECIL CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "800",
+        "inj": "10",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "CECIL ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/11/1996",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "755",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "05/24/1999",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "05/24/1999",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1930",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "07/14/2000",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2245",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/14/2004",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "215k",
+        "crop_dmg": "0",
+        "begin": "06/02/2009",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1830",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/22/2010",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1613",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "08/01/2011",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "08/25/2011",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "850",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "280k",
+        "crop_dmg": "0",
+        "begin": "08/25/2011",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "801",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/13/2013",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1452",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/24/2013",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1540",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/28/2013",
+        "county": "CECIL CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "09/19/2003",
+        "county": "CECIL ",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1509",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "2.50M",
+        "crop_dmg": "0",
+        "begin": "05/15/1981",
+        "county": "CECIL CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1638",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "330k",
+        "crop_dmg": "0",
+        "begin": "05/02/2002",
+        "county": "CECIL CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "110k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "CECIL ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "017": {
+    "name": "Charles County",
+    "fips": "MD",
+    "pop10": "146551",
+    "lat": 38.472853,
+    "lon": -77.015427,
+    "geoid": "24017",
+    "deaths": 1,
+    "prop_dmg": "124M",
+    "crop_dmg": "17.5k",
+    "inj": 163,
+    "all": 17,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [
+      {
+        "type": "Cold%2FWind+Chill",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "2.50k",
+        "begin": "03/11/1998",
+        "county": "CHARLES ",
+        "state": "MD"
+      }
+    ],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "02/04/1998",
+        "county": "CHARLES ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1915",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "05/11/2008",
+        "county": "CHARLES ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [
+      {
+        "type": "High+Surf",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "03/08/2008",
+        "county": "CHARLES ",
+        "state": "MD"
+      }
+    ],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1715",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/24/1996",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1720",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "02/12/1999",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "07/10/2000",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1420",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/04/2008",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.60M",
+        "crop_dmg": "5.00k",
+        "begin": "09/06/1996",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "09/01/2006",
+        "county": "CHARLES ",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1410",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/20/1978",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1756",
+        "inj": "122",
+        "deaths": "1",
+        "prop_dmg": "114M",
+        "crop_dmg": "0",
+        "begin": "04/28/2002",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1802",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "04/28/2002",
+        "county": "CHARLES CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "CHARLES ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "41",
+        "deaths": "0",
+        "prop_dmg": "5.70M",
+        "crop_dmg": "10.0k",
+        "begin": "09/18/2003",
+        "county": "CHARLES ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.30M",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "CHARLES ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "019": {
+    "name": "Dorchester County",
+    "fips": "MD",
+    "pop10": "32618",
+    "lat": 38.429196,
+    "lon": -76.047433,
+    "geoid": "24019",
+    "deaths": 1,
+    "prop_dmg": "2.74M",
+    "crop_dmg": "510k",
+    "inj": 0,
+    "all": 12,
+    "eq": [],
+    "Hurricane____Typhoon___": [
+      {
+        "type": "Hurricane+%28Typhoon%29",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "10.0k",
+        "begin": "09/15/1999",
+        "county": "DORCHESTER ",
+        "state": "MD"
+      }
+    ],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "11/12/2009",
+        "county": "DORCHESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "750k",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "DORCHESTER ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/20/2002",
+        "county": "DORCHESTER ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "2130",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/29/2008",
+        "county": "DORCHESTER CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2213",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "07/23/2014",
+        "county": "DORCHESTER CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2239",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "07/23/2014",
+        "county": "DORCHESTER CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1855",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "04/28/2002",
+        "county": "DORCHESTER CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.40M",
+        "crop_dmg": "0",
+        "begin": "09/18/2003",
+        "county": "DORCHESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "09/06/2008",
+        "county": "DORCHESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "500k",
+        "begin": "08/27/2011",
+        "county": "DORCHESTER ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [
+      {
+        "type": "Waterspout",
+        "time": "1630",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "08/25/1999",
+        "county": "DORCHESTER CO.",
+        "state": "MD"
+      }
+    ],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "021": {
+    "name": "Frederick County",
+    "fips": "MD",
+    "pop10": "233385",
+    "lat": 39.470427,
+    "lon": -77.397626,
+    "geoid": "24021",
+    "deaths": 10,
+    "prop_dmg": "22.3M",
+    "crop_dmg": "14.2M",
+    "inj": 7,
+    "all": 36,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [
+      {
+        "type": "Drought",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "14.2M",
+        "begin": "07/01/1997",
+        "county": "FREDERICK ",
+        "state": "MD"
+      }
+    ],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1930",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/10/1996",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2030",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/17/1996",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "0",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "5.00M",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "01/08/1998",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1600",
+        "inj": "1",
+        "deaths": "5",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0M",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "FREDERICK ",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "400",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "FREDERICK ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/02/2002",
+        "county": "FREDERICK ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [
+      {
+        "type": "Heavy+Rain",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/07/2005",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "03/29/1996",
+        "county": "FREDERICK ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "15.0k",
+        "begin": "01/15/1998",
+        "county": "FREDERICK ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "FREDERICK ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1410",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "07/19/1996",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1715",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "06/16/1998",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1521",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "130k",
+        "crop_dmg": "0",
+        "begin": "07/28/1999",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1845",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "4.30k",
+        "crop_dmg": "0",
+        "begin": "06/15/2000",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2030",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/25/2000",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2030",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/25/2000",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/26/2000",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1815",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "07/28/2000",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1350",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "08/01/2000",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1354",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "750k",
+        "crop_dmg": "0",
+        "begin": "08/07/2000",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1715",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/22/2001",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1303",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/03/2002",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1313",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/03/2002",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/12/2003",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1715",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/27/2003",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1801",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/07/2008",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/10/2008",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1815",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "07/31/1978",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1705",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "05/22/1983",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1850",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "09/17/2004",
+        "county": "FREDERICK CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "FREDERICK ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "023": {
+    "name": "Garrett County",
+    "fips": "MD",
+    "pop10": "30097",
+    "lat": 39.529871,
+    "lon": -79.269416,
+    "geoid": "24023",
+    "deaths": 1,
+    "prop_dmg": "5.22M",
+    "crop_dmg": 0,
+    "inj": 5,
+    "all": 24,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00M",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "6.00k",
+        "crop_dmg": "0",
+        "begin": "06/08/1996",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "06/14/1996",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "02/18/2000",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1132",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "04/22/2006",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "2330",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/17/2009",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flood",
+        "time": "1811",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "02/29/2012",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flood",
+        "time": "1830",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "02/29/2012",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [
+      {
+        "type": "Heavy+Snow",
+        "time": "300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "10/25/2005",
+        "county": "GARRETT ",
+        "state": "MD"
+      },
+      {
+        "type": "Heavy+Snow",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "10/28/2011",
+        "county": "GARRETT ",
+        "state": "MD"
+      }
+    ],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00k",
+        "crop_dmg": "0",
+        "begin": "01/02/1996",
+        "county": "GARRETT ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "03/28/1996",
+        "county": "GARRETT ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "04/07/2003",
+        "county": "GARRETT ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "8.00k",
+        "crop_dmg": "0",
+        "begin": "01/30/2005",
+        "county": "GARRETT ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "06/24/1996",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1500",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/24/1996",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1720",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "08/08/1996",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1815",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "05/19/1967",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1635",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/20/1977",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1355",
+        "inj": "4",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "06/03/1980",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "2038",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "06/02/1998",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "2050",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "06/02/1998",
+        "county": "GARRETT CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [
+      {
+        "type": "Winter+Storm",
+        "time": "400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "01/09/1997",
+        "county": "GARRETT ",
+        "state": "MD"
+      },
+      {
+        "type": "Winter+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "01/02/1999",
+        "county": "GARRETT ",
+        "state": "MD"
+      }
+    ],
+    "Winter_Weather": []
+  },
+  "025": {
+    "name": "Harford County",
+    "fips": "MD",
+    "pop10": "244826",
+    "lat": 39.537429,
+    "lon": -76.299789,
+    "geoid": "24025",
+    "deaths": 2,
+    "prop_dmg": "16.3M",
+    "crop_dmg": "4.21M",
+    "inj": 18,
+    "all": 29,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [
+      {
+        "type": "Drought",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "4.16M",
+        "begin": "07/01/1997",
+        "county": "HARFORD ",
+        "state": "MD"
+      }
+    ],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1630",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.00k",
+        "crop_dmg": "0",
+        "begin": "06/11/1996",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "8.00k",
+        "crop_dmg": "0",
+        "begin": "06/13/1998",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2135",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/02/2006",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "06/24/2006",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "12.0k",
+        "crop_dmg": "0",
+        "begin": "06/25/2006",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "06/26/2006",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "125k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/02/2002",
+        "county": "HARFORD ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [
+      {
+        "type": "Heavy+Snow",
+        "time": "2045",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "02/11/2006",
+        "county": "HARFORD ",
+        "state": "MD"
+      }
+    ],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "HARFORD ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1715",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/13/1998",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1535",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "08/14/1999",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "80.0k",
+        "crop_dmg": "0",
+        "begin": "08/14/1999",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1445",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "07/14/2000",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1830",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/14/2000",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1830",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "07/14/2000",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1602",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "07/10/2001",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1400",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/11/2001",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1450",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "400k",
+        "crop_dmg": "0",
+        "begin": "04/18/2002",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1750",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "06/06/2005",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1653",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/18/2011",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "07/19/1959",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1430",
+        "inj": "10",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "06/29/1980",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "350k",
+        "crop_dmg": "0",
+        "begin": "09/18/2004",
+        "county": "HARFORD CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "HARFORD ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1600",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "12.5M",
+        "crop_dmg": "50.0k",
+        "begin": "09/18/2003",
+        "county": "HARFORD ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.00M",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "HARFORD ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "027": {
+    "name": "Howard County",
+    "fips": "MD",
+    "pop10": "287085",
+    "lat": 39.252264,
+    "lon": -76.924406,
+    "geoid": "24027",
+    "deaths": 0,
+    "prop_dmg": "2.50M",
+    "crop_dmg": 0,
+    "inj": 0,
+    "all": 14,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1115",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2245",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1830",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "06/25/2006",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1805",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "07/08/1996",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1947",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "08/07/2000",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1538",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "08/11/2001",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "08/03/2002",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1544",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "55.0k",
+        "crop_dmg": "0",
+        "begin": "08/10/2004",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1810",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/01/2006",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1810",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/01/2006",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1915",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "07/31/1978",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1641",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "09/24/2001",
+        "county": "HOWARD CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "029": {
+    "name": "Kent County",
+    "fips": "MD",
+    "pop10": "20197",
+    "lat": 39.239176,
+    "lon": -76.1242,
+    "geoid": "24029",
+    "deaths": 0,
+    "prop_dmg": "11.3M",
+    "crop_dmg": "5.00k",
+    "inj": 8,
+    "all": 12,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "10/30/2012",
+        "county": "KENT ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "600k",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "KENT CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "2200",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/12/1998",
+        "county": "KENT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1040",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "05/24/1999",
+        "county": "KENT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1930",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/14/2000",
+        "county": "KENT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1430",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "5.00k",
+        "begin": "07/01/2001",
+        "county": "KENT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "12.0k",
+        "crop_dmg": "0",
+        "begin": "05/12/2002",
+        "county": "KENT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1555",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/20/2005",
+        "county": "KENT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1400",
+        "inj": "3",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/28/2007",
+        "county": "KENT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1905",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "09/01/2012",
+        "county": "KENT CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0M",
+        "crop_dmg": "0",
+        "begin": "09/19/2003",
+        "county": "KENT ",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "550k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "KENT ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "031": {
+    "name": "Montgomery County",
+    "fips": "MD",
+    "pop10": "971777",
+    "lat": 39.137381,
+    "lon": -77.203063,
+    "geoid": "24031",
+    "deaths": 10,
+    "prop_dmg": "31.3M",
+    "crop_dmg": "4.69M",
+    "inj": 45,
+    "all": 58,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [
+      {
+        "type": "Cold%2FWind+Chill",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "2.50k",
+        "begin": "03/11/1998",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [
+      {
+        "type": "Drought",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "4.69M",
+        "begin": "07/01/1997",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Dust_Devil": [
+      {
+        "type": "Dust+Devil",
+        "time": "1445",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "08/05/1999",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Dust+Devil",
+        "time": "1445",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "08/05/1999",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Dust_Storm": [],
+    "Excessive_Heat": [
+      {
+        "type": "Excessive+Heat",
+        "time": "1500",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/02/2000",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Extreme_Cold__FWind_Chill": [
+      {
+        "type": "Extreme+Cold%2FWind+Chill",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "02/04/2007",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "900",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1930",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/10/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1620",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.00k",
+        "crop_dmg": "0",
+        "begin": "06/11/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/17/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/18/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0k",
+        "crop_dmg": "0",
+        "begin": "06/20/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "04/22/2006",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.60M",
+        "crop_dmg": "0",
+        "begin": "06/25/2006",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1315",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/26/2006",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1530",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "2230",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0M",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "25",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/13/1997",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/16/1997",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "400",
+        "inj": "6",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/25/2002",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/02/2002",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/22/2002",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/24/2010",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [
+      {
+        "type": "Heavy+Rain",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00k",
+        "crop_dmg": "0",
+        "begin": "08/20/1997",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      },
+      {
+        "type": "Heavy+Rain",
+        "time": "1200",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "09/03/2000",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Heavy+Rain",
+        "time": "2000",
+        "inj": "1",
+        "deaths": "1",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "10/08/2005",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.90M",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "2000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.00k",
+        "crop_dmg": "0",
+        "begin": "06/10/1996",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1440",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/26/1997",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1740",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/21/1998",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1720",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "04/09/1999",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1600",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/14/1999",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1520",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.50k",
+        "crop_dmg": "0",
+        "begin": "08/14/1999",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.00M",
+        "crop_dmg": "0",
+        "begin": "06/20/2001",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "120k",
+        "crop_dmg": "0",
+        "begin": "06/22/2001",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "80.0k",
+        "crop_dmg": "0",
+        "begin": "07/01/2001",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2330",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "04/21/2002",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1745",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "45.0k",
+        "crop_dmg": "0",
+        "begin": "07/23/2002",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1515",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "08/26/2003",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1630",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "400k",
+        "crop_dmg": "0",
+        "begin": "05/17/2004",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1720",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "05/17/2004",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1725",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "05/17/2004",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1713",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "05/18/2004",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1718",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0k",
+        "crop_dmg": "0",
+        "begin": "05/18/2004",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1930",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.25M",
+        "crop_dmg": "0",
+        "begin": "05/25/2004",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1830",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "475k",
+        "crop_dmg": "0",
+        "begin": "06/06/2005",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1745",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "06/01/2006",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1745",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "06/01/2006",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1420",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/04/2008",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1425",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00k",
+        "crop_dmg": "0",
+        "begin": "06/04/2008",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "105k",
+        "crop_dmg": "0",
+        "begin": "07/27/2008",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1615",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/27/2008",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1330",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/23/2009",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1418",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/25/2010",
+        "county": "MONTGOMERY CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "300k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "MONTGOMERY ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "033": {
+    "name": "Prince George's County",
+    "fips": "MD",
+    "pop10": "863420",
+    "lat": 38.82588,
+    "lon": -76.847272,
+    "geoid": "24033",
+    "deaths": 6,
+    "prop_dmg": "113M",
+    "crop_dmg": "22.5k",
+    "inj": 105,
+    "all": 27,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [
+      {
+        "type": "Cold%2FWind+Chill",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "2.50k",
+        "begin": "03/11/1998",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      }
+    ],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [
+      {
+        "type": "Excessive+Heat",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/09/2008",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      }
+    ],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "1220",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/20/1996",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1930",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "40.0k",
+        "crop_dmg": "0",
+        "begin": "06/19/2006",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.50M",
+        "crop_dmg": "0",
+        "begin": "06/25/2006",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1812",
+        "inj": "3",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/01/2012",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/16/1997",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/20/1998",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "400",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/18/2006",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/29/2010",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "1200",
+        "inj": "28",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/2010",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "35.0k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1230",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/13/1997",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1450",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "325k",
+        "crop_dmg": "0",
+        "begin": "06/26/1997",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1630",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/15/1998",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1637",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "06/14/1999",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1415",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "04/21/2000",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1615",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/30/2001",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1915",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "300k",
+        "crop_dmg": "0",
+        "begin": "06/17/2004",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/27/2007",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "950",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "09/12/1971",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1959",
+        "inj": "3",
+        "deaths": "0",
+        "prop_dmg": "5.00M",
+        "crop_dmg": "0",
+        "begin": "10/05/1995",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1619",
+        "inj": "55",
+        "deaths": "2",
+        "prop_dmg": "100M",
+        "crop_dmg": "0",
+        "begin": "09/24/2001",
+        "county": "PRINCE GEORGE'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.55M",
+        "crop_dmg": "20.0k",
+        "begin": "09/18/2003",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.70M",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "PRINCE GEORGES ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "035": {
+    "name": "Queen Anne's County",
+    "fips": "MD",
+    "pop10": "47798",
+    "lat": 39.040693,
+    "lon": -76.082405,
+    "geoid": "24035",
+    "deaths": 1,
+    "prop_dmg": "38.7M",
+    "crop_dmg": 0,
+    "inj": 1,
+    "all": 8,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "1700",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "09/06/1996",
+        "county": "QUEEN ANNES ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "QUEEN ANNES ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "700k",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "QUEEN ANNE'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "60.0k",
+        "crop_dmg": "0",
+        "begin": "07/09/2003",
+        "county": "QUEEN ANNE'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "37.0M",
+        "crop_dmg": "0",
+        "begin": "09/19/2003",
+        "county": "QUEEN ANNES ",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "07/30/1971",
+        "county": "QUEEN ANNE'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Tornado",
+        "time": "1345",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "03/21/1976",
+        "county": "QUEEN ANNE'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "550k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "QUEEN ANNES ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "037": {
+    "name": "St. Mary's County",
+    "fips": "MD",
+    "pop10": "105151",
+    "lat": 38.222666,
+    "lon": -76.534271,
+    "geoid": "24037",
+    "deaths": 2,
+    "prop_dmg": "91.1M",
+    "crop_dmg": "52.5k",
+    "inj": 156,
+    "all": 24,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [
+      {
+        "type": "Cold%2FWind+Chill",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "2.50k",
+        "begin": "03/11/1998",
+        "county": "ST. MARY'S ",
+        "state": "MD"
+      }
+    ],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "02/04/1998",
+        "county": "ST. MARY'S ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1740",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "05/11/2008",
+        "county": "ST. MARY`S ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [
+      {
+        "type": "Dust+Devil",
+        "time": "1500",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "07/19/2009",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Dust+Devil",
+        "time": "1500",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "07/19/2009",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "1130",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/20/1996",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/20/1998",
+        "county": "ST. MARY'S ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "2125",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "05/04/1996",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1815",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/24/1996",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1930",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/26/1998",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.00k",
+        "crop_dmg": "0",
+        "begin": "07/15/2000",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "07/15/2000",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "530",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "160k",
+        "crop_dmg": "0",
+        "begin": "07/16/2000",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "08/16/2003",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1850",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "120k",
+        "crop_dmg": "0",
+        "begin": "06/17/2004",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1932",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0k",
+        "crop_dmg": "0",
+        "begin": "06/17/2004",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2345",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "06/04/2008",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2345",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/04/2008",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1714",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "06/14/2008",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "09/06/1996",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1845",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "10/13/1983",
+        "county": "ST. MARY'S CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "ST. MARY'S ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1300",
+        "inj": "154",
+        "deaths": "0",
+        "prop_dmg": "86.2M",
+        "crop_dmg": "50.0k",
+        "begin": "09/18/2003",
+        "county": "ST. MARY'S ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.80M",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "ST. MARY`S ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "039": {
+    "name": "Somerset County",
+    "fips": "MD",
+    "pop10": "26470",
+    "lat": 38.07445,
+    "lon": -75.853323,
+    "geoid": "24039",
+    "deaths": 0,
+    "prop_dmg": "5.83M",
+    "crop_dmg": "1.50M",
+    "inj": 0,
+    "all": 7,
+    "eq": [],
+    "Hurricane____Typhoon___": [
+      {
+        "type": "Hurricane+%28Typhoon%29",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "500k",
+        "begin": "09/15/1999",
+        "county": "SOMERSET ",
+        "state": "MD"
+      }
+    ],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "05/12/2008",
+        "county": "SOMERSET ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "11/12/2009",
+        "county": "SOMERSET ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00M",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "SOMERSET ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "346k",
+        "crop_dmg": "0",
+        "begin": "09/18/2003",
+        "county": "SOMERSET ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "09/06/2008",
+        "county": "SOMERSET ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "1.00M",
+        "begin": "08/27/2011",
+        "county": "SOMERSET ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "041": {
+    "name": "Talbot County",
+    "fips": "MD",
+    "pop10": "37782",
+    "lat": 38.749427,
+    "lon": -76.17913,
+    "geoid": "24041",
+    "deaths": 3,
+    "prop_dmg": "3.43M",
+    "crop_dmg": 0,
+    "inj": 44,
+    "all": 16,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [
+      {
+        "type": "Dense+Fog",
+        "time": "600",
+        "inj": "30",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "10/31/1997",
+        "county": "TALBOT ",
+        "state": "MD"
+      },
+      {
+        "type": "Dense+Fog",
+        "time": "500",
+        "inj": "8",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/25/1998",
+        "county": "TALBOT ",
+        "state": "MD"
+      }
+    ],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "900",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/01/2002",
+        "county": "TALBOT ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1630",
+        "inj": "5",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "06/26/1997",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "07/28/2000",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "150k",
+        "crop_dmg": "0",
+        "begin": "07/01/2001",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1630",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/18/2003",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "07/04/2008",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "06/09/2009",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2120",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00k",
+        "crop_dmg": "0",
+        "begin": "08/01/2011",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1550",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "08/26/2012",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1640",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "08/26/2012",
+        "county": "TALBOT CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "09/19/2003",
+        "county": "TALBOT ",
+        "state": "MD"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "TALBOT ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": [
+      {
+        "type": "Winter+Weather",
+        "time": "400",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "01/08/2011",
+        "county": "TALBOT ",
+        "state": "MD"
+      }
+    ]
+  },
+  "043": {
+    "name": "Washington County",
+    "fips": "MD",
+    "pop10": "147430",
+    "lat": 39.603621,
+    "lon": -77.814671,
+    "geoid": "24043",
+    "deaths": 0,
+    "prop_dmg": "17.6M",
+    "crop_dmg": "9.58M",
+    "inj": 5,
+    "all": 15,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [
+      {
+        "type": "Drought",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "9.50M",
+        "begin": "07/01/1997",
+        "county": "WASHINGTON ",
+        "state": "MD"
+      }
+    ],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2330",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "06/18/1996",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/27/2006",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "1000",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "15.0M",
+        "crop_dmg": "0",
+        "begin": "01/19/1996",
+        "county": "WASHINGTON ",
+        "state": "MD"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1400",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "05/18/1996",
+        "county": "WASHINGTON ",
+        "state": "MD"
+      },
+      {
+        "type": "Heat",
+        "time": "400",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "WASHINGTON ",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "03/29/1996",
+        "county": "WASHINGTON ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "5.00k",
+        "begin": "01/15/1998",
+        "county": "WASHINGTON ",
+        "state": "MD"
+      },
+      {
+        "type": "Ice+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "WASHINGTON ",
+        "state": "MD"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "1.00k",
+        "begin": "03/03/1999",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2045",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "50.0k",
+        "crop_dmg": "0",
+        "begin": "07/23/2003",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1414",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "70.0k",
+        "crop_dmg": "0",
+        "begin": "08/16/2003",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "1638",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/25/2007",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [
+      {
+        "type": "Tornado",
+        "time": "1412",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "400k",
+        "crop_dmg": "75.0k",
+        "begin": "07/19/1996",
+        "county": "WASHINGTON CO.",
+        "state": "MD"
+      }
+    ],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "045": {
+    "name": "Wicomico County",
+    "fips": "MD",
+    "pop10": "98733",
+    "lat": 38.367389,
+    "lon": -75.632206,
+    "geoid": "24045",
+    "deaths": 1,
+    "prop_dmg": "910k",
+    "crop_dmg": "1.06M",
+    "inj": 1,
+    "all": 9,
+    "eq": [],
+    "Hurricane____Typhoon___": [
+      {
+        "type": "Hurricane+%28Typhoon%29",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "60.0k",
+        "begin": "09/15/1999",
+        "county": "WICOMICO ",
+        "state": "MD"
+      }
+    ],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "250k",
+        "crop_dmg": "0",
+        "begin": "10/29/2012",
+        "county": "WICOMICO ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "2125",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "06/15/1998",
+        "county": "WICOMICO CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2324",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "04/09/2001",
+        "county": "WICOMICO CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2115",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/01/2009",
+        "county": "WICOMICO CO.",
+        "state": "MD"
+      },
+      {
+        "type": "Lightning",
+        "time": "2015",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "09/05/2012",
+        "county": "WICOMICO CO.",
+        "state": "MD"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "440k",
+        "crop_dmg": "0",
+        "begin": "09/18/2003",
+        "county": "WICOMICO ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "09/06/2008",
+        "county": "WICOMICO ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "1.00M",
+        "begin": "08/27/2011",
+        "county": "WICOMICO ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  },
+  "047": {
+    "name": "Worcester County",
+    "fips": "MD",
+    "pop10": "51454",
+    "lat": 38.222133,
+    "lon": -75.309931,
+    "geoid": "24047",
+    "deaths": 6,
+    "prop_dmg": "10.7M",
+    "crop_dmg": "1.02M",
+    "inj": 1,
+    "all": 24,
+    "eq": [],
+    "Hurricane____Typhoon___": [
+      {
+        "type": "Hurricane+%28Typhoon%29",
+        "time": "200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "15.0k",
+        "begin": "07/13/1996",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Hurricane+%28Typhoon%29",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "09/06/1996",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Hurricane+%28Typhoon%29",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00k",
+        "crop_dmg": "0",
+        "begin": "09/15/1999",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Hurricane+%28Typhoon%29",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "5.00k",
+        "begin": "09/15/1999",
+        "county": "INLAND WORCESTER ",
+        "state": "MD"
+      }
+    ],
+    "Cold__FWind_Chill": [],
+    "Coastal_Flood": [
+      {
+        "type": "Coastal+Flood",
+        "time": "1400",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.50M",
+        "crop_dmg": "0",
+        "begin": "01/27/1998",
+        "county": "MARYLAND BEACHES / X E WORCESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.50M",
+        "crop_dmg": "0",
+        "begin": "02/04/1998",
+        "county": "MARYLAND BEACHES / X E WORCESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "0",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "05/12/2008",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "500k",
+        "crop_dmg": "0",
+        "begin": "11/12/2009",
+        "county": "INLAND WORCESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "1.00M",
+        "crop_dmg": "0",
+        "begin": "11/12/2009",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.50M",
+        "crop_dmg": "0",
+        "begin": "10/28/2012",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Coastal+Flood",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.00M",
+        "crop_dmg": "0",
+        "begin": "10/28/2012",
+        "county": "INLAND WORCESTER ",
+        "state": "MD"
+      }
+    ],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [],
+    "Flood": [],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [],
+    "Heavy_Rain": [
+      {
+        "type": "Heavy+Rain",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "07/08/2005",
+        "county": "WORCESTER CO.",
+        "state": "MD"
+      }
+    ],
+    "Heavy_Snow": [],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [],
+    "Rip_Current": [
+      {
+        "type": "Rip+Current",
+        "time": "1330",
+        "inj": "1",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/03/2006",
+        "county": "MARYLAND BEACHES / X E WORCESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Rip+Current",
+        "time": "1300",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/13/2014",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Rip+Current",
+        "time": "1530",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/02/2014",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Rip+Current",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/26/2014",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Rip+Current",
+        "time": "1230",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "09/17/2014",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Rip+Current",
+        "time": "1700",
+        "inj": "0",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "09/17/2014",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      }
+    ],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "10/08/1996",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "900",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "275k",
+        "crop_dmg": "0",
+        "begin": "09/18/2003",
+        "county": "INLAND WORCESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "5.00k",
+        "crop_dmg": "0",
+        "begin": "09/06/2008",
+        "county": "INLAND WORCESTER ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "700",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "09/06/2008",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "MARYLAND BEACHES ",
+        "state": "MD"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "100k",
+        "crop_dmg": "1.00M",
+        "begin": "08/27/2011",
+        "county": "INLAND WORCESTER ",
+        "state": "MD"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  }
+}

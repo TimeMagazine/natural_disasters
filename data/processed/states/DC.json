@@ -1,0 +1,308 @@
+{
+  "001": {
+    "name": "District of Columbia",
+    "fips": "DC",
+    "pop10": "601723",
+    "lat": 38.904149,
+    "lon": -77.017094,
+    "geoid": "11001",
+    "deaths": 8,
+    "prop_dmg": "148M",
+    "crop_dmg": 0,
+    "inj": 331,
+    "all": 22,
+    "eq": [],
+    "Hurricane____Typhoon___": [],
+    "Cold__FWind_Chill": [
+      {
+        "type": "Cold%2FWind+Chill",
+        "time": "700",
+        "inj": "0",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "02/05/2002",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      }
+    ],
+    "Coastal_Flood": [],
+    "Avalanche": [],
+    "Astronomical_Low_Tide": [],
+    "Dense_Fog": [],
+    "Drought": [],
+    "Dust_Devil": [],
+    "Dust_Storm": [],
+    "Excessive_Heat": [],
+    "Extreme_Cold__FWind_Chill": [],
+    "Flash_Flood": [
+      {
+        "type": "Flash+Flood",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "30.0k",
+        "crop_dmg": "0",
+        "begin": "06/20/1996",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2045",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "06/23/1998",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      },
+      {
+        "type": "Flash+Flood",
+        "time": "2100",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0M",
+        "crop_dmg": "0",
+        "begin": "06/25/2006",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      }
+    ],
+    "Flood": [
+      {
+        "type": "Flood",
+        "time": "730",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0M",
+        "crop_dmg": "0",
+        "begin": "01/20/1996",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      }
+    ],
+    "Freezing_Fog": [],
+    "Funnel_Cloud": [],
+    "Hail": [],
+    "Heat": [
+      {
+        "type": "Heat",
+        "time": "1400",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "05/18/1996",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      },
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "150",
+        "deaths": "2",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/13/1997",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      },
+      {
+        "type": "Heat",
+        "time": "1100",
+        "inj": "25",
+        "deaths": "1",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "08/16/1997",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      },
+      {
+        "type": "Heat",
+        "time": "800",
+        "inj": "140",
+        "deaths": "3",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "07/04/1999",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      },
+      {
+        "type": "Heat",
+        "time": "1000",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "05/06/2000",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      }
+    ],
+    "Heavy_Rain": [
+      {
+        "type": "Heavy+Rain",
+        "time": "600",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "3.00k",
+        "crop_dmg": "0",
+        "begin": "08/20/1997",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      },
+      {
+        "type": "Heavy+Rain",
+        "time": "600",
+        "inj": "2",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/07/2003",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      }
+    ],
+    "Heavy_Snow": [
+      {
+        "type": "Heavy+Snow",
+        "time": "430",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "02/12/2006",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      }
+    ],
+    "High_Surf": [],
+    "High_Wind": [],
+    "Ice_Storm": [
+      {
+        "type": "Ice+Storm",
+        "time": "300",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "20.0k",
+        "crop_dmg": "0",
+        "begin": "01/14/1999",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      }
+    ],
+    "Lakeshore_Flood": [],
+    "Landslide": [],
+    "Lightning": [
+      {
+        "type": "Lightning",
+        "time": "1738",
+        "inj": "1",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/19/1996",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      },
+      {
+        "type": "Lightning",
+        "time": "2200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "25.0k",
+        "crop_dmg": "0",
+        "begin": "06/20/1996",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      },
+      {
+        "type": "Lightning",
+        "time": "1443",
+        "inj": "11",
+        "deaths": "0",
+        "prop_dmg": "0",
+        "crop_dmg": "0",
+        "begin": "06/13/1998",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      },
+      {
+        "type": "Lightning",
+        "time": "1630",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "10.0k",
+        "crop_dmg": "0",
+        "begin": "08/14/1999",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      }
+    ],
+    "Rip_Current": [],
+    "Seiche": [],
+    "Sleet": [],
+    "Storm_Surge__FTide": [
+      {
+        "type": "Storm+Surge%2FTide",
+        "time": "1200",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "75.0k",
+        "crop_dmg": "0",
+        "begin": "09/06/1996",
+        "county": "DISTRICT OF COLUMBIA CO.",
+        "state": "DC"
+      }
+    ],
+    "Strong_Wind": [],
+    "Thunderstorm_Wind": [],
+    "Tornado": [],
+    "Tropical_Depression": [],
+    "Tropical_Storm": [
+      {
+        "type": "Tropical+Storm",
+        "time": "800",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "200k",
+        "crop_dmg": "0",
+        "begin": "09/16/1999",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "125M",
+        "crop_dmg": "0",
+        "begin": "09/18/2003",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      },
+      {
+        "type": "Tropical+Storm",
+        "time": "1500",
+        "inj": "0",
+        "deaths": "0",
+        "prop_dmg": "2.40M",
+        "crop_dmg": "0",
+        "begin": "08/27/2011",
+        "county": "DISTRICT OF COLUMBIA ",
+        "state": "DC"
+      }
+    ],
+    "Tsunami": [],
+    "Volcanic_Ashfall": [],
+    "Waterspout": [],
+    "Wildfire": [],
+    "Winter_Storm": [],
+    "Winter_Weather": []
+  }
+}

@@ -1,0 +1,55 @@
+<div id='no-scroll'>
+<div id='tab'>&#10095;</div>
+<div class='social_btns'>
+	<div style='display:inline-block;vertical-align: super;'>SHARE THIS COUNTY </div>
+	<img class='social_btn' id="fbshare" src='http://img.timeinc.net/time/wp/interactives/apps/baby_predictor/img/facebook.png' />
+	<img class='social_btn' id="twshare" src='http://img.timeinc.net/time/wp/interactives/apps/baby_predictor/img/twitter.png' />
+	<div id='close'>X</div>
+</div>
+</div>
+<div class='top-summary'>
+<h1 class=''><%= name %></h1>
+<h4 class='top'><%= fipsFull %><h4>
+<h4 class='ranking'>Ranks <%= rankFormat %> out of 3,114 in safety from natural disasters</h4>
+<div class='legend'>
+	<span class='downarrow triangle'></span>
+	<div class='gradient'>
+	</div>
+</div>
+
+<h5 style='float: left'>MORE SAFE</h5>
+<h5 style='float: right'>LESS SAFE</h5>
+
+</div>
+<table>
+ <tr>
+ 	<th></th>
+ 	<th>County</th>
+ 	<th>Region Average</th>
+ </tr>
+ <tr>
+ 	<td>Disasters</td>
+ 	<td><%= all %></td>
+ 	<td><%= neighborAll %></td>
+ </tr>
+  <tr>
+ 	<td>Fatalities</td>
+ 	<td><%= deaths %></td>
+ 	<td><%= neighborDeath %></td>
+ </tr>
+   <tr>
+ 	<td>Property Damage</td>
+ 	<td>$<%= prop_dmg %></td>
+ 	<td>$<%= neighborPropdmg %></td>
+ </tr>
+   <tr>
+ 	<td>Crop Damage</td>
+ 	<td>$<%= crop_dmg %></td>
+ 	 <td>$<%= neighborCropdmg %></td>
+ </tr>
+  <tr>
+ 	<td>2010 Population</td>
+ 	<td><%= pop10 %></td>
+ 	<td> -- </td>
+ </tr>
+</table>
