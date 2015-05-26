@@ -5,7 +5,7 @@
 		topojson = require("topojson"),
 		typeahead = require("typeahead-fix"),
 		social = require("social-buttons");
-		
+
 	// Templates 
 	var choices = require("./src/choices.html"),
 		tableRow = require("./src/table-row.html"),
@@ -13,10 +13,9 @@
 
 	// Geography and data files
 	var	geo = require('./data/geo/us-counties.json'),
-		statesRef = require('./data/raw/statesRef.json'),
+		statesRef = require('./data/raw/state-names.json'),
 		countyIndex = require('./data/raw/county-index.json'),
 		counties = require('./data/processed/counties.json');
-		
 
 	var interactive = time('natural_disasters');
 
@@ -28,39 +27,32 @@
 	var safest = ['30097','16087','30107','41055','51595','30027','30051','35029','35017','41045','46107','30041','30093','16027','30037'];
 	var cuidado = ['34029','6059','34025','6037','36019,','34005','6073','36033,','6065','6071','34001','50007','50013','34007']; //34009
     
-    var newCounties = d3.entries(counties);
-    var current = {
-    	fips: '',
-    	county: '',
-    	rank: 0
-    };
+	var newCounties = d3.entries(counties);
+	var current = {
+		fips: '',
+		county: '',
+		rank: 0
+	};
 
 	var formatValue = d3.format(".3s");
 	var formatTenths = d3.format('.1f');
 	// Stylesheet
 	require("./src/styles.less");
-    // HTML
+	// HTML
 	$(interactive.el).append(choices());  
 
 	var empty = [],
 		margin = interactive.width() < 500 ? {top: 20, right: 10, bottom: 30, left: 10} : {top: 20, right: 30, bottom: 30, left: 30},
 		width =  interactive.width(),
-		// height =  width/1.8,
 		height = width < 500 ? 300 : (width/1.8),
 		centered;
 
 	var rateById = d3.map();
 	
 	var quantize = d3.scale.log()
-		 .domain([1,75]).range(['#FFFFEC','#FF4D1A'])  // all events  '#FFFFEC','#FF4D1A'   max = 223
-		 // .domain([1,30]).range(['#FFF3FF','#b0007f'])  // tornados 	 '#FFF3FF','#b0007f'   max = 43
-		 // .domain([1,50]).range(['#FFEDCC','#E54221'])  // wildfires   '#FFEDCC','#E54221'   max = 75 
-		 // .domain([1,30]).range(['#CCFFFF','#005BAA'])  // floods      '#CCFFFF','#005BAA'   max = 55
-		 // .domain([1,10]).range(['#B2E5E1','#00A99D'])  // hurricanes  '#B2E5E1','#00A99D'   max = 17
-		 // .domain([1,5]).range(['#DCEAF2','#2C3A42'])  // earthquakes  ['#DCEAF2','#2C3A42' max = 9
-		
+		 .domain([1,75]).range(['#FFFFEC','#FF4D1A'])
 		.interpolate(d3.interpolateRgb);
- 
+	
 	function sort(type, second){
 		var max = 0;
 		newCounties.forEach(function(c, i){			
@@ -89,13 +81,13 @@
 	
 	function checkHash(){
 		if (window.location.hash){
- 		var fips = window.location.hash.replace('#','');
- 			countiesGeo.forEach(function(county, i) {
+		var fips = window.location.hash.replace('#','');
+			countiesGeo.forEach(function(county, i) {
 				if (county.id == fips){
 					clicked(county)
 				}
 			});
- 		};
+		};
 	};
 
 	var projection = d3.geo.albers()
@@ -112,44 +104,39 @@
 	$('#drawer').css('height', height + 2);
 
 	svg.append("rect")
-    	.attr("class", "background")
-    	.attr("width", width)
-    	.attr("height",height)
-     	.on("click", clicked);
+		.attr("class", "background")
+		.attr("width", width)
+		.attr("height",height)
+	 	.on("click", clicked);
 	
 	var g = svg.append("g")
 
 	function ready() {	
-    
-  		g.append("g")
-    	.attr("id", "counties")
-    	.selectAll("path")
-    	  .data(topojson.feature(geo, geo.objects.counties).features)
-    	.enter().append("path")
-    	 .attr('class', function(d) { return 'county'; })
-    	 .attr('id', function(d) { return 'ID' +d.id; })
-     	 .style("fill", function(d) { return quantize(rateById.get(d.id));})
-
-    	  // .attr("class", function(d, i) { return 'county ' +quantize(rateById.get(d.id)) + ' ' + d.id ; })
-
-    	  .tooltip(
+	
+		g.append("g")
+			.attr("id", "counties")
+			.selectAll("path")
+			.data(topojson.feature(geo, geo.objects.counties).features)
+		  .enter().append("path")
+			.attr('class', function(d) { return 'county'; })
+			.attr('id', function(d) { return 'ID' +d.id; })
+			.style("fill", function(d) { return quantize(rateById.get(d.id));})
+			.tooltip(
 			//mouseover
- 			function(d, i, obj) {
-							
-				d3.selectAll(".county").style({'stroke' : '#888', 'stroke-width': .1});
-				d3.select(obj).style({'stroke' : '#fff', 'stroke-width': 2});
-				
-				return   "<div><h5>" + counties[d.id].name +", "+ counties[d.id]['fips']  +
-				    "</h5><br>Ranks "+time.commafy(counties[d.id].rank) +" out of 3,114 in safety from natural disasters.</br><br><em>Click for county details</em></br></div>";
-				}
-			)
-    	  .attr("d", path)
-    	  .on("click", clicked);
+				function(d, i, obj) {
+					d3.selectAll(".county").style({'stroke' : '#888', 'stroke-width': .1});
+					d3.select(obj).style({'stroke' : '#fff', 'stroke-width': 2});
+					return   "<div><h5>" + counties[d.id].name +", "+ counties[d.id]['fips']  +
+					    "</h5><br>Ranks "+time.commafy(counties[d.id].rank) +" out of 3,114 in safety from natural disasters.</br><br><em>Click for county details</em></br></div>";
+					}
+				)
+			.attr("d", path)
+			.on("click", clicked);
 
-	   g.append("path")
-	      .datum(topojson.mesh(geo, geo.objects.states, function(a, b) { return a !== b; }))
-	     .attr("id", "state-borders")
-	      .attr("d", path)
+		g.append("path")
+			.datum(topojson.mesh(geo, geo.objects.states, function(a, b) { return a !== b; }))
+			.attr("id", "state-borders")
+			.attr("d", path)
 			.style('fill','none')
 			.style('stroke-width',1.8);
 	}
@@ -177,7 +164,7 @@
 			var events = require("./data/raw/events.json");
 
 	  	  	// d3.json("http://content.time.com/time/wp/interactives/apps/natural_disasters/states/"+counties[d.id]['fips']+".json", function(error, json) {	
-	  	  	d3.json("data/json/states/"+counties[d.id]['fips']+".json", function(error, json) {
+	  	  	d3.json("data/processed/states/"+counties[d.id]['fips']+".json", function(error, json) {
 			 	if (error) return console.warn(error);
 			   	$('.details').empty();
 			   	
@@ -224,33 +211,32 @@
 			    $("#fbshare").unbind("click");        
 
 			    $("#twshare").click(function() {
-			      tw.share({
-			        link: window.location,
-			        message: current.county + ", " + current.fips + " ranks " + current.rank+ " out of 3,114 in safety from natural disasters. See where your county ranks."
-			      });
-			    });
+					tw.share({
+						link: window.location,
+						message: current.county + ", " + current.fips + " ranks " + current.rank+ " out of 3,114 in safety from natural disasters. See where your county ranks."
+					});
+				});
 
 			    $("#fbshare").click(function() {
-			      fb.share({
-			        message: current.county + ", " + current.fips + " ranks " + current.rank+ " out of 3,114 in safety from natural disasters. See where your county ranks.",
-			        description: "Safest to most dangerous U.S. counties from natural disasters.",
-			        picture: "http://i.imgur.com/UzESdFc.png"
-			      });
-			    });
+					fb.share({
+						message: current.county + ", " + current.fips + " ranks " + current.rank+ " out of 3,114 in safety from natural disasters. See where your county ranks.",
+						description: "Safest to most dangerous U.S. counties from natural disasters.",
+						picture: "http://i.imgur.com/UzESdFc.png"
+					});
+				});
+			});
 
-
-			 });
 			d3.select('#state-borders')
 				.transition()
-        		.duration(800)
-        		.style("stroke-width", .4)
+	     		.duration(800)
+	     		.style("stroke-width", .4)
 
 	  	} else {
 	  		
 	  		d3.select('#state-borders')
 	  			.transition()
-        		.duration(800)
-        		.style("stroke-width", 1.5)
+	     		.duration(800)
+	     		.style("stroke-width", 1.5)
 	  		$('#reset').removeClass('active');
 	  		$('#drawer').removeClass('active');
 	  	  	x = width / 2;
@@ -344,11 +330,11 @@
 	});
 
 	$("#roster").keyup(function(event){
-	    if(event.keyCode == 13){
-	        var val = $('#roster').val();
-	        if (isNaN(val)){
-	        	$("#roster").click();	
-	        } else {
+		if(event.keyCode == 13){
+			var val = $('#roster').val();
+			if (isNaN(val)){
+				$("#roster").click();	
+			} else {
 				if (val.length == 5){
 					// we have a zip folks!
 					var fips = zipIndex[val].countyFIP;
