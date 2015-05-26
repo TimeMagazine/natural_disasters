@@ -1,28 +1,26 @@
-## Most Dangerous U.S. County by Natural Disasters
+## Most Dangerous U.S. County
 
-The `getEvents.js` script downloads all natural disaster data from the National Oceanic and Atmospheric Administration and organizes it by state and county. The script produces a JSON file for each state in `processed/states/` folder. 
+The `getEvents.js` script, found in the data folder, downloads all natural disaster data from the National Oceanic and Atmospheric Administration and organizes it by state and county. The script produces a JSON file for each state in `processed/states/` folder. 
 
 ### Usage
 
-To recreate the state files, download and install [node.js](https://nodejs.org/), then run `npm install` to get the dependencies. 
+To recreate the state files, download and install [node.js](https://nodejs.org/), then run `npm install` to download the necessary node modules.
 
-Then run `node getEvents.js` to start the script. The script may take up to two hours to download all NOAA events, but downcache will cache the files locally for future instances. 
+Then navigate to the data folder and run `node getEvents.js`. The script may take up to two hours to download all NOAA events, but downcache will cache the files locally for future instances. Upon completion, the state files will be updated with the latest natural disasters from NOAA.
 
 ### Data
 
-The natural disaster events comes from two sources:
+The natural disasters are downloaded from:
 
 1. NOAA [storm events database](https://www.ncdc.noaa.gov/stormevents/choosedates.jsp?statefips=-999%2CALL) 
 2. NOAA [significant earthquake archive](http://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1) 
 
-The first data source covers years 1950 to 2015, with 41 types of events, ranging from heavy fogs to rip tides. The second database only contains earthquakes. 
+The first database contains 41 types of events, ranging from comheavy fogs to rip tides. The second database only contains earthquakes. 
 
-#### Converting geographies to counties
+#### Converting geographies to U.S. counties
 
 The NOAA events come in various geographies, e.g. hurricanes use National Weather Zones, and earthquakes are recorded in latitude and longitude. The following geographic data is used to convert geographies into U.S. counties for the final map. All of these files can be found in the folder `data/raw`.
 
-- [U.S. Counties]
-
 - The latitude and longitude from [National Weather Services Zones](http://www.aprs-is.net/WX/Default.aspx) is used to locate weather events in counties.
 
- - The FCC [Census Block Conversions API](https://www.fcc.gov/developers/census-block-conversions-api) converts lat and lon from earthquakes to counties. 
+- The FCC [Census Block Conversions API](https://www.fcc.gov/developers/census-block-conversions-api) converts lat and lon from earthquakes to counties. 

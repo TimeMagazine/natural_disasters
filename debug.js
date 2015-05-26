@@ -7,7 +7,7 @@
 		social = require("social-buttons");
 		
 	// Templates 
-	var choices = require("./src/choices-choropleth.html"),
+	var choices = require("./src/choices.html"),
 		tableRow = require("./src/table-row.html"),
 		countyTemplate = require("./src/county.html");
 
