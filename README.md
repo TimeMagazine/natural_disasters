@@ -15,11 +15,11 @@ The natural disasters are downloaded from:
 1. NOAA [storm events database](https://www.ncdc.noaa.gov/stormevents/choosedates.jsp?statefips=-999%2CALL) 
 2. NOAA [significant earthquake archive](http://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1) 
 
-The first database contains 41 types of events, ranging from comheavy fogs to rip tides. The second database only contains earthquakes. 
+The first database contains 41 types of events, ranging from heavy fogs to rip tides. The second database only contains earthquakes. 
 
 #### Converting geographies to U.S. counties
 
-The NOAA events come in various geographies, e.g. hurricanes use National Weather Zones, and earthquakes are recorded in latitude and longitude. The following geographic data is used to convert geographies into U.S. counties for the final map. All of these files can be found in the folder `data/raw`.
+The NOAA events come in various geographies, e.g. hurricanes use National Weather Zones, and earthquakes are recorded in latitude and longitude. The following geographic data, contained in the `data/raw` folder, is used in the `getEvents.js` script to convert other geographies to U.S. counties for the final map. 
 
 - The latitude and longitude from [National Weather Services Zones](http://www.aprs-is.net/WX/Default.aspx) is used to locate weather events in counties.
 

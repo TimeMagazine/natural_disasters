@@ -1,0 +1,22 @@
+{
+    "name": "summer_movies",
+    "version": "0.0.1",
+    "description": "",
+    "repository": {},
+    "dependencies": {
+        "browserify": ">= 4.1.6",
+        "node-lessify": ">= 0.0.1",
+        "node-csvify": ">= 0.0.1",
+        "node-underscorify": "0.0.7",
+        "downcache": ">= 0.0.3",
+        "cheerio": ">= 0.16.0",
+        "d3": "3.5.5",
+        "downcache":"0.0.8",
+        "topojson":"1.6.15",
+        "typeahead.js": "0.9.3"
+    },
+    "scripts" : {},
+    "browserify": {
+        "transform": ["node-lessify", "node-underscorify", "node-csvify"]
+    }
+}
