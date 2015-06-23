@@ -1,12 +1,20 @@
-## Most Dangerous U.S. County
+## Natural Disaster data
+
+These scripts will download and collate huge amounts of information on natural disasters.
+
 
 The `getEvents.js` script, found in the data folder, downloads all natural disaster data from the National Oceanic and Atmospheric Administration and organizes it by state and county. The script produces a JSON file for each state in `processed/states/` folder. 
 
 ### Usage
 
-To recreate the state files, download and install [node.js](https://nodejs.org/), then run `npm install` to download the necessary node modules.
+	git clone https://github.com/TimeMagazine/natural_disasters && cd natural_disasters
+	npm install
 
-Then navigate to the data folder and run `node getEvents.js`. The script may take up to two hours to download all NOAA events, but downcache will cache the files locally for future instances. Upon completion, the state files will be updated with the latest natural disasters from NOAA.
+To download the raw files, run this:
+
+	node lib/getEvents.js
+
+**Warning**: The script may take up to two hours to download all NOAA events, but the [downcache module](https://github.com/wilson428/downcache) will cache the files locally for future references. Upon completion, the state files will be updated with the latest natural disasters from NOAA.
 
 ### Data
 
